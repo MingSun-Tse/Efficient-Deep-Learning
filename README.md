@@ -1,5 +1,5 @@
-# Efficient DNNs
-A collection of recent methods on DNN compression and acceleration
+# EfficientDNNs
+A collection of recent methods on DNN compression and acceleration.
 ## [2012-AAAI-all papers]()
 ## [2012-ICLR-all papers]()
 ## [2012-CVPR-all papers]()
@@ -33,26 +33,31 @@ A collection of recent methods on DNN compression and acceleration
 ## [2015-AAAI-all papers]()
 ## [2015-ICLR-all papers]()
 ## [2015-CVPR-all papers]()
+- 2015-CVPR-Fully convolutional networks for semantic segmentation
+- 2015-CVPR-Learning to generate chairs with convolutional neural networks
+- 2015-CVPR-Single image super-resolution from transformed selfexemplars
 ## [2015-ICML-all papers]()
 ## [2015-IJCAI-all papers]()
-## [2015-ECCV-all papers]()
+## [2015-ICCV-all papers]()
+- 2015-ICCV-Deeply improved sparse coding for image super-resolution
 ## [2015-BMVC-all papers]()
 ## [2015-NIPS-all papers]()
 ## [2015-ACCV-all papers]()
-
+- 2015-TPAMI-Image super-resolution using deep convolutional networks [[paper](https://arxiv.org/pdf/1501.00092.pdf)]
 ## [2016-AAAI-all papers]()
 ## [2016-ICLR-all papers]()
 - 2016-ICLR-All you need is a good init
 ## [2016-CVPR-all papers]()
+- 2016-CVPR-Accurate image super-resolution using very deep convolutional networks
 ## [2016-ICML-all papers]()
 ## [2016-IJCAI-all papers]()
 ## [2016-ECCV-all papers]()
-- [2016-ECCV-Accelerating the Super-Resolution Convolutional Neural Network](https://arxiv.org/abs/1608.00367)
+- 2016-ECCV-Accelerating the Super-Resolution Convolutional Neural Network [[paper](https://arxiv.org/abs/1608.00367)][[code](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)]
 ## [2016-BMVC-all papers]()
 ## [2016-NIPS-all papers]()
 ## [2016-ACCV-all papers]()
-## [2016-EMNLP-all papers]
-- [2016-EMNLP-Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
+## [2016-Others]
+- 2016-EMNLP-Sequence-Level Knowledge Distillation [[paper](https://arxiv.org/abs/1606.07947)]
 
 
 ## [2017-AAAI-all papers]()
