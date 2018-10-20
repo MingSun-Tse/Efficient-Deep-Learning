@@ -6,6 +6,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - matrix decomposition
 - knowledge distillation
 
+> PS. In the list below, o for oral, w for workshop, s for spotlight.
+
 ## [2012-AAAI-all papers]()
 ## [2012-ICLR-all papers]()
 ## [2012-CVPR-all papers]()
@@ -130,6 +132,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 ## [2018-NIPS-all papers](https://nips.cc/Conferences/2018/Schedule)
 - 2018-NIPS-Discrimination-aware Channel Pruning for Deep Neural Networks
 - 2018-NIPS-Frequency-Domain Dynamic Pruning for Convolutional Neural Networks
+- 2018-NIPS-ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions
+
+## [2018-NIPSw-CDNNRIA-all papers](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)
+Workshop CDNNRIA: Compact Deep Neural Network Representation with Industrial Applications.
 
 ## 2018-Others
 - 2018.5-Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints [[paper](https://arxiv.org/abs/1805.08303)]
