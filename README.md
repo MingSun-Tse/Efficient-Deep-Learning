@@ -61,22 +61,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 ## [2016-IJCAI-all papers]()
 ## [2016-ECCV-all papers]()
 - 2016-ECCV-Accelerating the Super-Resolution Convolutional Neural Network [[paper](https://arxiv.org/abs/1608.00367)][[code](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)]
-## [2016-BMVC-all papers]()
-## [2016-NIPS-all papers]()
-## [2016-ACCV-all papers]()
 ## [2016-Others]
 - 2016-EMNLP-Sequence-Level Knowledge Distillation [[paper](https://arxiv.org/abs/1606.07947)]
 
 
-## [2017-AAAI-all papers]()
-## [2017-ICLR-all papers]()
+
 ## [2017-CVPR-all papers]()
 - 2017-CVPR-All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation
-## [2017-ICML-all papers]()
-## [2017-IJCAI-all papers]()
-## [2017-ECCV-all papers]()
-## [2017-BMVC-all papers]()
-## [2017-NIPS-all papers]()
 
 ---
 ## [2018-AAAI-all papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
@@ -133,16 +124,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-Discrimination-aware Channel Pruning for Deep Neural Networks
 - 2018-NIPS-Frequency-Domain Dynamic Pruning for Convolutional Neural Networks
 - 2018-NIPS-ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions
+- 2018-NIPS-DropBlock: A regularization method for convolutional networks [[paper]](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
 
 ## [2018-NIPSw-CDNNRIA-all papers](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)
 Workshop CDNNRIA: Compact Deep Neural Network Representation with Industrial Applications.
 
 ## 2018-Others
-- 2018.5-Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints [[paper](https://arxiv.org/abs/1805.08303)]
-- 
+- 2018.11-Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs [[paper](https://arxiv.org/abs/1811.12019)]
+- 2018.11-Rethinking ImageNet Pre-training [[paper](https://arxiv.org/abs/1811.08883)]
+- 2018.05-Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints [[paper](https://arxiv.org/abs/1805.08303)]
 
 ## News & Blogs
+- [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
 - [机器之心-腾讯AI Lab PocketFlow (in Chinese)](https://www.jiqizhixin.com/articles/2018-09-17-6)
-
 
 
