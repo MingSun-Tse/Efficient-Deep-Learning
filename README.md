@@ -8,73 +8,73 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 > PS. In the list below, o for oral, w for workshop, s for spotlight.
 
-## [2012-AAAI-all papers]()
-## [2012-ICLR-all papers]()
-## [2012-CVPR-all papers]()
-## [2012-ICML-all papers]()
-## [2012-IJCAI-all papers]()
-## [2012-ECCV-all papers]()
-## [2012-BMVC-all papers]()
-## [2012-NIPS-all papers]()
-## [2012-ACCV-all papers]()
+## [2012-AAAI]()
+## [2012-ICLR]()
+## [2012-CVPR]()
+## [2012-ICML]()
+## [2012-IJCAI]()
+## [2012-ECCV]()
+## [2012-BMVC]()
+## [2012-NIPS]()
+## [2012-ACCV]()
 
-## [2013-AAAI-all papers]()
-## [2013-ICLR-all papers]()
-## [2013-CVPR-all papers]()
-## [2013-ICML-all papers]()
-## [2013-IJCAI-all papers]()
-## [2013-ECCV-all papers]()
-## [2013-BMVC-all papers]()
-## [2013-NIPS-all papers]()
-## [2013-ACCV-all papers]()
+## [2013-AAAI]()
+## [2013-ICLR]()
+## [2013-CVPR]()
+## [2013-ICML]()
+## [2013-IJCAI]()
+## [2013-ECCV]()
+## [2013-BMVC]()
+## [2013-NIPS]()
+## [2013-ACCV]()
 
-## [2014-AAAI-all papers]()
-## [2014-ICLR-all papers]()
-## [2014-CVPR-all papers]()
-## [2014-ICML-all papers]()
-## [2014-IJCAI-all papers]()
-## [2014-ECCV-all papers]()
-## [2014-BMVC-all papers]()
-## [2014-NIPS-all papers]()
-## [2014-ACCV-all papers]()
+## [2014-AAAI]()
+## [2014-ICLR]()
+## [2014-CVPR]()
+## [2014-ICML]()
+## [2014-IJCAI]()
+## [2014-ECCV]()
+## [2014-BMVC]()
+## [2014-NIPS]()
+## [2014-ACCV]()
 
-## [2015-AAAI-all papers]()
-## [2015-ICLR-all papers]()
-## [2015-CVPR-all papers]()
+## [2015-AAAI]()
+## [2015-ICLR]()
+## [2015-CVPR]()
 - 2015-CVPR-Fully convolutional networks for semantic segmentation
 - 2015-CVPR-Learning to generate chairs with convolutional neural networks
 - 2015-CVPR-Single image super-resolution from transformed selfexemplars
-## [2015-ICML-all papers]()
-## [2015-IJCAI-all papers]()
-## [2015-ICCV-all papers]()
+## [2015-ICML]()
+## [2015-IJCAI]()
+## [2015-ICCV]()
 - 2015-ICCV-Deeply improved sparse coding for image super-resolution
-## [2015-BMVC-all papers]()
-## [2015-NIPS-all papers]()
-## [2015-ACCV-all papers]()
+## [2015-BMVC]()
+## [2015-NIPS]()
+## [2015-ACCV]()
 - 2015-TPAMI-Image super-resolution using deep convolutional networks [[paper](https://arxiv.org/pdf/1501.00092.pdf)]
-## [2016-AAAI-all papers]()
-## [2016-ICLR-all papers]()
+## [2016-AAAI]()
+## [2016-ICLR]()
 - 2016-ICLR-All you need is a good init
-## [2016-CVPR-all papers]()
+## [2016-CVPR]()
 - 2016-CVPR-Accurate image super-resolution using very deep convolutional networks
-## [2016-ICML-all papers]()
-## [2016-IJCAI-all papers]()
-## [2016-ECCV-all papers]()
+## [2016-ICML]()
+## [2016-IJCAI]()
+## [2016-ECCV]()
 - 2016-ECCV-Accelerating the Super-Resolution Convolutional Neural Network [[paper](https://arxiv.org/abs/1608.00367)][[code](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html)]
 ## [2016-Others]
 - 2016-EMNLP-Sequence-Level Knowledge Distillation [[paper](https://arxiv.org/abs/1606.07947)]
 
 
 
-## [2017-CVPR-all papers]()
+## [2017-CVPR]()
 - 2017-CVPR-All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation
 
 ---
-## [2018-AAAI-all papers](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
+## [2018-AAAI](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 - 2018-AAAI-Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)]
 - 2018-AAAI-Deep Neural Network Compression with Single and Multiple Level Quantization [[paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)]
 
-## [2018-ICLR-all papers](https://iclr.cc/Conferences/2018/Schedule)
+## [2018-ICLR](https://iclr.cc/Conferences/2018/Schedule)
 - 2018-ICLRo-Training and Inference with Integers in Deep Neural Networks [[paper](https://openreview.net/forum?id=HJGXzmspb)]
 - 2018-ICLR-Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers [[paper](https://openreview.net/forum?id=HJ94fqApW)]
 - 2018-ICLR-N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning [[paper](https://openreview.net/forum?id=B1hcZZ-AW)]
@@ -96,13 +96,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLRw-Accelerating Neural Architecture Search using Performance Prediction [[paper](https://openreview.net/forum?id=HJqk3N1vG)]
 - 2018-ICLRw-Nonlinear Acceleration of CNNs [[paper](https://openreview.net/forum?id=HkNpF_kDM)]
 
-## [2018-CVPR-all papers](http://openaccess.thecvf.com/CVPR2018.py)
+## [2018-CVPR](http://openaccess.thecvf.com/CVPR2018.py)
 - 2018-CVPR-Context-Aware Deep Feature Compression for High-Speed Visual Tracking [[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)]
 
 
-## [2018-ICML-all papers](https://icml.cc/Conferences/2018/Schedule)
+## [2018-ICML](https://icml.cc/Conferences/2018/Schedule)
+## [2018-ICMLw-ECA](https://openreview.net/group?id=ICML.cc/2018/ECA)
+Workshop ECA: Efficient Credit Assignment in Deep Learning and Reinforcement Learning Workshop
+2018-ICMLw-Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures [[paper](https://openreview.net/forum?id=SyPicjbWQ)]
 
-## [2018-IJCAI-all papers](https://www.ijcai-18.org/accepted-papers/)
+
+
+## [2018-IJCAI](https://www.ijcai-18.org/accepted-papers/)
 - 2018-IJCAI-Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error
 - 2018-IJCAI-Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks
 - 2018-IJCAI-Where to Prune: Using LSTM to Guide End-to-end Pruning
@@ -111,22 +116,22 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-IJCAI-Progressive Blockwise Knowledge Distillation for Neural Network Acceleration
 - 2018-IJCAI-Complementary Binary Quantization for Joint Multiple Indexing
 
-## [2018-ECCV-all papers](http://openaccess.thecvf.com/ECCV2018.py)
+## [2018-ECCV](http://openaccess.thecvf.com/ECCV2018.py)
 - 2018-ECCV-A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyun_Zhang_A_Systematic_DNN_ECCV_2018_paper.pdf)]
 - 2018-ECCV-Coreset-Based Neural Network Compression [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Abhimanyu_Dubey_Coreset-Based_Convolutional_Neural_ECCV_2018_paper.pdf)]
 - 2018-ECCV-Data-Driven Sparse Structure Selection for Deep Neural Networks [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf)][[code](https://github.com/TuSimple/sparse-structure-selection)]
 
-## [2018-BMVC-all papers](http://bmvc2018.org/programmedetail.html)
+## [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - 2018-BMVCo-Structured Probabilistic Pruning for Convolutional Neural Network Acceleration [[paper](http://bmvc2018.org/contents/papers/0870.pdf)]
 - 2018-BMVC-Efficient Progressive Neural Architecture Search [[paper](http://bmvc2018.org/contents/papers/0291.pdf)]
 
-## [2018-NIPS-all papers](https://nips.cc/Conferences/2018/Schedule)
+## [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - 2018-NIPS-Discrimination-aware Channel Pruning for Deep Neural Networks
 - 2018-NIPS-Frequency-Domain Dynamic Pruning for Convolutional Neural Networks
 - 2018-NIPS-ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions
 - 2018-NIPS-DropBlock: A regularization method for convolutional networks [[paper]](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
 
-## [2018-NIPSw-CDNNRIA-all papers](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)
+## [2018-NIPSw-CDNNRIA](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)
 Workshop CDNNRIA: Compact Deep Neural Network Representation with Industrial Applications.
 
 ## 2018-Others
