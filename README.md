@@ -8,7 +8,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
-### Papers
+## Papers
 - 2016-ICLR-[All you need is a good init]()
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation]()
@@ -53,24 +53,26 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[Frequency-Domain Dynamic Pruning for Convolutional Neural Networks]()
 - 2018-NIPS-[ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions]()
 - 2018-NIPS-[DropBlock: A regularization method for convolutional networks](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
+- 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 - 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
-- 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 
-## Papers-Knowledge Distillation
+
+### Papers-Knowledge Distillation
 - 2010-ML-[A theory of learning from different domains]()
 - 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 - 2016-ECCV-[Accelerating convolutional neural networks with dominant convolutional kernel and knowledge pre-regression]()
 - 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer]()
 - 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning]()
+- 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
-- 2017.7-NST-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer]()
-- 2017.7-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
+- 2017.07-NST-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer]()
+- 2017.07-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
 - 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440)
-- 2018.3-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
+- 2018.03-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
 
 
 ## News
@@ -79,13 +81,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## People (in alphabeta order)
-- [Naiyan Wang @ TuSimple]()
+- [Naiyan Wang]() @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/)
-- [Miguel Carreira-Perpinan @ UC Merced](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ)
-- [Song Han @ MIT]()
-- [Yunhe Wang @ Huawei](http://www.wangyunhe.site/)
-- [Yihui He @ CMU]()
-- [Zhuang Liu @ UC Berkeley]()
+- [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
+- [Song Han]() @ MIT
+- [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
+- [Yihui He]() @ CMU
+- [Zhuang Liu]() @ UC Berkeley
 
 
 
