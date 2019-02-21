@@ -9,11 +9,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
 ## Papers
-- 2015-[A Diversity-Penalizing Ensemble Training Method for Deep Learning]()
-- 2016-ICLR-[All you need is a good init]() [[code](https://github.com/ducha-aiki/LSUVinit)]
+- 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
+- 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
-- 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation]()
+- 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering]()
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
@@ -39,9 +39,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLRw-[Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/forum?id=HJqk3N1vG)
 - 2018-ICLRw-[Nonlinear Acceleration of CNNs](https://openreview.net/forum?id=HkNpF_kDM)
 - 2018-CVPR-[Context-Aware Deep Feature Compression for High-Speed Visual Tracking](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)
+- 2018-CVPR-[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf)
 - 2018-ICMLw-[Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://openreview.net/forum?id=SyPicjbWQ)
-- 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error]()
-- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks]()
+- 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
+- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866)
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning]()
 - 2018-IJCAI-[Accelerating Convolutional Networks via Global & Dynamic Filter Pruning]()
 - 2018-IJCAI-[Optimization based Layer-wise Magnitude-based Pruning for DNN Compression]()
@@ -52,14 +53,14 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf) [[code](https://github.com/TuSimple/sparse-structure-selection)]
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
-- 2018-NIPS-[Discrimination-aware Channel Pruning for Deep Neural Networks]()
-- 2018-NIPS-[Frequency-Domain Dynamic Pruning for Convolutional Neural Networks]()
-- 2018-NIPS-[ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions]()
+- 2018-NIPS-[Discrimination-aware Channel Pruning for Deep Neural Networks](http://papers.nips.cc/paper/7367-discrimination-aware-channel-pruning-for-deep-neural-networks.pdf)
+- 2018-NIPS-[Frequency-Domain Dynamic Pruning for Convolutional Neural Networks](http://papers.nips.cc/paper/7382-frequency-domain-dynamic-pruning-for-convolutional-neural-networks.pdf)
+- 2018-NIPS-[ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](http://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions.pdf)
 - 2018-NIPS-[DropBlock: A regularization method for convolutional networks](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
-- 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
+- 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) (Kaiming He)
 
 
 ### Papers-Knowledge Distillation
@@ -103,9 +104,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 - [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
+- [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
 
 
 ## Venues
+- [OpenReview](https://openreview.net/)
 - [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
 - [ECCV](https://link.springer.com/conference/eccv)
 - [2018-AAAI](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
