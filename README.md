@@ -9,10 +9,12 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
 ## Papers
-- 2016-ICLR-[All you need is a good init]()
+- 2015-[A Diversity-Penalizing Ensemble Training Method for Deep Learning]()
+- 2016-ICLR-[All you need is a good init]() [[code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation]()
+- 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering]()
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
 - 2018-ICLRo-[Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb)
@@ -62,16 +64,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
-- 2006-SIGKDD-[Model compression]()
-- 2010-ML-[A theory of learning from different domains]()
-- 2014-NIPS-[Do deep nets really need to be deep?]()
-- 2015-[Distilling the Knowledge in a Neural Network]() (coined the name "knowledge distillation" and "dark knowledge")
-- 2015-[Net2net: Accelerating learning via knowledge transfer]()
+- 2006-SIGKDD-[Model compression](https://dl.acm.org/citation.cfm?id=1150464)
+- 2010-ML-[A theory of learning from different domains](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
+- 2014-NIPS-[Do deep nets really need to be deep?](https://arxiv.org/abs/1312.6184)
+- 2015-[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) (coined the name "knowledge distillation" and "dark knowledge")
+- 2016-ICLR-[Net2net: Accelerating learning via knowledge transfer](https://arxiv.org/abs/1511.05641) (Tianqi Chen and Goodfellow)
 - 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 - 2016-ECCV-[Accelerating convolutional neural networks with dominant convolutional kernel and knowledge pre-regression](https://www.researchgate.net/publication/308277663_Accelerating_Convolutional_Neural_Networks_with_Dominant_Convolutional_Kernel_and_Knowledge_Pre-regression)
-- 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer]()
-- 2017-ICLR-[Do deep convolutional nets really need to be deep and convolutional?]()
-- 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning]()
+- 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer](http://arxiv.org/abs/1612.03928)
+- 2017-ICLR-[Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf)
+- 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 - 2017-NIPS-[Sobolev training for neural networks](http://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf)
 - 2017.11-[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
 - 2018-AAAI-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
@@ -83,6 +85,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
 - 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440)
 - 2018.03-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
+- 2018.12-[Learning Student Networks via Feature Embedding](https://arxiv.org/abs/1812.06597)
 
 
 ## News
@@ -91,24 +94,25 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## People (in alphabeta order)
-- [Naiyan Wang]() @ TuSimple
+- [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/)
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
-- [Song Han]() @ MIT
+- [Song Han](https://songhan.mit.edu/) @ MIT
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
-- [Yihui He]() @ CMU
-- [Zhuang Liu]() @ UC Berkeley
-
+- [Yihui He](http://yihui-he.github.io/) @ CMU
+- [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
+- [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
+- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
 
 
 ## Venues
 - [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
+- [ECCV](https://link.springer.com/conference/eccv)
 - [2018-AAAI](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 - [2018-ICLR](https://iclr.cc/Conferences/2018/Schedule)
 - [2018-ICML](https://icml.cc/Conferences/2018/Schedule)
 - [2018-ICML Workshop](https://openreview.net/group?id=ICML.cc/2018/ECA): Efficient Credit Assignment in Deep Learning and Reinforcement Learning
 - [2018-IJCAI](https://www.ijcai-18.org/accepted-papers/)
-- [2018-ECCV](http://openaccess.thecvf.com/ECCV2018.py)
 - [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - [2018-NIPS Workshop](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA): Compact Deep Neural Network Representation with Industrial Applications
