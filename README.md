@@ -83,7 +83,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
 - 2017.07-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
-- 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440)
+- 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440) (Kaiming He)
 - 2018.03-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
 - 2018.12-[Learning Student Networks via Feature Embedding](https://arxiv.org/abs/1812.06597)
 
@@ -95,7 +95,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ## People (in alphabeta order)
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
-- [Jianguo Li](https://sites.google.com/site/leeplus/)
+- [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
 - [Song Han](https://songhan.mit.edu/) @ MIT
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
