@@ -32,7 +32,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312)
 - 2018-ICLRw-[To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression](https://openreview.net/forum?id=Sy1iIDkPM)
 - 2018-ICLRw-[Systematic Weight Pruning of DNNs using Alternating Direction Method of Multipliers](https://openreview.net/forum?id=B1_u3cRUG)
-- 2018-ICLRw-[Weightless: Lossy weight encoding for deep neural network compression](https://openreview.net/forum?id=rJpXxgaIG)]
+- 2018-ICLRw-[Weightless: Lossy weight encoding for deep neural network compression](https://openreview.net/forum?id=rJpXxgaIG)
 - 2018-ICLRw-[Variance-based Gradient Compression for Efficient Distributed Deep Learning](https://openreview.net/forum?id=Sy6hd7kvM)
 - 2018-ICLRw-[Stacked Filters Stationary Flow For Hardware-Oriented Acceleration Of Deep Convolutional Neural Networks](https://openreview.net/forum?id=HkeAoQQHM)
 - 2018-ICLRw-[Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks](https://openreview.net/forum?id=BJbtuRRLM)
@@ -89,12 +89,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.03-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
 - 2018.12-[Learning Student Networks via Feature Embedding](https://arxiv.org/abs/1812.06597)
 
-
-## News
-- [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
-- [机器之心-腾讯AI Lab PocketFlow (in Chinese)](https://www.jiqizhixin.com/articles/2018-09-17-6)
-
-
 ## People (in alphabeta order)
 - [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
@@ -106,9 +100,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
-
-
-
 
 ## Venues
 - [OpenReview](https://openreview.net/)
@@ -123,3 +114,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - [2018-NIPS Workshop](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA): Compact Deep Neural Network Representation with Industrial Applications
 - LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
+
+## News
+- [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
+- [机器之心-腾讯AI Lab PocketFlow (in Chinese)](https://www.jiqizhixin.com/articles/2018-09-17-6)
