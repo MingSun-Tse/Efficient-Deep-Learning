@@ -76,6 +76,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICLR-[Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf)
 - 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 - 2017-NIPS-[Sobolev training for neural networks](http://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf)
+- 2017-NIPSw-[Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/abs/1710.07535) [[code](https://github.com/iRapha/replayed_distillation)]
 - 2017.11-[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
 - 2018-AAAI-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
 - 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
@@ -95,16 +96,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## People (in alphabeta order)
+- [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
+- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
 - [Song Han](https://songhan.mit.edu/) @ MIT
-- [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Yihui He](http://yihui-he.github.io/) @ CMU
-- [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
-- [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
-- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
+- [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
+- [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
+
+
 
 
 ## Venues
@@ -119,3 +122,4 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - [2018-NIPS Workshop](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA): Compact Deep Neural Network Representation with Industrial Applications
+- LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
