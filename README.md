@@ -10,6 +10,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ## Papers
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
+- 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
