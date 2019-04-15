@@ -149,7 +149,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-IJCAI](https://www.ijcai-18.org/accepted-papers/)
 - [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
-- [2018-NIPS Workshop](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA): Compact Deep Neural Network Representation with Industrial Applications
+- CDNNRIA workshop: Compact Deep Neural Network Representation with Industrial Applications [[1st: 2018 NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)] [[2nd: 2019 ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)]
 - LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
 
 ## News
