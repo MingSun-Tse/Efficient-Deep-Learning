@@ -1,6 +1,8 @@
 # EfficientDNNs
 A collection of recent methods on DNN compression and acceleration. There are mainly 5 kinds of methods for efficient DNNs:
 - neural architecture re-designing or searching
+  - maintain accuracy, less cost (e.g., #Params, #FLOPs, etc.): MobileNet, ShuffleNet etc.
+  - maintain cost, more accuracy: Inception, ResNeXt, Xception etc.
 - pruning (including structured and unstructured)
 - quantization
 - matrix decomposition
@@ -9,29 +11,43 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
 ## Papers
+- 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
 - 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
+- 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 - 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
+
+- 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
+- 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks)
+- 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns)
 - 2016.10-[Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/abs/1610.09650)
-- 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
+
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
+- 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044)
+- 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
 - 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
+- 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
+- 2017-CVPR-ResNeXt-[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.html)
+- 2017-CVPR-[Xception: Deep learning with depthwise separable convolutions](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
 - 2017-ICCV-[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) [[Code](https://github.com/yihui-he/channel-pruning)]
 - 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[Code](https://github.com/liuzhuang13/slimming/)]
 - 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)]
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
-- 2017.2-[The Power of Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1702.06257)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)
+- 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering](https://www.sciencedirect.com/science/article/pii/S0893608017300928)
+- 2017.2-[The Power of Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1702.06257)
+
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
+- 2018-ICML-[On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization](https://arxiv.org/abs/1802.06509)
 - 2018-ICMLw-[Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://openreview.net/forum?id=SyPicjbWQ)
 - 2018-ICLRo-[Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb)
 - 2018-ICLR-[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://openreview.net/forum?id=HJ94fqApW)
@@ -46,7 +62,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Adaptive Quantization of Neural Networks](https://openreview.net/forum?id=SyOK1Sg0W)
 - 2018-ICLR-[Variational Network Quantization](https://openreview.net/forum?id=ry-TW-WAb)
 - 2018-ICLR-[Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312)
-- 2018-ICLRw-[To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression](https://openreview.net/forum?id=Sy1iIDkPM)
+- 2018-ICLRw-[To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression](https://openreview.net/forum?id=Sy1iIDkPM) (Similar topic: [2018-NIPSw-nip in the bud](https://openreview.net/forum?id=r1lbgwFj5m), [2018-NIPSw-rethink](https://openreview.net/forum?id=r1eLk2mKiX))
 - 2018-ICLRw-[Systematic Weight Pruning of DNNs using Alternating Direction Method of Multipliers](https://openreview.net/forum?id=B1_u3cRUG)
 - 2018-ICLRw-[Weightless: Lossy weight encoding for deep neural network compression](https://openreview.net/forum?id=rJpXxgaIG)
 - 2018-ICLRw-[Variance-based Gradient Compression for Efficient Distributed Deep Learning](https://openreview.net/forum?id=Sy6hd7kvM)
@@ -56,6 +72,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLRw-[Nonlinear Acceleration of CNNs](https://openreview.net/forum?id=HkNpF_kDM)
 - 2018-CVPR-[Context-Aware Deep Feature Compression for High-Speed Visual Tracking](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)
 - 2018-CVPR-[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf)
+- 2018-CVPR-[“Learning-Compression” Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/html/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.html)
 - 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
 - 2018-CVPR-[Condensenet: An efficient densenet using learned group convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.html)
 - 2018-CVPR-[Shift: A zero flop, zero parameter alternative to spatial convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)
@@ -78,9 +95,15 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](http://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions.pdf)
 - 2018-NIPS-[DropBlock: A regularization method for convolutional networks](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
 - 2018-NIPS-[Constructing fast network through deconstruction of convolution](http://papers.nips.cc/paper/7835-constructing-fast-network-through-deconstruction-of-convolution)
+- 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
+- 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
+- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
+- 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 - 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) (Kaiming He)
+
+- 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
 - 2019-CVPR-[All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1903.05285)
 - 2019-CVPR-[HetConv Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120)
