@@ -100,6 +100,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[ChannelNets: Compact and Efficient Convolutional Neural Networks via Channel-Wise Convolutions](http://papers.nips.cc/paper/7766-channelnets-compact-and-efficient-convolutional-neural-networks-via-channel-wise-convolutions.pdf)
 - 2018-NIPS-[DropBlock: A regularization method for convolutional networks](http://papers.nips.cc/paper/8271-dropblock-a-regularization-method-for-convolutional-networks)
 - 2018-NIPS-[Constructing fast network through deconstruction of convolution](http://papers.nips.cc/paper/7835-constructing-fast-network-through-deconstruction-of-convolution)
+- 2018-NIPS-[Learning Versatile Filters for Efficient Convolutional Neural Networks](https://papers.nips.cc/paper/7433-learning-versatile-filters-for-efficient-convolutional-neural-networks) [[Code](https://github.com/NoahEC/Versatile-Filters)]
 - 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
 - 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
 - 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ)
