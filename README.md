@@ -130,6 +130,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
 - 2017-ICCV-[Interleaved Group Convolutions for Deep Neural Networks](https://arxiv.org/abs/1707.02725)
 
+### Papers-Advesarial Attacks
+- 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
@@ -161,16 +163,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## People (in alphabeta order)
-- [Huang Gao](http://www.gaohuang.net/) @ Tsinghua
+- [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
+- [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
 - [Song Han](https://songhan.mit.edu/) @ MIT
-- [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
+- [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
+
 
 ## Venues
 - [OpenReview](https://openreview.net/)
