@@ -28,15 +28,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
+- 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks)
 - 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns)
+- 2016-NIPS-[Learning the Number of Neurons in Deep Neural Networks](http://papers.nips.cc/paper/6372-learning-the-number-of-neurons-in-deep-networks)
 - 2016.10-[Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/abs/1610.09650)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
 - 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044)
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
 - 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
-- 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
+- 2017-CVPR-[Learninng deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
+- 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html)
 - 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
 - 2017-CVPR-ResNeXt-[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.html)
 - 2017-CVPR-[Xception: Deep learning with depthwise separable convolutions](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
@@ -118,7 +121,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)
 - 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
-- 2019-
+- 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf)
+- 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
@@ -127,7 +131,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
 - 2019.04-[Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961)
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
-
 
 
 ### Papers-Arithmetic
