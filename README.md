@@ -84,7 +84,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf)
 - 2018-CVPR-[“Learning-Compression” Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/html/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.html)
 - 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
-- 2018-CVPR-[Condensenet: An efficient densenet using learned group convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.html)
+- 2018-CVPR-[Condensenet: An efficient densenet using learned group convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.html) [[Code](https://github.com/ShichenLiu/CondenseNet)]
 - 2018-CVPR-[Shift: A zero flop, zero parameter alternative to spatial convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)
 - 2018-CVPR-[Interleaved structured sparse convolutional neural networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Xie_Interleaved_Structured_Sparse_CVPR_2018_paper.html)
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
