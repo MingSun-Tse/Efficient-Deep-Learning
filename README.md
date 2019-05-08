@@ -21,8 +21,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
 - 2015_NIPSw-[Distilling Intractable Generative Models](http://homepages.inf.ed.ac.uk/s1459647/papers/distilling_generative_models.pdf)
-- 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
-- 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
 - 2015-CVPR-[Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhang_Efficient_and_Accurate_2015_CVPR_paper.html) [2016 TPAMI version: [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://ieeexplore.ieee.org/abstract/document/7332968)]
 - 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
@@ -133,6 +131,17 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 ### Papers-Advesarial Attacks
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
+### Papers-Interpretability
+- 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
+- 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
+- 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
+- 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (LIME)
+- 2017-ICMLw-[The Mythos of Model Interpretability]()
+- 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
+- 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
+- 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
+
+
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
 - 2006-SIGKDD-[Model compression](https://dl.acm.org/citation.cfm?id=1150464)
@@ -163,6 +172,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## People (in alphabeta order)
+- [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
 - [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
@@ -180,6 +190,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [OpenReview](https://openreview.net/)
 - [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
 - [ECCV](https://link.springer.com/conference/eccv)
+- [2017-ICML Tutorial](http://people.csail.mit.edu/beenkim/icml_tutorial.html): interpretable machine learning
 - [2018-AAAI](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
 - [2018-ICLR](https://iclr.cc/Conferences/2018/Schedule)
 - [2018-ICML](https://icml.cc/Conferences/2018/Schedule)
@@ -189,7 +200,12 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - CDNNRIA workshop: Compact Deep Neural Network Representation with Industrial Applications [[1st: 2018 NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)] [[2nd: 2019 ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)]
 - LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
+- WHI: Worshop on Human Interpretability in Machine Learning [[1st: 2016 ICMLw](https://sites.google.com/site/2016whi/)] [[2nd: 2017 ICMLw](https://sites.google.com/view/whi2017/home)] [[3rd: 2018 ICMLw](https://sites.google.com/view/whi2018)]
+- 
+
 
 ## News
 - [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
 - [机器之心-腾讯AI Lab PocketFlow (in Chinese)](https://www.jiqizhixin.com/articles/2018-09-17-6)
+- [阿里开源首个移动AI项目，淘宝同款推理引擎 (in Chinese)](https://mp.weixin.qq.com/s/5lfXehtK3VPlB6Ex2KdTDw)
+- [精度无损，体积压缩70%以上，百度PaddleSlim为你的模型瘦身 (in Chinese)](https://mp.weixin.qq.com/s/oJr5fx6uF5rsguK2rOpVoQ). Its [github project](https://github.com/PaddlePaddle/models/tree/v1.4/PaddleSlim).
