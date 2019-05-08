@@ -65,6 +65,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Adaptive Quantization of Neural Networks](https://openreview.net/forum?id=SyOK1Sg0W)
 - 2018-ICLR-[Variational Network Quantization](https://openreview.net/forum?id=ry-TW-WAb)
 - 2018-ICLR-[Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312)
+- 2018-ICLR-[Efficient sparse-winograd convolutional neural networks](https://arxiv.org/pdf/1802.06367.pdf)
 - 2018-ICLRw-[To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression](https://openreview.net/forum?id=Sy1iIDkPM) (Similar topic: [2018-NIPSw-nip in the bud](https://openreview.net/forum?id=r1lbgwFj5m), [2018-NIPSw-rethink](https://openreview.net/forum?id=r1eLk2mKiX))
 - 2018-ICLRw-[Systematic Weight Pruning of DNNs using Alternating Direction Method of Multipliers](https://openreview.net/forum?id=B1_u3cRUG)
 - 2018-ICLRw-[Weightless: Lossy weight encoding for deep neural network compression](https://openreview.net/forum?id=rJpXxgaIG)
@@ -101,18 +102,23 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[Learning Versatile Filters for Efficient Convolutional Neural Networks](https://papers.nips.cc/paper/7433-learning-versatile-filters-for-efficient-convolutional-neural-networks) [[Code](https://github.com/NoahEC/Versatile-Filters)]
 - 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
 - 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
-- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ)
+- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)]
+- 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 - 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) (Kaiming He)
-- 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7)
+- 2019-ICLR-[Defensive Quantization: When Efficiency Meets Robustness]()
+- 2019-ICLR-[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware]()
+- 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
 - 2019-CVPR-[All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1903.05285)
 - 2019-CVPR-[HetConv Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120)
 - 2019-CVPR-[Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/abs/1904.00346)
 - 2019-CVPR-[Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)
+- 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
+- 2019-
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
@@ -132,12 +138,17 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
 ### Papers-Interpretability
+- 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
 - 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 - 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
 - 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (LIME)
-- 2017-ICMLw-[The Mythos of Model Interpretability]()
+- 2017-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 - 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
+- 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279) (TCAV)
+- 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
+- 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
+- 2018-NIPS-[To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) [[Code](https://github.com/google/TrustScore)]
 - 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
 - 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 
