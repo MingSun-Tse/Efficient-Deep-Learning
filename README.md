@@ -118,6 +118,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICLR-[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware]()
 - 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
+- 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) [[Code](https://github.com/bhheo/AB_distillation)]
 - 2019-CVPR-[All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1903.05285)
 - 2019-CVPR-[HetConv Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120)
 - 2019-CVPR-[Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/abs/1904.00346)
