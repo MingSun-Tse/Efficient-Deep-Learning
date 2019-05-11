@@ -51,6 +51,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)]
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)
+- 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering](https://www.sciencedirect.com/science/article/pii/S0893608017300928)
 - 2017.02-[The Power of Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1702.06257)
@@ -88,6 +89,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[Shift: A zero flop, zero parameter alternative to spatial convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)
 - 2018-CVPR-[Interleaved structured sparse convolutional neural networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Xie_Interleaved_Structured_Sparse_CVPR_2018_paper.html)
 - 2018-CVPR-[Towards Effective Low-bitwidth Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhuang_Towards_Effective_Low-Bitwidth_CVPR_2018_paper.pdf)
+- 2018-CVPR-[Blockdrop: Dynamic inference paths in residual networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_BlockDrop_Dynamic_Inference_CVPR_2018_paper.html)
+- 2018-CVPR-[Nestednet: Learning nested sparse structures in deep neural networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kim_NestedNet_Learning_Nested_CVPR_2018_paper.html)
+- 2018-CVPR-[Stochastic downsampling for cost-adjustable inference and improved regularization in convolutional networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kuen_Stochastic_Downsampling_for_CVPR_2018_paper.html)
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
 - 2018-IJCAI-FSP-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
@@ -177,6 +181,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-CVPR-[A gift from knowledge distillation: Fast optimization, network minimization and transfer learning](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 - 2017-NIPS-[Sobolev training for neural networks](http://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf)
 - 2017-NIPSw-[Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/abs/1710.07535) [[Code](https://github.com/iRapha/replayed_distillation)]
+- 2017.03-[Multi-scale dense networks for resource efficient image classification](https://arxiv.org/abs/1703.09844)
 - 2017.07-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
 - 2017.11-[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
@@ -186,6 +191,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.12-[Learning Student Networks via Feature Embedding](https://arxiv.org/abs/1812.06597)
 - 2018.12-[Few Sample Knowledge Distillation for Efficient Network Compression](https://arxiv.org/abs/1812.01839)
 - 2018-AAAI-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
+- 2018-AAAI-[Dynamic deep neural networks: Optimizing accuracy-efficiency trade-offs by selective execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16291/16575)
 - 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
