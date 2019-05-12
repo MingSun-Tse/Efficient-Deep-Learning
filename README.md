@@ -136,6 +136,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
+- 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
 - 2019.03-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) (Face++)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (Huawei)
