@@ -12,6 +12,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ## Papers
 - 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
+- 2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
 - 2013-NIPS-[Predicting Parameters in Deep Learning](http://papers.nips.cc/paper/5025-predicting-parameters-in-deep-learning)
 - 2014-BMVC-[Speeding up convolutional neural networks with low rank expansions](https://arxiv.org/abs/1405.3866)
 - 2014-NIPS-[Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation)
