@@ -232,8 +232,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - CDNNRIA workshop: Compact Deep Neural Network Representation with Industrial Applications [[1st: 2018 NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)] [[2nd: 2019 ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)]
 - LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
 - WHI: Worshop on Human Interpretability in Machine Learning [[1st: 2016 ICMLw](https://sites.google.com/site/2016whi/)] [[2nd: 2017 ICMLw](https://sites.google.com/view/whi2017/home)] [[3rd: 2018 ICMLw](https://sites.google.com/view/whi2018)]
-- 
 
+## Light DNN Libaries
+- [NNPACK](https://github.com/Maratyszcza/NNPACK)
+- [Tencent NCNN](https://github.com/Tencent/ncnn)
+- [Alibaba MNN](https://github.com/alibaba/MNN)
+- [Baidu PaddleSlim](https://github.com/PaddlePaddle/models/tree/v1.4/PaddleSlim)
+- [Baidu PaddleMobile](https://github.com/PaddlePaddle/paddle-mobile)
 
 ## News
 - [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
