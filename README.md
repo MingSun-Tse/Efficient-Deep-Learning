@@ -141,7 +141,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
 - 2019.03-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) (Face++)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
-- 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (Huawei)
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
 - 2019.04-[Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961)
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
@@ -200,6 +199,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
+- 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (Huawei)
+- 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
 
 
 ## People (in alphabeta order)
