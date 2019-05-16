@@ -75,6 +75,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Variational Network Quantization](https://openreview.net/forum?id=ry-TW-WAb)
 - 2018-ICLR-[Learning Sparse Neural Networks through L0 Regularization](https://arxiv.org/abs/1712.01312)
 - 2018-ICLR-[Efficient sparse-winograd convolutional neural networks](https://arxiv.org/pdf/1802.06367.pdf) [[Code](https://github.com/xingyul/Sparse-Winograd-CNN)]
+- 2018-ICLR-[Learning Intrinsic Sparse Structures within Long Short-term Memory](https://arxiv.org/pdf/1709.05027)
 - 2018-ICLRw-[To Prune, or Not to Prune: Exploring the Efficacy of Pruning for Model Compression](https://openreview.net/forum?id=Sy1iIDkPM) (Similar topic: [2018-NIPSw-nip in the bud](https://openreview.net/forum?id=r1lbgwFj5m), [2018-NIPSw-rethink](https://openreview.net/forum?id=r1eLk2mKiX))
 - 2018-ICLRw-[Systematic Weight Pruning of DNNs using Alternating Direction Method of Multipliers](https://openreview.net/forum?id=B1_u3cRUG)
 - 2018-ICLRw-[Weightless: Lossy weight encoding for deep neural network compression](https://openreview.net/forum?id=rJpXxgaIG)
@@ -208,10 +209,12 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
 - [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
 - [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
+- [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
 - [Song Han](https://songhan.mit.edu/) @ MIT
+- [Wei Wen](http://www.pittnuts.com/) @ Duke
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
 - [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
