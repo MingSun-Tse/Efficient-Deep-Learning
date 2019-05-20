@@ -141,6 +141,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf)
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) [[Code](https://github.com/ShawnDing1994/Centripetal-SGD)]
+- 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
