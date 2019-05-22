@@ -109,6 +109,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[Coreset-Based Neural Network Compression](http://openaccess.thecvf.com/content_ECCV_2018/papers/Abhimanyu_Dubey_Coreset-Based_Convolutional_Neural_ECCV_2018_paper.pdf)
 - 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf) [[Code](https://github.com/TuSimple/sparse-structure-selection)]
 - 2018-ECCV-[Constraint-Aware Deep Neural Network Compression](http://openaccess.thecvf.com/content_ECCV_2018/html/Changan_Chen_Constraints_Matter_in_ECCV_2018_paper.html)
+- 2018-ECCV-[Deep expander networks: Efficient deep networks from graph theory](http://openaccess.thecvf.com/content_ECCV_2018/html/Ameya_Prabhu_Deep_Expander_Networks_ECCV_2018_paper.html)
+- 2018-ECCV-[Sparsely Aggregated Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Ligeng_Zhu_Sparsely_Aggregated_Convolutional_ECCV_2018_paper.html)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
