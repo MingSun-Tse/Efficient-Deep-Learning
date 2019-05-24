@@ -18,6 +18,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2014-NIPS-[Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation)
 - 2014-NIPS-[Do deep neural nets really need to be deep](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
 - 2014.12-[Memory bounded deep convolutional networks](https://arxiv.org/abs/1412.1442)
+- 2015-ICLR-[Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/abs/1412.6553)
 - 2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
 - 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
@@ -26,9 +27,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-NIPSw-[Distilling Intractable Generative Models](http://homepages.inf.ed.ac.uk/s1459647/papers/distilling_generative_models.pdf)
 - 2015-CVPR-[Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhang_Efficient_and_Accurate_2015_CVPR_paper.html) [2016 TPAMI version: [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://ieeexplore.ieee.org/abstract/document/7332968)]
 - 2015-CVPR-[Sparse Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
+- 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/pdf/1512.09194.pdf)
 - 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
-- 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067)
+- 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-ICLR-[Neural networks with few multiplications]()
 - 2016-CVPR-[Fast algorithms for convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html)
@@ -65,6 +67,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
 - 2018-ICML-[On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization](https://arxiv.org/abs/1802.06509)
+- 2018-ICML-[Weightless: Lossy Weight Encoding For Deep Neural Network Compression](https://arxiv.org/abs/1711.04686)
 - 2018-ICMLw-[Assessing the Scalability of Biologically-Motivated Deep Learning Algorithms and Architectures](https://openreview.net/forum?id=SyPicjbWQ)
 - 2018-ICLRo-[Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb)
 - 2018-ICLR-[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://openreview.net/forum?id=HJ94fqApW)
