@@ -130,7 +130,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[TETRIS: TilE-matching the TRemendous Irregular Sparsity](http://papers.nips.cc/paper/7666-tetris-tile-matching-the-tremendous-irregular-sparsity)
 - 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
 - 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
-- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)]
+- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)] [[Code](https://github.com/MingSun-Tse/Caffe_IncReg)]
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
