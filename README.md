@@ -138,6 +138,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.11-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883) (Kaiming He)
 - 2019-ICLR-[Slimmable Neural Networks](https://openreview.net/forum?id=H1gMCsAqY7) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019-ICLR-[Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444)
+- 2019-ICLR-[Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters](https://openreview.net/forum?id=r1f0YiCctm) [[Code](https://github.com/cambridge-mlg/miracle)]
 - 2019-ICLR-[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332)
 - 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
