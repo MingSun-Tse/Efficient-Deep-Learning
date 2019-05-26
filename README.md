@@ -118,6 +118,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[Sparsely Aggregated Convolutional Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Ligeng_Zhu_Sparsely_Aggregated_Convolutional_ECCV_2018_paper.html)
 - 2018-ECCV-[Deep Expander Networks: Efficient Deep Networks from Graph Theory](https://arxiv.org/abs/1711.08757) [[Code](https://github.com/DrImpossible/Deep-Expander-Networks)]
 - 2018-ECCV-[SparseNet-Sparsely Aggregated Convolutional Networks](https://arxiv.org/abs/1801.05895) [[Code](https://github.com/Lyken17/SparseNet)]
+- 2018-ECCV-[Ask, acquire, and attack: Data-free uap generation using class impressions](http://openaccess.thecvf.com/content_ECCV_2018/html/Konda_Reddy_Mopuri_Ask_Acquire_and_ECCV_2018_paper.html)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
@@ -158,6 +159,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) [[Code](https://github.com/ShawnDing1994/Centripetal-SGD)]
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
+- 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
