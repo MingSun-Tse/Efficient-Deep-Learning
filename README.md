@@ -103,6 +103,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[Blockdrop: Dynamic inference paths in residual networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_BlockDrop_Dynamic_Inference_CVPR_2018_paper.html)
 - 2018-CVPR-[Nestednet: Learning nested sparse structures in deep neural networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kim_NestedNet_Learning_Nested_CVPR_2018_paper.html)
 - 2018-CVPR-[Stochastic downsampling for cost-adjustable inference and improved regularization in convolutional networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kuen_Stochastic_Downsampling_for_CVPR_2018_paper.html)
+- 2018-CVPR-[“Learning-Compression” Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.pdf)
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
 - 2018-IJCAI-SFP-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
@@ -171,6 +172,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.04-[Meta Filter Pruning to Accelerate Deep Convolutional Neural Networks](https://arxiv.org/abs/1904.03961)
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
 - 2019.04-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
+- 2019.05-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+
 
 ### Papers-Arithmetic
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
