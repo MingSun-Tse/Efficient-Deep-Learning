@@ -104,6 +104,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[Nestednet: Learning nested sparse structures in deep neural networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kim_NestedNet_Learning_Nested_CVPR_2018_paper.html)
 - 2018-CVPR-[Stochastic downsampling for cost-adjustable inference and improved regularization in convolutional networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Kuen_Stochastic_Downsampling_for_CVPR_2018_paper.html)
 - 2018-CVPR-[“Learning-Compression” Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.pdf)
+- 2018-CVPRw-[Squeezenext: Hardware-aware neural network design](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.html)
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
 - 2018-IJCAI-SFP-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
@@ -120,6 +121,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[Deep Expander Networks: Efficient Deep Networks from Graph Theory](https://arxiv.org/abs/1711.08757) [[Code](https://github.com/DrImpossible/Deep-Expander-Networks)]
 - 2018-ECCV-[SparseNet-Sparsely Aggregated Convolutional Networks](https://arxiv.org/abs/1801.05895) [[Code](https://github.com/Lyken17/SparseNet)]
 - 2018-ECCV-[Ask, acquire, and attack: Data-free uap generation using class impressions](http://openaccess.thecvf.com/content_ECCV_2018/html/Konda_Reddy_Mopuri_Ask_Acquire_and_ECCV_2018_paper.html)
+- 2018-ECCV-[Netadapt: Platform-aware neural network adaptation for mobile applications](http://openaccess.thecvf.com/content_ECCV_2018/html/Tien-Ju_Yang_NetAdapt_Platform-Aware_Neural_ECCV_2018_paper.html)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
@@ -162,6 +164,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
 - 2019-ICML-[LegoNet: Efficient Convolutional Neural Networks with Lego Filters](http://proceedings.mlr.press/v97/yang19c.html) [[Code](https://github.com/zhaohui-yang/LegoNet_pytorch)]
+- 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - 2019-ICML-[Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
