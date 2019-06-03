@@ -22,6 +22,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
 - 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
+- 2015-BMVC-[Learning the structure of deep architectures using l1 regularization](http://www.bmva.org/bmvc/2015/papers/paper023/paper023.pdf)
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
 - 2015-NIPS-[Binaryconnect: Training deep neural networks with binary weights during propagations]()
 - 2015-NIPSw-[Distilling Intractable Generative Models](http://homepages.inf.ed.ac.uk/s1459647/papers/distilling_generative_models.pdf)
@@ -34,7 +35,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-ICLR-[Neural networks with few multiplications]()
+- 2016-ICLRw-[Randomout: Using a convolutional gradient norm to win the filter lottery](https://arxiv.org/abs/1602.05931)
 - 2016-CVPR-[Fast algorithms for convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html)
+- 2016-BMVC-[Learning neural network architectures using backpropagation](https://arxiv.org/abs/1511.05497)
 - 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks)
