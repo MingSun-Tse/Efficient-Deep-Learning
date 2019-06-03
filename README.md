@@ -27,6 +27,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-NIPSw-[Distilling Intractable Generative Models](http://homepages.inf.ed.ac.uk/s1459647/papers/distilling_generative_models.pdf)
 - 2015-CVPR-[Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhang_Efficient_and_Accurate_2015_CVPR_paper.html) [2016 TPAMI version: [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://ieeexplore.ieee.org/abstract/document/7332968)]
 - 2015-CVPR-[Sparse Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
+- 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
 - 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/pdf/1512.09194.pdf)
 - 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
@@ -180,10 +181,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.05-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
 
 
-### Papers-Arithmetic
-- 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
-- 2017-ICCV-[Interleaved Group Convolutions for Deep Neural Networks](https://arxiv.org/abs/1707.02725)
-
 ### Papers-Advesarial Attacks
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
@@ -194,15 +191,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
 - 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
 - 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (LIME)
-- 2017-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
+- 2016-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
+- 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
 - 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279) (TCAV)
 - 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
 - 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
 - 2018-NIPS-[To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) [[Code](https://github.com/google/TrustScore)]
 - 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
-- 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
-
+- 2019.05-[Luck Matters: Understanding Training Dynamics of Deep ReLU Networks](https://arxiv.org/pdf/1905.13405.pdf)
+- 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
@@ -233,7 +231,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
-- 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186) (Huawei)
+- 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
 
 
