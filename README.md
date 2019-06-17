@@ -165,6 +165,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Efficient Neural Network Compression](https://arxiv.org/abs/1811.12781) [[Code](https://github.com/Hyeji-Kim/ENC)]
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) [[Code](https://github.com/ShawnDing1994/Centripetal-SGD)]
+- 2019-CVPR-[DSC: Dense-Sparse Convolution for Vectorized Inference of Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPRW_2019/html/SAIAD/Frickenstein_DSC_Dense-Sparse_Convolution_for_Vectorized_Inference_of_Convolutional_Neural_Networks_CVPRW_2019_paper.html)
+- 2019-CVPR-[DupNet: Towards Very Tiny Quantized CNN With Improved Accuracy for Face Detection](http://openaccess.thecvf.com/content_CVPRW_2019/html/EVW/Gao_DupNet_Towards_Very_Tiny_Quantized_CNN_With_Improved_Accuracy_for_CVPRW_2019_paper.html)
+
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
@@ -183,10 +186,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
 - 2019.04-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
 - 2019.05-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+- 2019.06-[AutoGrow: Automatic Layer Growing in Deep Convolutional Networks](https://arxiv.org/abs/1906.02909)
+- 2019.06-[BasisConv: A method for compressed representation and learning in CNNs](https://arxiv.org/abs/1906.04509)
+- 2019.06-[BlockSwap: Fisher-guided Block Substitution for Network Compression](https://arxiv.org/abs/1906.04113)
+- 2019.06-[Data-Free Quantization through Weight Equalization and Bias Correction](https://arxiv.org/abs/1906.04721)
+- 2019.06-[Separable Layers Enable Structured Efficient Linear Substitutions](https://arxiv.org/abs/1906.00859) [[Code](https://github.com/BayesWatch/deficient-efficient)]
+- 2019.06-[Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256)
+- 2019.06-[A Taxonomy of Channel Pruning Signals in CNNs](https://arxiv.org/abs/1906.04675)
 
 
 ### Papers-Advesarial Attacks
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
+
 
 ### Papers-Interpretability
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
@@ -205,6 +216,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
 - 2019.05-[Luck Matters: Understanding Training Dynamics of Deep ReLU Networks](https://arxiv.org/pdf/1905.13405.pdf)
 - 2019.06-[The Generalization-Stability Tradeoff in Neural Network Pruning](https://arxiv.org/abs/1906.03728)
+- 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
 - 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 
 ### Papers-Knowledge Distillation
@@ -232,10 +244,15 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.12-[Few Sample Knowledge Distillation for Efficient Network Compression](https://arxiv.org/abs/1812.01839)
 - 2018-AAAI-[DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer](https://arxiv.org/abs/1707.01220)
 - 2018-AAAI-[Dynamic deep neural networks: Optimizing accuracy-efficiency trade-offs by selective execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16291/16575)
+- 2018-AAAI-[Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/abs/1708.04106)
 - 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
+- 2018-IJCAI-[Better and Faster: Knowledge Transfer from Multiple Self-supervised Learning Tasks via Graph Distillation for Video Classification](https://arxiv.org/abs/1804.10069)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
+- 2019-CVPR-[Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation](http://openaccess.thecvf.com/content_CVPRW_2019/html/CEFRL/Liu_Knowledge_Representing_Efficient_Sparse_Representation_of_Prior_Knowledge_for_Knowledge_CVPRW_2019_paper.html)
+- 2019-CVPR-[Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.html)
+
 - 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
 
