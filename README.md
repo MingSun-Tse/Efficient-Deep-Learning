@@ -126,6 +126,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[SparseNet-Sparsely Aggregated Convolutional Networks](https://arxiv.org/abs/1801.05895) [[Code](https://github.com/Lyken17/SparseNet)]
 - 2018-ECCV-[Ask, acquire, and attack: Data-free uap generation using class impressions](http://openaccess.thecvf.com/content_ECCV_2018/html/Konda_Reddy_Mopuri_Ask_Acquire_and_ECCV_2018_paper.html)
 - 2018-ECCV-[Netadapt: Platform-aware neural network adaptation for mobile applications](http://openaccess.thecvf.com/content_ECCV_2018/html/Tien-Ju_Yang_NetAdapt_Platform-Aware_Neural_ECCV_2018_paper.html)
+- 2018-ECCV-[Clustering Convolutional Kernels to Compress Deep Neural Networks](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01237-3_14.pdf)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
