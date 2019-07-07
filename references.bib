@@ -1,5 +1,5 @@
 # ------------------------
-# last update: 2019-05-21
+# last update: 2019-06-23
 # ------------------------
 @STRING{PAMI="TPAMI"}
 @STRING{IJCV="IJCV"}
@@ -30,7 +30,6 @@
 @STRING{NPAR ="NPAR"}
 @STRING{IJCNN ="IJCNN"}
 @STRING{AISTATS ="AISTATS"}
-@STRING{IJCAI = "IJCAI"}
 
 @inproceedings{wei-2001-texture,
   title={Texture synthesis over arbitrary manifold surfaces},
@@ -532,7 +531,6 @@ year={2016}
   year={2014}
 }
 
-# CP
 @inproceedings{he2017channel,
   title={Channel pruning for accelerating very deep neural networks},
   author={He, Yihui and Zhang, Xiangyu and Sun, Jian},
@@ -540,7 +538,6 @@ year={2016}
   year={2017}
 }
 
-# Slimming
 @inproceedings{liu2017learning,
   title={Learning efficient convolutional networks through network slimming},
   author={Liu, Zhuang and Li, Jianguo and Shen, Zhiqiang and Huang, Gao and Yan, Shoumeng and Zhang, Changshui},
@@ -548,33 +545,10 @@ year={2016}
   year={2017}
 }
 
-# SFP
 @inproceedings{he2018soft,
   title={Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks},
   author={He, Yang and Kang, Guoliang and Dong, Xuanyi and Fu, Yanwei and Yang, Yi},
   booktitle=IJCAI,
-  year={2018}
-}
-
-# ThiNet
-@inproceedings{luo2017thinet,
-  title={Thinet: A filter level pruning method for deep neural network compression},
-  author={Luo, Jian-Hao and Wu, Jianxin and Lin, Weiyao},
-  booktitle=ICCV,
-  year={2017}
-}
-
-@article{luo2018thinet,
-  title={Thinet: A filter level pruning method for deep neural network compression},
-  author={Luo, Jian-Hao and Wu, Jianxin and Lin, Weiyao},
-  joint=PAMI,
-  year={2018}
-}
-
-@article{luo2018autopruner,
-  title={Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference},
-  author={Luo, Jian-Hao and Wu, Jianxin},
-  journal={arXiv preprint arXiv:1805.08941},
   year={2018}
 }
 
@@ -721,6 +695,20 @@ year={2016}
   author={Yushu Feng and Huan Wang and Haoji Hu and Daniel Yi},
   booktitle=ICML-W,
   year={2019}
+}
+
+@ARTICLE{CouBen16,
+  author =       {M. Courbariaux and Y. Bengio},
+  title =        {{BinaryNet}: Training deep neural networks with weights and activations constrained to~$+1$ or~$-1$},
+  journal =      {arXiv preprint arXiv:1602.02830},
+  year =         {2016},
+}
+
+@ARTICLE{LinCouMemBen16,
+  author =       {Z. Lin and M. Courbariaux and R. Memisevic and Y. Bengio},
+  title =        {Neural networks with few multiplications},
+  journal =      {arXiv preprint arXiv:1510.03009},
+  year =         {2016},
 }
 
 @article{courbariaux2016binarized,
@@ -880,7 +868,6 @@ year={2016}
   year =         {2016},
 }
 
-
 @inproceedings{BaCar14,
   author =       {J. Ba and R. Caruana},
   title =        {Do deep nets really need to be deep?},
@@ -888,19 +875,11 @@ year={2016}
   year =         {2014}
 }
 
-
 @inproceedings{CheWilTyrWeiChe15,
   author =       {W. Chen and J. T. Wilson and S. Tyree and K. Q. Weinberger and Y. Chen},
   title =        {Compressing neural networks with the hashing trick},
   booktitle =    ICML,
   year =         {2015},
-}
-
-@ARTICLE{CouBen16,
-  author =       {M. Courbariaux and Y. Bengio},
-  title =        {{BinaryNet}: Training deep neural networks with weights and activations constrained to~$+1$ or~$-1$},
-  journal =      {arXiv preprint arXiv:1602.02830},
-  year =         {2016},
 }
 
 # OBD
@@ -1093,12 +1072,6 @@ year={2016}
   year =         {1998},
 }
 
-@ARTICLE{LinCouMemBen16,
-  author =       {Z. Lin and M. Courbariaux and R. Memisevic and Y. Bengio},
-  title =        {Neural networks with few multiplications},
-  journal =      {arXiv preprint arXiv:1510.03009},
-  year =         {2016},
-}
 
 @article{LiuChen98,
   author = {J. S. Liu and R. Chen},
@@ -1283,20 +1256,6 @@ year={2016}
   year = {2018},
 }
 
-@inproceedings{ding2019centripetal,
-  title={Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure},
-  author={Ding, Xiaohan and Ding, Guiguang and Guo, Yuchen and Han, Jungong},
-  journal=CVPR,
-  year={2019}
-}
-
-@inproceedings{ding2019approximated,
-  title={Approximated Oracle Filter Pruning for Destructive CNN Width Optimization},
-  author={Ding, Xiaohan and Ding, Guiguang and Guo, Yuchen and Han, Jungong and Yan, Chenggang},
-  booktitle=ICML,
-  year={2019}
-}
-
 @article{Yuan2006Model,
   title={Model selection and estimation in regression with grouped variables},
   author={Yuan, Ming and Lin, Yi},
@@ -1453,7 +1412,6 @@ year={2016}
   title={Greedy layer-wise training of deep networks},
   author={Bengio, Yoshua and Lamblin, Pascal and Popovici, Dan and Larochelle, Hugo},
   booktitle=NIPS,
-  pages={153--160},
   year={2007}
 }
 
@@ -1566,20 +1524,43 @@ year={2016}
   year={2017}
 }
 
-@inproceedings{singh2019play,
-  title={Play and Prune: Adaptive Filter Pruning for Deep Model Compression},
-  author={Singh, Pravendra and Verma, Vinay Kumar and Rai, Piyush and Namboodiri, Vinay P},
-  booktitle=IJCAI,
+@inproceedings{liu2019rethinking,
+  title={Rethinking the Value of Network Pruning},
+  author={Zhuang Liu, Mingjie Sun, Tinghui Zhou, Gao Huang, Trevor Darrell},
+  booktitle=ICLR,
   year={2019}
 }
 
-@article{recht2019imagenet,
-  title={Do ImageNet Classifiers Generalize to ImageNet?},
-  author={Recht, Benjamin and Roelofs, Rebecca and Schmidt, Ludwig and Shankar, Vaishaal},
-  journal={arXiv preprint arXiv:1902.10811},
-  year={2019}
+@inproceedings{xx2018is,
+  title={Pruning neural networks: is it time to nip it in the bud?},
+  author={Elliot J. Crowley, Jack Turner, Amos Storkey, Michael O'Boyle},
+  booktitle=NIPS-W,
+  year={2018}
 }
 
+# ThiNet
+@inproceedings{luo2017thinet,
+  title={Thinet: A filter level pruning method for deep neural network compression},
+  author={Luo, Jian-Hao and Wu, Jianxin and Lin, Weiyao},
+  booktitle=ICCV,
+  year={2017}
+}
+
+@article{luo2018thinet,
+  title={Thinet: A filter level pruning method for deep neural network compression},
+  author={Luo, Jian-Hao and Wu, Jianxin and Lin, Weiyao},
+  journal=PAMI,
+  year={2018}
+}
+
+@article{luo2018autopruner,
+  title={Autopruner: An end-to-end trainable filter pruning method for efficient deep model inference},
+  author={Luo, Jian-Hao and Wu, Jianxin},
+  journal={arXiv preprint arXiv:1805.08941},
+  year={2018}
+}
+
+# SSS
 @inproceedings{huang2018data,
   title={Data-Driven Sparse Structure Selection for Deep Neural Networks},
   author={Zehao Huang and Naiyan Wang},
