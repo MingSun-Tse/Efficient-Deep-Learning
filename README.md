@@ -59,13 +59,15 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-CVPR-[Xception: Deep learning with depthwise separable convolutions](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
 - 2017-ICCV-[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) [[Code](https://github.com/yihui-he/channel-pruning)]
 - 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[Code](https://github.com/liuzhuang13/slimming/)]
-- 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)] [[Code](https://github.com/Roll920/ThiNet_Code)] [[2018 TPAMI version]()]
+- 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)] [[Code](https://github.com/Roll920/ThiNet_Code)] [[2018 TPAMI version](NOT FOUND)]
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering](https://www.sciencedirect.com/science/article/pii/S0893608017300928)
 - 2017.02-[The Power of Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1702.06257)
+- 2017.05-[Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning](https://arxiv.org/abs/1705.07356)
+- 2017.07-[Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM](https://arxiv.org/abs/1707.09870)
 - 2017.11-[GPU Kernels for Block-Sparse Weights](https://openai.com/blog/block-sparse-gpu-kernels/) [[Code](https://github.com/openai/blocksparse)] (OpenAI)
 - 2017.11-[Block-sparse recurrent neural networks](https://arxiv.org/abs/1711.02782) (Baidu)
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
