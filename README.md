@@ -426,11 +426,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
 - COLT: [2019](http://learningtheory.org/colt2019/)
 - SysML: [2018](http://www.sysml.cc/2018/index.html), [2019](http://www.sysml.cc/index.html), [2020](https://systemsandml.org/)
-- CDNNRIA Workshop: Compact Deep Neural Network Representation with Industrial Applications [1st: 2018 NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA), [2nd: 2019 ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)
-- LLD Workshop: Learning with Limited Data [1st: 2017 NIPSw](https://lld-workshop.github.io/2017/), [2nd: 2019 ICLRw](https://lld-workshop.github.io/)
-- WHI: Worshop on Human Interpretability in Machine Learning [1st: 2016 ICMLw](https://sites.google.com/site/2016whi/), [2nd: 2017 ICMLw](https://sites.google.com/view/whi2017/home), [3rd: 2018 ICMLw](https://sites.google.com/view/whi2018)
+- CDNNRIA Workshop (Compact Deep Neural Network Representation with Industrial Applications): [1st-2018-NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA), [2nd-2019-ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)
+- LLD Workshop (Learning with Limited Data): [1st-2017-NIPSw](https://lld-workshop.github.io/2017/), [2nd-2019-ICLRw](https://lld-workshop.github.io/)
+- WHI (Worshop on Human Interpretability in Machine Learning): [1st-2016-ICMLw](https://sites.google.com/site/2016whi/), [2nd-2017-ICMLw](https://sites.google.com/view/whi2017/home), [3rd-2018-ICMLw](https://sites.google.com/view/whi2018)
 - [NIPS-18 Workshop on Systems for ML and Open Source Software](http://learningsys.org/nips18/schedule.html)
-- MLPCD Workshop: Machine Learning on the Phone and other Consumer Devices [2nd: 2018 NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/call-for-papers)
+- MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
 
 
 ## Light DNN Libaries
