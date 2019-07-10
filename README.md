@@ -434,6 +434,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## Light DNN Libaries
+- [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
+- [Mobile AI Benchmark](https://github.com/XiaoMi/mobile-ai-bench)
 - [NNPACK](https://github.com/Maratyszcza/NNPACK)
 - [TF-Lite](https://tensorflow.google.cn/lite)
 - [Tencent NCNN](https://github.com/Tencent/ncnn)
@@ -444,7 +446,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Baidu Paddle-Mobile](https://github.com/PaddlePaddle/paddle-mobile)
 - [Baidu Anakin](https://github.com/PaddlePaddle/Anakin)
 - [MS ELL](https://microsoft.github.io/ELL/)
-- [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
 
 
 ## News
