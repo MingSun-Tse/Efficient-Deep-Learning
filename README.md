@@ -15,6 +15,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
 - 2013-NIPS-[Predicting Parameters in Deep Learning](http://papers.nips.cc/paper/5025-predicting-parameters-in-deep-learning)
 - 2014-BMVC-[Speeding up convolutional neural networks with low rank expansions](https://arxiv.org/abs/1405.3866)
+- 2014-INTERSPEECH-[1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](https://www.isca-speech.org/archive/interspeech_2014/i14_1058.html)
 - 2014-NIPS-[Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation)
 - 2014-NIPS-[Do deep neural nets really need to be deep](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
 - 2014.12-[Memory bounded deep convolutional networks](https://arxiv.org/abs/1412.1442)
@@ -24,13 +25,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
 - 2015-BMVC-[Learning the structure of deep architectures using l1 regularization](http://www.bmva.org/bmvc/2015/papers/paper023/paper023.pdf)
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
-- 2015-NIPS-[Binaryconnect: Training deep neural networks with binary weights during propagations]()
+- 2015-NIPS-[Binaryconnect: Training deep neural networks with binary weights during propagations](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b)
+- 2015-NIPS-[Structured Transforms for Small-Footprint Deep Learning](http://papers.nips.cc/paper/5869-structured-transforms-for-small-footprint-deep-learning)
+- 2015-NIPS-[Tensorizing Neural Networks](http://papers.nips.cc/paper/5787-tensorizing-neural-networks)
 - 2015-NIPSw-[Distilling Intractable Generative Models](http://homepages.inf.ed.ac.uk/s1459647/papers/distilling_generative_models.pdf)
 - 2015-NIPSw-[Federated Optimization:Distributed Optimization Beyond the Datacenter](https://arxiv.org/abs/1511.03575)
 - 2015-CVPR-[Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhang_Efficient_and_Accurate_2015_CVPR_paper.html) [2016 TPAMI version: [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://ieeexplore.ieee.org/abstract/document/7332968)]
 - 2015-CVPR-[Sparse Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
-- 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/pdf/1512.09194.pdf)
+- 2015.11-[Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
+- 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
 - 2016-ICLRb-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
@@ -42,12 +46,17 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
 - 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks)
-- 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns)
+- 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns) [[Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)]
 - 2016-NIPS-[Learning the Number of Neurons in Deep Neural Networks](http://papers.nips.cc/paper/6372-learning-the-number-of-neurons-in-deep-networks)
 - 2016-NIPSw-[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 - 2016-ISCA-[Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf)
+- 2016-ICASSP-[Learning compact recurrent neural networks](https://arxiv.org/abs/1604.02594)
+- 2016-CoNLL-[Compression of Neural Machine Translation Models via Pruning](https://arxiv.org/abs/1606.09274)
+- 2016.03-[Adaptive Computation Time for Recurrent Neural Networks](https://arxiv.org/abs/1603.08983)
 - 2016.06-[Structured Convolution Matrices for Energy-efficient Deep learning](https://arxiv.org/abs/1606.02407)
+- 2016.06-[Deep neural networks are robust to weight binarization and other non-linear distortions](https://arxiv.org/abs/1606.01981)
 - 2016.07-IHT-[Training skinny deep neural networks with iterative hard thresholding methods](https://arxiv.org/abs/1607.05423)
+- 2016.08-[Recurrent Neural Networks With Limited Numerical Precision](https://arxiv.org/abs/1608.06902)
 - 2016.10-[Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/abs/1610.09650)
 - 2016.10-[Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
@@ -55,7 +64,15 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
 - 2017-ICLR-[DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) (Closely related work: SFP and IHT)
 - 2017-ICLR-[Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/abs/1608.01409)
+- 2017-ICLR-[Towards the Limit of Network Quantization](https://openreview.net/forum?id=rJ8uNptgl)
+- 2017-ICLR-[Loss-aware Binarization of Deep Networks](https://openreview.net/forum?id=S1oWlN9ll&noteId=S1oWlN9ll)
+- 2017-ICLR-[Trained Ternary Quantization](https://openreview.net/forum?id=S1_pAu9xl&noteId=S1_pAu9xl) [[Code](https://github.com/czhu95/ternarynet)]
+- 2017-ICLR-[Exploring Sparsity in Recurrent Neural Networks](https://openreview.net/forum?id=BylSPv9gx&noteId=BylSPv9gx)
+- 2017-ICLR-[Soft Weight-Sharing for Neural Network Compression](https://openreview.net/forum?id=HJGwcKclx) [[Reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/)]
+- 2017-ICLR-[Training Compressed Fully-Connected Networks with a Density-Diversity Penalty](https://openreview.net/forum?id=Hku9NK5lx)
 - 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
+- 2017-ICML-[Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank](https://arxiv.org/abs/1703.00144)
+- 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2017-CVPR-[Learninng deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
 - 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html)
@@ -71,7 +88,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
+- 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning)
+- 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-AISTATS-[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+- 2017-ICASSP-[Accelerating Deep Convolutional Networks using low-precision and sparsity](https://arxiv.org/abs/1610.00324)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering](https://www.sciencedirect.com/science/article/pii/S0893608017300928)
 - 2017.02-[The Power of Sparsity in Convolutional Neural Networks](https://arxiv.org/abs/1702.06257)
 - 2017.07-[Stochastic, Distributed and Federated Optimization for Machine Learning](https://arxiv.org/abs/1707.01155)
@@ -184,7 +204,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[DupNet: Towards Very Tiny Quantized CNN With Improved Accuracy for Face Detection](http://openaccess.thecvf.com/content_CVPRW_2019/html/EVW/Gao_DupNet_Towards_Very_Tiny_Quantized_CNN_With_Improved_Accuracy_for_CVPRW_2019_paper.html)
 - 2019-CVPR-[ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_ECC_Platform-Independent_Energy-Constrained_Deep_Neural_Network_Compression_via_a_Bilinear_CVPR_2019_paper.html)
 - 2019-CVPR-[Variational Convolutional Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.html)
-
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
@@ -270,7 +289,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233)
 - 2019-CVPR-[Knowledge Representing: Efficient, Sparse Representation of Prior Knowledge for Knowledge Distillation](http://openaccess.thecvf.com/content_CVPRW_2019/html/CEFRL/Liu_Knowledge_Representing_Efficient_Sparse_Representation_of_Prior_Knowledge_for_Knowledge_CVPRW_2019_paper.html)
 - 2019-CVPR-[Knowledge Distillation via Instance Relationship Graph](http://openaccess.thecvf.com/content_CVPR_2019/html/Liu_Knowledge_Distillation_via_Instance_Relationship_Graph_CVPR_2019_paper.html)
-
 - 2019.04-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
 
@@ -294,6 +312,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ## Venues
 - [OpenReview](https://openreview.net/)
+- [ICLR](https://openreview.net/group?id=ICLR.cc)
 - [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
 - [ECCV](https://link.springer.com/conference/eccv)
 - [2017-ICML Tutorial](http://people.csail.mit.edu/beenkim/icml_tutorial.html): interpretable machine learning
@@ -304,6 +323,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-IJCAI](https://www.ijcai-18.org/accepted-papers/)
 - [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - [2018-NIPS](https://nips.cc/Conferences/2018/Schedule)
+- COLT: [2019](http://learningtheory.org/colt2019/)
+- SysML: [2018](http://www.sysml.cc/2018/index.html), [2019](http://www.sysml.cc/index.html), [2020](https://systemsandml.org/)
 - CDNNRIA workshop: Compact Deep Neural Network Representation with Industrial Applications [[1st: 2018 NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA)] [[2nd: 2019 ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)]
 - LLD Workshop: Learning with Limited Data [[1st: 2017 NIPSw](https://lld-workshop.github.io/2017/)] [[2nd: 2019 ICLRw](https://lld-workshop.github.io/)]
 - WHI: Worshop on Human Interpretability in Machine Learning [[1st: 2016 ICMLw](https://sites.google.com/site/2016whi/)] [[2nd: 2017 ICMLw](https://sites.google.com/view/whi2017/home)] [[3rd: 2018 ICMLw](https://sites.google.com/view/whi2018)]
