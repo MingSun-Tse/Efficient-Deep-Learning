@@ -433,8 +433,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
 
 
-## Lightweight DNN Libaries/APIs
-- [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
+## Lightweight DNN Engines/APIs
 - [NNPACK](https://github.com/Maratyszcza/NNPACK)
 - DMLC: [Tensor Virtual Machine (TVM): Open Deep Learning Compiler Stack](https://github.com/dmlc/tvm)
 - Tencent: [NCNN](https://github.com/Tencent/ncnn)
@@ -448,6 +447,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - Qualcomm: [Snapdragon Neural Processing Engine (SNPE)](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu), [Adreno GPU SDK](https://developer.qualcomm.com/software/adreno-gpu-sdk/gpu)
 - Huawei: [HiAI](https://developer.huawei.com/consumer/cn/hiai)
 - ARM: [Tengine](https://github.com/OAID/Tengine/)
+- Related: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
+
 
 ## Related Repos
 - [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools)
