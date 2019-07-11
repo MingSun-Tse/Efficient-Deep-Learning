@@ -438,7 +438,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - DMLC: [Tensor Virtual Machine (TVM): Open Deep Learning Compiler Stack](https://github.com/dmlc/tvm)
 - Tencent: [NCNN](https://github.com/Tencent/ncnn)
 - Xiaomi: [MACE](https://github.com/XiaoMi/mace), [Mobile AI Benchmark](https://github.com/XiaoMi/mobile-ai-bench)
-- Alibaba: [MNN](https://github.com/alibaba/MNN)
+- Alibaba: [MNN](https://github.com/alibaba/MNN) [blog (in Chinese)](https://yq.aliyun.com/articles/707014?spm=a2c4e.11153940.0.0.696d586bavHos1)
 - Baidu: [Paddle-Slim](https://github.com/PaddlePaddle/models/tree/v1.4/PaddleSlim), [Paddle-Mobile](https://github.com/PaddlePaddle/paddle-mobile), [Anakin](https://github.com/PaddlePaddle/Anakin)
 - Microsoft: [ELL](https://microsoft.github.io/ELL/)
 - Facebook: [Caffe2/PyTorch](https://caffe2.ai/)
