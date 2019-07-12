@@ -310,6 +310,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICML-[LegoNet: Efficient Convolutional Neural Networks with Lego Filters](http://proceedings.mlr.press/v97/yang19c.html) [[Code](https://github.com/zhaohui-yang/LegoNet_pytorch)]
 - 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - 2019-ICML-[Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)
+- 2019-ICML-[Training CNNs with Selective Allocation of Channels](http://proceedings.mlr.press/v97/jeong19c.html)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
