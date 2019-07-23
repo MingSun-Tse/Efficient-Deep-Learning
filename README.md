@@ -292,6 +292,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
 - 2019-CVPR-[All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification](https://arxiv.org/abs/1903.05285)
+- 2019-CVPR-[Importance Estimation for Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Molchanov_Importance_Estimation_for_Neural_Network_Pruning_CVPR_2019_paper.html) [[Code](https://github.com/NVlabs/Taylor_pruning)]
 - 2019-CVPR-[HetConv Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120)
 - 2019-CVPR-[Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/abs/1904.00346)
 - 2019-CVPR-[Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)
@@ -323,6 +324,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
 - 2019.04-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
 - 2019.05-[Dynamic Neural Network Channel Execution for Efficient Training](https://arxiv.org/abs/1905.06435)
+- 2019.05-[Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) [[Code](https://github.com/D-X-Y/TAS)]
 - 2019.06-[AutoGrow: Automatic Layer Growing in Deep Convolutional Networks](https://arxiv.org/abs/1906.02909)
 - 2019.06-[BasisConv: A method for compressed representation and learning in CNNs](https://arxiv.org/abs/1906.04509)
 - 2019.06-[BlockSwap: Fisher-guided Block Substitution for Network Compression](https://arxiv.org/abs/1906.04113)
@@ -404,6 +406,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
+- [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
 - [Song Han](https://songhan.mit.edu/) @ MIT
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
