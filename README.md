@@ -463,10 +463,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - Related: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
 
 
-## Related Repos
+## Related Repos and Websites
 - [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools)
 - [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
+- [Papers with code](https://paperswithcode.com/task/network-pruning)
 
 
 ## News
