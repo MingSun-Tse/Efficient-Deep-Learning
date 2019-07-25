@@ -103,7 +103,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
 - 2017-ICCV-[Coordinating Filters for Faster Deep Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Wen_Coordinating_Filters_for_ICCV_2017_paper.html) [[Code](https://github.com/wenwei202/caffe)]
 - 2017-ICCV-[Performance Guaranteed Network Acceleration via High-Order Residual Quantization](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Performance_Guaranteed_Network_ICCV_2017_paper.html)
-- 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee)
+- 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)]
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
@@ -169,6 +169,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLRw-[Training Shallow and Thin Networks for Acceleration via Knowledge Distillation with Conditional Adversarial Networks](https://openreview.net/forum?id=BJbtuRRLM)
 - 2018-ICLRw-[Accelerating Neural Architecture Search using Performance Prediction](https://openreview.net/forum?id=HJqk3N1vG)
 - 2018-ICLRw-[Nonlinear Acceleration of CNNs](https://openreview.net/forum?id=HkNpF_kDM)
+- 2018-ICLRw-[Attention-Based Guided Structured Sparsity of Deep Neural Networks](https://arxiv.org/pdf/1802.09902v4.pdf) [[Code](https://github.com/astorfi/attention-guided-sparsity)]
 - 2018-CVPR-[Context-Aware Deep Feature Compression for High-Speed Visual Tracking](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)
 - 2018-CVPR-[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf)
 - 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
@@ -191,6 +192,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
 - 2018-CVPR-["Learning-Compression" Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.pdf)
 - 2018-CVPRw-[Squeezenext: Hardware-aware neural network design](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.html)
+- 2018-CVPR-[PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769v2.pdf) [[Code](https://github.com/arunmallya/packnet)]
 - 2018-ICML-[Compressing Neural Networks using the Variational Information Bottleneck](http://proceedings.mlr.press/v80/dai18d.html)
 - 2018-ICML-[DCFNet: Deep Neural Network with Decomposed Convolutional Filters](http://proceedings.mlr.press/v80/qiu18a.html)
 - 2018-ICML-[Deep k-Means Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions](http://proceedings.mlr.press/v80/wu18h.html)
@@ -258,9 +260,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
 - 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)] [[Code](https://github.com/MingSun-Tse/Caffe_IncReg)]
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
+- 2018-NIPSw-[Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678) [[OpenReview](https://openreview.net/forum?id=HkghWScuoQ)] [[Code](https://github.com/for-ai/TD)]
 - 2018-WACV-[Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks](https://arxiv.org/abs/1801.10447)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
+- 2018.10-[A Closer Look at Structured Pruning for Neural Network Compression](https://arxiv.org/abs/1810.04622) [[Code](https://github.com/BayesWatch/pytorch-prunes)]
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 - 2018.11-[PydMobileNet: Improved Version of MobileNets with Pyramid Depthwise Separable Convolution](https://arxiv.org/abs/1811.07083)
 - 2019-SysML-[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
@@ -304,6 +308,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[DupNet: Towards Very Tiny Quantized CNN With Improved Accuracy for Face Detection](http://openaccess.thecvf.com/content_CVPRW_2019/html/EVW/Gao_DupNet_Towards_Very_Tiny_Quantized_CNN_With_Improved_Accuracy_for_CVPRW_2019_paper.html)
 - 2019-CVPR-[ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_ECC_Platform-Independent_Energy-Constrained_Deep_Neural_Network_Compression_via_a_Bilinear_CVPR_2019_paper.html)
 - 2019-CVPR-[Variational Convolutional Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.html)
+- 2019-CVPR-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
@@ -311,6 +316,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - 2019-ICML-[Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)
 - 2019-ICML-[Training CNNs with Selective Allocation of Channels](http://proceedings.mlr.press/v97/jeong19c.html)
+- 2019-ICMLw-[Towards Learning of Filter-Level Heterogeneous Compression of Convolutional Neural Networks](https://arxiv.org/abs/1904.09872) [[Code](https://github.com/yochaiz/Slimmable)] (AutoML workshop)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-ICCV-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
@@ -358,6 +364,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.06-[The Generalization-Stability Tradeoff in Neural Network Pruning](https://arxiv.org/abs/1906.03728)
 - 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
 - 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+
 
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
