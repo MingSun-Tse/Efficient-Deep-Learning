@@ -485,6 +485,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
 - [Papers with code](https://paperswithcode.com/task/network-pruning)
+- [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
+- [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 
 
 ## News
