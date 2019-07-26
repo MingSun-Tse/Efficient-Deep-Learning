@@ -272,7 +272,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICLR-[Slimmable Neural Networks](https://openreview.net/forum?id=H1gMCsAqY7) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019-ICLR-[Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444)
 - 2019-ICLR-[Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters](https://openreview.net/forum?id=r1f0YiCctm) [[Code](https://github.com/cambridge-mlg/miracle)]
-- 2019-ICLR-[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332)
+- 2019-ICLR-[ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware](https://arxiv.org/abs/1812.00332) [[Code](https://github.com/MIT-HAN-LAB/ProxylessNAS)]
 - 2019-ICLR-[SNIP: Single-shot Network Pruning based on Connection Sensitivity](https://openreview.net/forum?id=B1VZqjAcYX)
 - 2019-ICLR-[Non-vacuous Generalization Bounds at the ImageNet Scale: a PAC-Bayesian Compression Approach](https://openreview.net/forum?id=BJgqqsAct7)
 - 2019-ICLR-[Dynamic Channel Pruning: Feature Boosting and Suppression](https://openreview.net/forum?id=BJxh2j0qYm)
@@ -287,10 +287,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICLR-[Integer Networks for Data Compression with Latent-Variable Models](https://openreview.net/forum?id=S1zz2i0cY7)
 - 2019-ICLR-[Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters](https://openreview.net/forum?id=r1f0YiCctm)
 - 2019-ICLR-[Analysis of Quantized Models](https://openreview.net/forum?id=ryM_IoAqYX)
+- 2019-ICLR-[DARTS: Differentiable Architecture Search](https://arxiv.org/abs/1806.09055) [[Code](https://github.com/quark0/darts)]
+- 2019-ICLR-[Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/abs/1810.05749)
+- 2019-ICLR-[Learnable Embedding Space for Efficient Neural Architecture Compression](https://openreview.net/forum?id=S1xLN3C9YX) [[Code](https://github.com/Friedrich1006/ESNAC)]
+- 2019-ICLR-[Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081)
+- 2019-ICLR-[SNAS: stochastic neural architecture search](https://openreview.net/pdf?id=rylqooRqK7) (SenseTime)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) [[Code](https://github.com/bhheo/AB_distillation)]
 - 2019-AAAI-[Balanced Sparsity for Efficient DNN Inference on GPU](https://arxiv.org/abs/1811.00206) [[Code](https://github.com/Howal/balanced-sparsity)]
 - 2019-AAAI-[CircConv: A Structured Convolution with Low Complexity](https://arxiv.org/abs/1902.11268)
+- 2019-AAAI-[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
 - 2019-ASPLOS-[Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization](https://arxiv.org/abs/1811.04770)
 - 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
@@ -300,7 +306,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/abs/1904.00346)
 - 2019-CVPR-[Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)
-- 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf)
+- 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf) [[Code](https://github.com/D-X-Y/GDAS)]
+- 2019-CVPR-[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
+- 2019-CVPR-[RENAS: Reinforced Evolutionary Neural Architecture Search](https://arxiv.org/abs/1808.00193)
+- 2019-CVPR-[ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_ChamNet_Towards_Efficient_Network_Design_Through_Platform-Aware_Model_Adaptation_CVPR_2019_paper.pdf)
+- 2019-CVPR-[Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/pdf/1903.03777.pdf) [[Code](https://github.com/lixincn2015/Partial-Order-Pruning)]
+- 2019-CVPR-[Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf) [[Code](https://github.com/tensorflow/models/tree/master/research/deeplab)]
+- 2019-CVPR-[MnasNet: Platform-Aware Neural Architecture Search for Mobile](https://arxiv.org/abs/1807.11626) [[Code](https://github.com/AnjieZheng/MnasNet-PyTorch)]
+- 2019-CVPR-[MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/pdf/1903.06496.pdf)
+- 2019-CVPR-[A Neurobiological Evaluation Metric for Neural Network Model Search](https://arxiv.org/pdf/1805.10726.pdf)
+- 2019-CVPR-[Fast Neural Architecture Search of Compact Semantic Segmentation Models via Auxiliary Cells](https://arxiv.org/abs/1810.10804)
 - 2019-CVPR-[Efficient Neural Network Compression](https://arxiv.org/abs/1811.12781) [[Code](https://github.com/Hyeji-Kim/ENC)]
 - 2019-CVPR-[T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor](http://openaccess.thecvf.com/content_CVPR_2019/html/Kossaifi_T-Net_Parametrizing_Fully_Convolutional_Nets_With_a_Single_High-Order_Tensor_CVPR_2019_paper.html)
 - 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837) [[Code](https://github.com/ShawnDing1994/Centripetal-SGD)]
@@ -316,6 +331,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
 - 2019-ICML-[Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)
 - 2019-ICML-[Training CNNs with Selective Allocation of Channels](http://proceedings.mlr.press/v97/jeong19c.html)
+- 2019-ICML-[NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) [[Code](https://github.com/google-research/nasbench)]
 - 2019-ICMLw-[Towards Learning of Filter-Level Heterogeneous Compression of Convolutional Neural Networks](https://arxiv.org/abs/1904.09872) [[Code](https://github.com/yochaiz/Slimmable)] (AutoML workshop)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
@@ -323,6 +339,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
+- 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
 - 2019.03-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) (Face++)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
