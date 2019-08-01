@@ -43,6 +43,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-ICLR-[Neural networks with few multiplications](https://arxiv.org/abs/1510.03009)
 - 2016-ICLRw-[Randomout: Using a convolutional gradient norm to win the filter lottery](https://arxiv.org/abs/1602.05931)
 - 2016-CVPR-[Fast algorithms for convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html)
+- 2016-CVPR-[Fast ConvNets Using Group-wise Brain Damage](http://openaccess.thecvf.com/content_cvpr_2016/html/Lebedev_Fast_ConvNets_Using_CVPR_2016_paper.html)
 - 2016-BMVC-[Learning neural network architectures using backpropagation](https://arxiv.org/abs/1511.05497)
 - 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
@@ -86,6 +87,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICML-[ZipML: Training Models with End-to-End Low Precision: The Cans, the Cannots, and a Little Bit of Deep Learning](http://proceedings.mlr.press/v70/zhang17e.html)
 - 2017-ICML-[Analytical Guarantees on Numerical Precision of Deep Neural Networks](http://proceedings.mlr.press/v70/sakr17a.html)
 - 2017-ICML-[Adaptive Neural Networks for Efficient Inference](http://proceedings.mlr.press/v70/bolukbasi17a.html)
+- 2017-ICML-[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html)
 - 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
@@ -191,8 +193,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-CVPR-[Two-Step Quantization for Low-Bit Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Wang_Two-Step_Quantization_for_CVPR_2018_paper.html)
 - 2018-CVPR-[Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference](http://openaccess.thecvf.com/content_cvpr_2018/html/Jacob_Quantization_and_Training_CVPR_2018_paper.html)
 - 2018-CVPR-["Learning-Compression" Algorithms for Neural Net Pruning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Carreira-Perpinan_Learning-Compression_Algorithms_for_CVPR_2018_paper.pdf)
-- 2018-CVPRw-[Squeezenext: Hardware-aware neural network design](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.html)
 - 2018-CVPR-[PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/pdf/1711.05769v2.pdf) [[Code](https://github.com/arunmallya/packnet)]
+- 2018-CVPR-[MorphNet: Fast & Simple Resource-Constrained Structure Learning of Deep Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Gordon_MorphNet_Fast__CVPR_2018_paper.html)
+- 2018-CVPR-[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html)
+- 2018-CVPRw-[Squeezenext: Hardware-aware neural network design](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.html)
 - 2018-ICML-[Compressing Neural Networks using the Variational Information Bottleneck](http://proceedings.mlr.press/v80/dai18d.html)
 - 2018-ICML-[DCFNet: Deep Neural Network with Decomposed Convolutional Filters](http://proceedings.mlr.press/v80/qiu18a.html)
 - 2018-ICML-[Deep k-Means Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions](http://proceedings.mlr.press/v80/wu18h.html)
@@ -228,6 +232,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[SkipNet: Learning Dynamic Routing in Convolutional Networks](https://arxiv.org/abs/1711.09485) [[Code](https://github.com/ucbdrive/skipnet)]
 - 2018-ECCV-[Value-aware Quantization for Training and Inference of Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Eunhyeok_Park_Value-aware_Quantization_for_ECCV_2018_paper.html)
 - 2018-ECCV-[LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.html)
+- 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](http://openaccess.thecvf.com/content_ECCV_2018/html/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.html)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
@@ -324,6 +329,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_ECC_Platform-Independent_Energy-Constrained_Deep_Neural_Network_Compression_via_a_Bilinear_CVPR_2019_paper.html)
 - 2019-CVPR-[Variational Convolutional Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.html)
 - 2019-CVPR-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
+- 2019-CVPR-[Accelerating Convolutional Neural Networks via Activation Map Compression](http://openaccess.thecvf.com/content_CVPR_2019/html/Georgiadis_Accelerating_Convolutional_Neural_Networks_via_Activation_Map_Compression_CVPR_2019_paper.html)
+- 2019-CVPR-[Compressing Convolutional Neural Networks via Factorized Convolutional Filters](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Compressing_Convolutional_Neural_Networks_via_Factorized_Convolutional_Filters_CVPR_2019_paper.html)
+- 2019-CVPR-[Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Deep_Virtual_Networks_for_Memory_Efficient_Inference_of_Multiple_Tasks_CVPR_2019_paper.html)
+- 2019-CVPR-[Exploiting Kernel Sparsity and Entropy for Interpretable CNN Compression](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Exploiting_Kernel_Sparsity_and_Entropy_for_Interpretable_CNN_Compression_CVPR_2019_paper.html)
+- 2019-CVPR-[MBS: Macroblock Scaling for CNN Model Reduction](http://openaccess.thecvf.com/content_CVPR_2019/html/Lin_MBS_Macroblock_Scaling_for_CNN_Model_Reduction_CVPR_2019_paper.html)
+- 2019-CVPR-[On Implicit Filter Level Sparsity in Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Mehta_On_Implicit_Filter_Level_Sparsity_in_Convolutional_Neural_Networks_CVPR_2019_paper.html)
+- 2019-CVPR-[Structured Pruning of Neural Networks With Budget-Aware Regularization](http://openaccess.thecvf.com/content_CVPR_2019/html/Lemaire_Structured_Pruning_of_Neural_Networks_With_Budget-Aware_Regularization_CVPR_2019_paper.html)
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
