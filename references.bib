@@ -3,12 +3,14 @@
 @STRING{SIGGRAPH = "SIGGRAPH"}
 @STRING{AISTATS = "AISTATS"}
 @STRING{SIGKDD = "SIGKDD"}
+@STRING{ICASSP = "ICASSP"}
 @STRING{ACMTOG = "ACM Transactions on Graphics"}
 @STRING{NIPSw = "NeurIPS Workshop"}
 @STRING{ICMLw = "ICML Workshop"}
 @STRING{ACMMM = "ACM MM"}
 @STRING{IJCAI = "IJCAI"}
 @STRING{IJCNN = "IJCNN"}
+@STRING{SYSML = "SysML"}
 @STRING{PAMI = "PAMI"}
 @STRING{IJCV = "IJCV"}
 @STRING{JMLR = "JMLR"}
@@ -26,6 +28,7 @@
 @STRING{ICME = "ICME"}
 @STRING{NPAR = "NPAR"}
 @STRING{WACV = "WACV"}
+@STRING{OSDI = "IEEE Symposium on Operating Systems Design and Implementation"}
 @STRING{TIP = "TIP"}
 @STRING{TIT = "TIT"}
 @STRING{VMV = "VMV"}
@@ -482,7 +485,7 @@ year={2016}
 @article{jing2017nstreview,
   author= {Yongcheng Jing and Yezhou Yang and Zunlei Feng and Jingwen Ye and Mingli Song},
   title={Neural Style Transfer: {A} Review},
-  journal={arXiv preprint arXiv:1705.04058}
+  journal={arXiv preprint arXiv:1705.04058},
   year={2017},
 }
 
@@ -493,23 +496,12 @@ year={2016}
   year={2017}
 }
 
-
 @article{anwar2015structured,
   title={Structured Pruning of Deep Convolutional Neural Networks},
   author={Anwar, Sajid and Hwang, Kyuyeon and Sung, Wonyong},
   journal={arXiv preprint arXiv:1512.08571},
   year={2015}
 }
-# @article{anwar2017structured,
-  # title={Structured pruning of deep convolutional neural networks},
-  # author={Anwar, Sajid and Hwang, Kyuyeon and Sung, Wonyong},
-  # journal={ACM Journal on Emerging Technologies in Computing Systems (JETC)},
-  # volume={13},
-  # number={3},
-  # pages={32},
-  # year={2017},
-  # publisher={ACM}
-# }
 
 @inproceedings{han2015learning,
   title={Learning both weights and connections for efficient neural network},
@@ -528,7 +520,7 @@ year={2016}
 @inproceedings{hinton2015distilling,
   title={Distilling the knowledge in a neural network},
   author={Hinton, Geoffrey and Vinyals, Oriol and Dean, Jeff},
-  journal= NIPSw
+  journal= NIPSw,
   year={2014}
 }
 
@@ -810,18 +802,49 @@ year={2016}
 }
 
 @inproceedings{abadi2016tensorflow,
-  title={Tensorflow: A system for large-scale machine learning},
+  title={{TensorFlow}: A system for large-scale machine learning},
   author={Abadi, Mart{\'\i}n and Barham, Paul and Chen, Jianmin and Chen, Zhifeng and Davis, Andy and Dean, Jeffrey and Devin, Matthieu and Ghemawat, Sanjay and Irving, Geoffrey and Isard, Michael and others},
-  booktitle={IEEE Symposium on Operating Systems Design and Implementation},
+  booktitle=OSDI,
   year={2016}
 }
 
-@inproceedings{paszke2017automatic,
+@inproceedings{bastien2012theano,
+  title={Theano: new features and speed improvements},
+  author={Bastien, Fr{\'e}d{\'e}ric and Lamblin, Pascal and Pascanu, Razvan and Bergstra, James and Goodfellow, Ian and Bergeron, Arnaud and Bouchard, Nicolas and Warde-Farley, David and Bengio, Yoshua},
+  booktitle=NIPSw,
+  year={2012}
+}
+
+@inproceedings{pytorch,
   title={Automatic differentiation in PyTorch},
   author={Paszke, Adam and Gross, Sam and Chintala, Soumith and Chanan, Gregory and Yang, Edward and DeVito, Zachary and Lin, Zeming and Desmaison, Alban and Antiga, Luca and Lerer, Adam},
   booktitle=NIPSw,
   year={2017}
 }
+
+@article{chen2015mxnet,
+  title={Mxnet: A flexible and efficient machine learning library for heterogeneous distributed systems},
+  author={Chen, Tianqi and Li, Mu and Li, Yutian and Lin, Min and Wang, Naiyan and Wang, Minjie and Xiao, Tianjun and Xu, Bing and Zhang, Chiyuan and Zhang, Zheng},
+  journal={arXiv preprint arXiv:1512.01274},
+  year={2015}
+}
+
+# CNTK
+@article{cntk,
+  title={An introduction to computational networks and the computational network toolkit},
+  author={Yu, Dong and Eversole, Adam and Seltzer, Mike and Yao, Kaisheng and Huang, Zhiheng and Guenter, Brian and Kuchaiev, Oleksii and Zhang, Yu and Seide, Frank and Wang, Huaming and others},
+  journal={Microsoft Technical Report MSR-TR-2014--112},
+  year={2014}
+}
+
+@article{wei2017dlvm,
+  title={{DLVM}: A modern compiler infrastructure for deep learning systems},
+  author={Wei, Richard and Schwartz, Lane and Adve, Vikram},
+  journal={arXiv preprint arXiv:1711.03016},
+  year={2017}
+}
+
+# https://www.paddlepaddle.org.cn/
 
 @inproceedings{kingma2014adam,
   title={Adam: A method for stochastic optimization},
@@ -1179,6 +1202,44 @@ year={2016}
   publisher={SIAM}
 }
 
+@book{blahut2010fast,
+  title={Fast algorithms for signal processing},
+  author={Blahut, Richard E},
+  year={2010},
+  publisher={Cambridge University Press}
+}
+
+@article{strassen1969gaussian,
+  title={Gaussian elimination is not optimal},
+  author={Strassen, Volker},
+  journal={Numerical Mathematics},
+  volume={13},
+  number={4},
+  pages={354--356},
+  year={1969},
+}
+
+@inproceedings{cong2014minimizing,
+  title={Minimizing computation in convolutional neural networks},
+  author={Cong, Jason and Xiao, Bingjun},
+  booktitle={International conference on artificial neural networks},
+  year={2014},
+}
+
+@article{mathieu2013fast,
+  title={Fast training of convolutional networks through ffts},
+  author={Mathieu, Michael and Henaff, Mikael and LeCun, Yann},
+  journal={arXiv preprint arXiv:1312.5851},
+  year={2013}
+}
+
+@inproceedings{vasilache2014fast,
+  title={Fast convolutional nets with fbfft: A GPU performance evaluation},
+  author={Vasilache, Nicolas and Johnson, Jeff and Mathieu, Michael and Chintala, Soumith and Piantino, Serkan and LeCun, Yann},
+  booktitle=ICLR,
+  year={2015}
+}
+
 @inproceedings{molchanov2017variational,
   title={Variational dropout sparsifies deep neural networks},
   author={Molchanov, Dmitry and Ashukha, Arsenii and Vetrov, Dmitry},
@@ -1219,20 +1280,6 @@ year={2016}
   author={He, Yihui and Lin, Ji and Liu, Zhijian and Wang, Hanrui and Li, Li-Jia and Han, Song},
   booktitle=ECCV,
   year={2018}
-}
-
-@article{mathieu2013fast,
-  title={Fast training of convolutional networks through ffts},
-  author={Mathieu, Michael and Henaff, Mikael and LeCun, Yann},
-  journal={arXiv preprint arXiv:1312.5851},
-  year={2013}
-}
-
-@inproceedings{vasilache2014fast,
-  title={Fast convolutional nets with fbfft: A GPU performance evaluation},
-  author={Vasilache, Nicolas and Johnson, Jeff and Mathieu, Michael and Chintala, Soumith and Piantino, Serkan and LeCun, Yann},
-  booktitle=ICLR,
-  year={2015}
 }
 
 @article{hu2018hashing,
@@ -1569,7 +1616,242 @@ year={2016}
   year={2018}
 }
 
+@article{shi2016edge,
+  title={Edge computing: Vision and challenges},
+  author={Shi, Weisong and Cao, Jie and Zhang, Quan and Li, Youhuizi and Xu, Lanyu},
+  journal={IEEE Internet of Things Journal},
+  volume={3},
+  number={5},
+  pages={637--646},
+  year={2016},
+}
+
+@misc{ncnn,
+  title = {{NCNN}},
+  author = {Tencent},
+  year = {2017},
+  howpublished = {\url{https://github.com/Tencent/ncnn}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{mace,
+  title = {{MACE}: Mobile AI Compute Engine},
+  author = {Xiaomi},
+  year = {2018},
+  howpublished = {\url{https://github.com/XiaoMi/mace}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{anakin,
+  title = {{Anakin}},
+  author = {Baidu},
+  year = {2018},
+  howpublished = {\url{https://github.com/PaddlePaddle/Anakin}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{coreml,
+  title = {{CoreML}},
+  author = {Apple},
+  year = {2017},
+  howpublished = {\url{https://developer.apple.com/documentation/coreml}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{tflite,
+  title = {{TensorFlow Lite}},
+  author = {Google},
+  year = {2017},
+  howpublished = {\url{https://tensorflow.google.cn/lite}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{nnapi,
+  title = {{Neural Networks API}},
+  author = {Google},
+  year = {2016},
+  howpublished = {\url{https://developer.android.google.cn/ndk/guides/neuralnetworks}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{tvm,
+  title = {{TVM}: Tensor Virtual Machine, Open Deep Learning Compiler Stack},
+  author = {DMLC},
+  year = {2016},
+  howpublished = {\url{https://github.com/dmlc/tvm}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{xla,
+  title = {{XLA}: Accelerated Linear Algebra},
+  author = {Google},
+  year = {2017},
+  howpublished = {\url{https://developers.googleblog.com/2017/03/xla-tensorflow-compiled.html}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{biglittle,
+  title = {{ARM big.LITTLE}: Processing architecture for power efficiency and performance},
+  author = {ARM},
+  year = {2011},
+  howpublished = {\url{https://www.arm.com/why-arm/technologies/big-little}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{metal,
+  title = {{Metal: Accelerating graphics and much more}},
+  author = {Apple},
+  year = {2014},
+  howpublished = {\url{https://developer.apple.com/metal/}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{opencl,
+  title = {{OpenCL: Open Computing Language}},
+  author = {Khronos, Group},
+  year = {2009},
+  howpublished = {\url{https://www.khronos.org/opencl/}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{opengl,
+  title = {{OpenGL: Open Graphics Library}},
+  author = {Khronos, Group},
+  year = {1992},
+  howpublished = {\url{https://opengl.org/}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{vulkan,
+  title = {{Vulkan}},
+  author = {Khronos, Group},
+  year = {2015},
+  howpublished = {\url{https://www.khronos.org/vulkan}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{tfwinograd,
+  title = {{TensorFlow Winograd}},
+  author = {Google},
+  howpublished = {\url{https://github.com/tensorflow/tensorflow/blob/9590c4c32dd4346ea5c35673336f5912c6072bf2/tensorflow/core/kernels/winograd\_transform.h}},
+  note = {Accessed: 2019-09-01},
+}
+
+@misc{macewinograd,
+  title = {{MACE Winograd}},
+  author = {Xiaomi},
+  howpublished = {\url{https://github.com/XiaoMi/mace/blob/9b0b03c99cf73cd019050c6b9ee80a4753265da0/mace/ops/arm/fp32/conv_2d_3x3_winograd.cc}},
+  note = {Accessed: 2019-09-01},
+}
+
+
+
+@inproceedings{liu2016ssd,
+  title={{SSD}: Single shot multibox detector},
+  author={Liu, Wei and Anguelov, Dragomir and Erhan, Dumitru and Szegedy, Christian and Reed, Scott and Fu, Cheng-Yang and Berg, Alexander C},
+  booktitle=ECCV,
+  year={2016},
+}
+
+# ATLAS
+@inproceedings{whaley1998automatically,
+  title={Automatically tuned linear algebra software},
+  author={Whaley, R Clinton and Dongarra, Jack J},
+  booktitle={Proceedings of the ACM/IEEE conference on Supercomputing},
+  year={1998},
+}
+
+@inproceedings{frigo1998fftw,
+  title={{FFTW}: An adaptive software architecture for the FFT},
+  author={Frigo, Matteo and Johnson, Steven G},
+  booktitle=ICASSP,
+  year={1998},
+}
+
+@article{vasilache2018tensor,
+  title={Tensor comprehensions: Framework-agnostic high-performance machine learning abstractions},
+  author={Vasilache, Nicolas and Zinenko, Oleksandr and Theodoridis, Theodoros and Goyal, Priya and DeVito, Zachary and Moses, William S and Verdoolaege, Sven and Adams, Andrew and Cohen, Albert},
+  journal={arXiv preprint arXiv:1802.04730},
+  year={2018}
+}
+
+@inproceedings{truong2016latte,
+  title={Latte: a language, compiler, and runtime for elegant and efficient deep neural networks},
+  author={Truong, Leonard and Barik, Rajkishore and Totoni, Ehsan and Liu, Hai and Markley, Chick and Fox, Armando and Shpeisman, Tatiana},
+  booktitle={ACM SIGPLAN Notices},
+  year={2016},
+}
+
+@inproceedings{ragan2013halide,
+  title={Halide: a language and compiler for optimizing parallelism, locality, and recomputation in image processing pipelines},
+  author={Ragan-Kelley, Jonathan and Barnes, Connelly and Adams, Andrew and Paris, Sylvain and Durand, Fr{\'e}do and Amarasinghe, Saman},
+  booktitle={Acm Sigplan Notices},
+  year={2013},
+}
+
+@inproceedings{lattner2004llvm,
+  title={{LLVM}: A compilation framework for lifelong program analysis \& transformation},
+  author={Lattner, Chris and Adve, Vikram},
+  booktitle={Proceedings of the international symposium on Code generation and optimization: feedback-directed and runtime optimization},
+  year={2004},
+}
+
+@inproceedings{zeiler2014visualizing,
+  title={Visualizing and understanding convolutional networks},
+  author={Zeiler, Matthew D and Fergus, Rob},
+  booktitle=ECCV,
+  year={2014},
+}
+
+# BLAS
+@article{lawson1979basic,
+  title={Basic Linear Algebra Subprograms for Fortran Usage},
+  author={LAWSON, CL and HANSON, RJ and KINCAID, DR and KROGH, FT},
+  journal={ACM Transactions on Mathematical Software},
+  volume={5},
+  number={3},
+  pages={308--323},
+  year={1979}
+}
+
+@article{dongarra1990algorithm,
+  title={Algorithm 679: A set of level 3 basic linear algebra subprograms: model implementation and test programs},
+  author={Dongarra, Jack J and Cruz, Jermey Du and Hammarling, Sven and Duff, Iain S},
+  journal={ACM Transactions on Mathematical Software (TOMS)},
+  volume={16},
+  number={1},
+  pages={18--28},
+  year={1990},
+}
+
+@inproceedings{anderson1990lapack,
+  title={{LAPACK}: A portable linear algebra library for high-performance computers},
+  author={Anderson, Edward and Bai, Zhaojun and Dongarra, Jack and Greenbaum, Anne and McKenney, Alan and Du Croz, Jeremy and Hammarling, Sven and Demmel, James and Bischof, C and Sorensen, Danny},
+  booktitle={Proceedings of the ACM/IEEE conference on Supercomputing},
+  year={1990},
+}
+
+@book{kennedy2001optimizing,
+  title={Optimizing compilers for modern architectures: a dependence-based approach},
+  author={Kennedy, Ken and Allen, John R},
+  year={2001},
+  publisher={Morgan Kaufmann}
+}
+
+@inproceedings{ashari2015optimizing,
+  title={On optimizing machine learning workloads via kernel fusion},
+  author={Ashari, Arash and Tatikonda, Shirish and Boehm, Matthias and Reinwald, Berthold and Campbell, Keith and Keenleyside, John and Sadayappan, P},
+  booktitle={ACM SIGPLAN Notices},
+  year={2015},
+}
+
+@inproceedings{jiang2018efficient,
+  title={Efficient Deep Learning Inference on Edge Devices},
+  author={Jiang, Ziheng and Chen, Tianqi and Li, Mu},
+  booktitle=SYSML,
+  year={2018}
+}
 
 # ------------------------
-# last update: 2019-07-11
+# last update: 2019-08-02
 # ------------------------
