@@ -109,7 +109,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICCV-[Performance Guaranteed Network Acceleration via High-Order Residual Quantization](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Performance_Guaranteed_Network_ICCV_2017_paper.html)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)]
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
-- 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon)
+- 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon) [[Code](https://github.com/csyhhu/L-OBS)]
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
 - 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning)
 - 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
