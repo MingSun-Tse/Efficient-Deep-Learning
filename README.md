@@ -304,6 +304,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-AAAI-[Balanced Sparsity for Efficient DNN Inference on GPU](https://arxiv.org/abs/1811.00206) [[Code](https://github.com/Howal/balanced-sparsity)]
 - 2019-AAAI-[CircConv: A Structured Convolution with Low Complexity](https://arxiv.org/abs/1902.11268)
 - 2019-AAAI-[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
+- 2019-AAAI-[Universal Approximation Property and Equivalence of Stochastic Computing-Based Neural Networks and Binary Neural Networks](https://www.aaai.org/ojs/index.php/AAAI/article/view/4475)
 - 2019-ASPLOS-[Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization](https://arxiv.org/abs/1811.04770)
 - 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
@@ -354,6 +355,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
 - 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
 - 2019-NIPS-[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)
+- 2019-NIPS-[AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters](https://nips.cc/Conferences/2019/Schedule?showEvent=14303)
+- 2019-NIPS-[Double Quantization for Communication-Efficient Distributed Optimization](https://nips.cc/Conferences/2019/Schedule?showEvent=13598)
+- 2019-NIPS-[Focused Quantization for Sparse CNNs](https://nips.cc/Conferences/2019/Schedule?showEvent=13686)
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
@@ -374,6 +378,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.06-[Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256)
 - 2019.06-[A Taxonomy of Channel Pruning Signals in CNNs](https://arxiv.org/abs/1906.04675)
 - 2019.09-[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063)
+- 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 
 
 ### NAS (Neural Architecture Search)
@@ -474,7 +479,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Song Han](https://songhan.mit.edu/) @ MIT
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
 - [Xiaohan Ding](https://scholar.google.com/citations?user=CIjw0KoAAAAJ&hl=en&oi=sra) @ Tsinghua
+- [Xin Dong](http://www.simonxin.com/) @ Harvard
 - [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
+- [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/) @ NEU US
 - [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
