@@ -235,6 +235,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[Value-aware Quantization for Training and Inference of Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Eunhyeok_Park_Value-aware_Quantization_for_ECCV_2018_paper.html)
 - 2018-ECCV-[LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/html/Dongqing_Zhang_Optimized_Quantization_for_ECCV_2018_paper.html)
 - 2018-ECCV-[AMC: AutoML for Model Compression and Acceleration on Mobile Devices](http://openaccess.thecvf.com/content_ECCV_2018/html/Yihui_He_AMC_Automated_Model_ECCV_2018_paper.html)
+- 2018-ECCV-[Piggyback: Adapting a single network to multiple tasks by learning to mask weights](http://openaccess.thecvf.com/content_ECCV_2018/html/Arun_Mallya_Piggyback_Adapting_a_ECCV_2018_paper.html)
 - 2018-BMVCo-[Structured Probabilistic Pruning for Convolutional Neural Network Acceleration](http://bmvc2018.org/contents/papers/0870.pdf)
 - 2018-BMVC-[Efficient Progressive Neural Architecture Search](http://bmvc2018.org/contents/papers/0291.pdf)
 - 2018-BMVC-[Igcv3: Interleaved lowrank group convolutions for efficient deep neural networks](https://arxiv.org/abs/1806.00178)
@@ -443,6 +444,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-SIGKDD-[Towards Evolutionary Compression](https://www.researchgate.net/profile/Yunhe_Wang3/publication/326502551_Towards_Evolutionary_Compression/links/5b7e9304a6fdcc5f8b5e4fe5/Towards-Evolutionary-Compression.pdf)
 - 2018-NIPS-[KDGAN: knowledge distillation with generative adversarial networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks)
 - 2018-NIPS-[Knowledge Distillation by On-the-Fly Native Ensemble](http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble)
+- 2018-NIPSw-[Variational Mutual Information Distillation for Transfer Learning](http://hushell.github.io/papers/nips18_cl.pdf) [workshop: continual learning](https://sites.google.com/view/continual2018/)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
 - 2019-AAAI-[Knowledge Transfer via Distillation of Activation Boundaries Formed by Hidden Neurons](https://arxiv.org/abs/1811.03233) [[Code](https://github.com/bhheo/AB_distillation)]
