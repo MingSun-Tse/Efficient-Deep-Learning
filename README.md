@@ -386,6 +386,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 
+
 ### Papers-Advesarial Attacks
 - 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
 
@@ -486,6 +487,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
+## People in NAS (in alphabeta order)
+- [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
+- [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg/Hannover
 
 ## Venues
 - [OpenReview](https://openreview.net/)
@@ -533,6 +537,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Papers with code](https://paperswithcode.com/task/network-pruning)
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+- [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 
 
 ## News
