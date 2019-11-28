@@ -488,8 +488,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
 ## People in NAS (in alphabeta order)
+- [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg
 - [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
-- [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg/Hannover
+
 
 ## Venues
 - [OpenReview](https://openreview.net/)
