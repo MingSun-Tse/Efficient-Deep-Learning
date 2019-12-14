@@ -209,6 +209,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICML-[StrassenNets: Deep learning with a multiplication budget](http://proceedings.mlr.press/v80/tschannen18a.html)
 - 2018-ICML-[Learning Compact Neural Networks with Regularization](http://proceedings.mlr.press/v80/oymak18a.html)
 - 2018-ICML-[WSNet: Compact and Efficient Networks Through Weight Sampling](http://proceedings.mlr.press/v80/jin18d.html)
+- 2018-ICML-[Gradually Updated Neural Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1711.09280) [[Code](https://github.com/joe-siyuan-qiao/GUNN)]
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
 - 2018-IJCAI-SFP-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
@@ -339,6 +340,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[MBS: Macroblock Scaling for CNN Model Reduction](http://openaccess.thecvf.com/content_CVPR_2019/html/Lin_MBS_Macroblock_Scaling_for_CNN_Model_Reduction_CVPR_2019_paper.html)
 - 2019-CVPR-[On Implicit Filter Level Sparsity in Convolutional Neural Networks](http://openaccess.thecvf.com/content_CVPR_2019/html/Mehta_On_Implicit_Filter_Level_Sparsity_in_Convolutional_Neural_Networks_CVPR_2019_paper.html)
 - 2019-CVPR-[Structured Pruning of Neural Networks With Budget-Aware Regularization](http://openaccess.thecvf.com/content_CVPR_2019/html/Lemaire_Structured_Pruning_of_Neural_Networks_With_Budget-Aware_Regularization_CVPR_2019_paper.html)
+- 2019-CVPRo-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization
+Siyuan Qiao](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
 - 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
@@ -383,8 +386,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
-
-
 
 
 ### Papers-Advesarial Attacks
@@ -441,6 +442,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-AAAI-[Dynamic deep neural networks: Optimizing accuracy-efficiency trade-offs by selective execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16291/16575)
 - 2018-AAAI-[Rocket Launching: A Universal and Efficient Framework for Training Well-performing Light Net](https://arxiv.org/abs/1708.04106)
 - 2018-AAAI-[Adversarial Learning of Portable Student Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16509)
+- 2018-AAAI-[Knowledge Distillation in Generations: More Tolerant Teachers Educate Better Students](https://arxiv.org/abs/1805.05551)
 - 2018-ICLR-[Large scale distributed neural network training through online distillation](https://openreview.net/forum?id=rkr1UDeC-)
 - 2018-CVPR-[Deep mutual learning](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_Deep_Mutual_Learning_CVPR_2018_paper.html)
 - 2018-ICML-[Born-Again Neural Networks](https://arxiv.org/pdf/1805.04770.pdf)
