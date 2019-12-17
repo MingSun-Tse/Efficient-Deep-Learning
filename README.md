@@ -358,9 +358,12 @@ Siyuan Qiao](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-si
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
 - 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
 - 2019-NIPS-[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)
+- 2019-NIPS-[Model Compression with Adversarial Robustness: A Unified Optimization Framework](http://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework)
 - 2019-NIPS-[AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters](https://nips.cc/Conferences/2019/Schedule?showEvent=14303)
 - 2019-NIPS-[Double Quantization for Communication-Efficient Distributed Optimization](https://nips.cc/Conferences/2019/Schedule?showEvent=13598)
 - 2019-NIPS-[Focused Quantization for Sparse CNNs](https://nips.cc/Conferences/2019/Schedule?showEvent=13686)
+- 2019-NIPS-[E2-Train: Training State-of-the-art CNNs with Over 80% Energy Savings](http://papers.nips.cc/paper/8757-e2-train-training-state-of-the-art-cnns-with-over-80-less-energy)
+- 2019-NIPS-[Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) [[Code](https://github.com/D-X-Y/TAS)]
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
@@ -372,7 +375,6 @@ Siyuan Qiao](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-si
 - 2019.04-[Knowledge Squeezed Adversarial Network Compression](https://arxiv.org/abs/1904.05100)
 - 2019.04-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
 - 2019.05-[Dynamic Neural Network Channel Execution for Efficient Training](https://arxiv.org/abs/1905.06435)
-- 2019.05-[Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) [[Code](https://github.com/D-X-Y/TAS)]
 - 2019.06-[AutoGrow: Automatic Layer Growing in Deep Convolutional Networks](https://arxiv.org/abs/1906.02909)
 - 2019.06-[BasisConv: A method for compressed representation and learning in CNNs](https://arxiv.org/abs/1906.04509)
 - 2019.06-[BlockSwap: Fisher-guided Block Substitution for Network Compression](https://arxiv.org/abs/1906.04113)
@@ -380,9 +382,12 @@ Siyuan Qiao](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-si
 - 2019.06-[Separable Layers Enable Structured Efficient Linear Substitutions](https://arxiv.org/abs/1906.00859) [[Code](https://github.com/BayesWatch/deficient-efficient)] 
 - 2019.06-[Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256)
 - 2019.06-[A Taxonomy of Channel Pruning Signals in CNNs](https://arxiv.org/abs/1906.04675)
+- 2019.08-[Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
 - 2019.09-[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063)
+- 2019.09-[Pruning from Scratch](https://arxiv.org/abs/1909.12579)
+- 2019.10-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
+- 2019.11-[Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness](https://openreview.net/forum?id=Syejj0NYvr)
 - 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
-
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
