@@ -34,13 +34,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-CVPR-[Efficient and Accurate Approximations of Nonlinear Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Zhang_Efficient_and_Accurate_2015_CVPR_paper.html) [2016 TPAMI version: [Accelerating Very Deep Convolutional Networks for Classification and Detection](https://ieeexplore.ieee.org/abstract/document/7332968)]
 - 2015-CVPR-[Sparse Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
-- 2015.11-[Compression of Deep Convolutional Neural Networks for Fast and Low Power Mobile Applications](https://arxiv.org/abs/1511.06530)
 - 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
 - 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) (best paper!)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-ICLR-[Neural networks with few multiplications](https://arxiv.org/abs/1510.03009)
+- 2016-ICLR-[Compression of deep convolutional neural networks for fast and low power mobile applications](https://arxiv.org/abs/1511.06530)
 - 2016-ICLRw-[Randomout: Using a convolutional gradient norm to win the filter lottery](https://arxiv.org/abs/1602.05931)
 - 2016-CVPR-[Fast algorithms for convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Lavin_Fast_Algorithms_for_CVPR_2016_paper.html)
 - 2016-CVPR-[Fast ConvNets Using Group-wise Brain Damage](http://openaccess.thecvf.com/content_cvpr_2016/html/Lebedev_Fast_ConvNets_Using_CVPR_2016_paper.html)
@@ -139,7 +139,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICML-[Understanding and simplifying one-shot architecture search](http://proceedings.mlr.press/v80/bender18a.html)
 - 2018-ICLRo-[Training and Inference with Integers in Deep Neural Networks](https://openreview.net/forum?id=HJGXzmspb)
 - 2018-ICLR-[Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers](https://openreview.net/forum?id=HJ94fqApW)
-- 2018-ICLR-[Learning Sparse NNs Through L0 Regularization](https://openreview.net/forum?id=H1Y8hhg0b)
 - 2018-ICLR-[N2N learning: Network to Network Compression via Policy Gradient Reinforcement Learning](https://openreview.net/forum?id=B1hcZZ-AW)
 - 2018-ICLR-[Model compression via distillation and quantization](https://openreview.net/forum?id=S1XolQbRW)
 - 2018-ICLR-[Towards Image Understanding from Deep Compression Without Decoding](https://openreview.net/forum?id=HkXWCMbRW)
@@ -159,7 +158,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLR-[Efficient sparse-winograd convolutional neural networks](https://arxiv.org/pdf/1802.06367.pdf) [[Code](https://github.com/xingyul/Sparse-Winograd-CNN)]
 - 2018-ICLR-[Learning Intrinsic Sparse Structures within Long Short-term Memory](https://arxiv.org/pdf/1709.05027)
 - 2018-ICLR-[Multi-scale dense networks for resource efficient image classification](https://arxiv.org/abs/1703.09844)
-- 2018-ICLR-[Efficient Sparse-Winograd Convolutional Neural Networks ](https://openreview.net/forum?id=HJzgZ3JCW)
 - 2018-ICLR-[Compressing Word Embedding via Deep Compositional Code Learning](https://openreview.net/forum?id=BJRZzFlRb&noteId=BJRZzFlRb)
 - 2018-ICLR-[Learning Discrete Weights Using the Local Reparameterization Trick](https://openreview.net/forum?id=BySRH6CpW)
 - 2018-ICLR-[Training wide residual networks for deployment using a single bit for each weight](https://openreview.net/forum?id=rytNfI1AZ&noteId=rytNfI1AZ)
