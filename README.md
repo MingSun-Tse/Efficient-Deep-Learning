@@ -413,10 +413,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-NIPS-[SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://papers.nips.cc/paper/8743-sparse-sparse-architecture-search-for-cnns-on-resource-constrained-microcontrollers)
 
 
-### Papers-Advesarial Attacks
-- 2019-CVPR-[ComDefend: An Efficient Image Compression Model to Defend Adversarial Examples](https://arxiv.org/abs/1811.12673) [[Code](https://github.com/jiaxiaojunQAQ/Comdefend)]
-
-
 ### Papers-Visualization and Interpretability
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
 - 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
@@ -477,6 +473,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-SIGKDD-[Towards Evolutionary Compression](https://www.researchgate.net/profile/Yunhe_Wang3/publication/326502551_Towards_Evolutionary_Compression/links/5b7e9304a6fdcc5f8b5e4fe5/Towards-Evolutionary-Compression.pdf)
 - 2018-NIPS-[KDGAN: knowledge distillation with generative adversarial networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks)
 - 2018-NIPS-[Knowledge Distillation by On-the-Fly Native Ensemble](http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble)
+- 2018-NIPS-[Paraphrasing Complex Network: Network Compression via Factor Transfer](http://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer)
 - 2018-NIPSw-[Variational Mutual Information Distillation for Transfer Learning](http://hushell.github.io/papers/nips18_cl.pdf) [workshop: continual learning](https://sites.google.com/view/continual2018/)
 - 2018-NIPSw-[Transparent Model Distillation](https://arxiv.org/pdf/1801.08640.pdf)
 - 2019-AAAI-[Knowledge Distillation with Adversarial Samples Supporting Decision Boundary](https://arxiv.org/abs/1805.05532)
