@@ -107,7 +107,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
 - 2017-ICCV-[Coordinating Filters for Faster Deep Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Wen_Coordinating_Filters_for_ICCV_2017_paper.html) [[Code](https://github.com/wenwei202/caffe)]
 - 2017-ICCV-[Performance Guaranteed Network Acceleration via High-Order Residual Quantization](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Performance_Guaranteed_Network_ICCV_2017_paper.html)
-- 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)]
+- 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)] (Journal version: [2020-SIAM-Fast Convex Pruning of Deep Neural Networks](https://epubs.siam.org/doi/abs/10.1137/19M1246468))
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon) [[Code](https://github.com/csyhhu/L-OBS)]
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
@@ -406,6 +406,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Structured Sparsification of Gated Recurrent Neural Networks]()
 - 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression]()
 - 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization]()
+- 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
@@ -488,6 +489,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICCV-[Correlation Congruence for Knowledge Distillation](https://arxiv.org/abs/1904.01802)
 - 2019-ICCV-[Data-Free Learning of Student Networks](https://arxiv.org/abs/1904.01186)
 - 2019-ICCV-[Learning Lightweight Lane Detection CNNs by Self Attention Distillation](https://arxiv.org/abs/1908.00821) [[Code](https://github.com/cardwing/Codes-for-Lane-Detection)]
+- 2019-ICCV-[Attention bridging network for knowledge transfer](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Attention_Bridging_Network_for_Knowledge_Transfer_ICCV_2019_paper.html)
 - 2019-NIPS-[Zero-shot Knowledge Transfer via Adversarial Belief Matching](https://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching) [[Code](https://github.com/polo5/ZeroShotKnowledgeTransfer)] (spotlight)
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
 - 2020-AAAI-[A Knowledge Transfer Framework for Differentially Private Sparse Learning]()
@@ -501,18 +503,19 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Graph Few-shot Learning via Knowledge Transfer]()
 - 2020-AAAI-[Diversity Transfer Network for Few-Shot Learning]()
 - 2020-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
+- 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
 
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
 - [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
 - [Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en&oi=ao) @ PKU
-- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
-- [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
-- [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Ji Lin](http://linji.me/) @ MIT
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
+- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
+- [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
+- [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
 - [Song Han](https://songhan.mit.edu/) @ MIT
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
@@ -525,13 +528,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
 ## People in NAS (in alphabeta order)
+- [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
 - [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg
 - [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
 
 
 ## Venues
 - [OpenReview](https://openreview.net/)
-- [ICLR 2015](https://iclr.cc/archive/www/doku.php%3Fid=iclr2015:main.html)
 - [ICLR](https://openreview.net/group?id=ICLR.cc)
 - [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
 - [ECCV](https://link.springer.com/conference/eccv)
@@ -541,8 +544,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [2018-ICLR](https://iclr.cc/Conferences/2018/Schedule)
 - [2018-ICML](https://icml.cc/Conferences/2018/Schedule)
 - [2018-ICML Workshop](https://openreview.net/group?id=ICML.cc/2018/ECA): Efficient Credit Assignment in Deep Learning and Reinforcement Learning
-- [2018-IJCAI](https://www.ijcai-18.org/accepted-papers/)
-- [2018-BMVC](http://bmvc2018.org/programmedetail.html)
 - COLT: [2019](http://learningtheory.org/colt2019/)
 - SysML: [2018](http://www.sysml.cc/2018/index.html), [2019](http://www.sysml.cc/index.html), [2020](https://systemsandml.org/)
 - CDNNRIA Workshop (Compact Deep Neural Network Representation with Industrial Applications): [1st-2018-NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA), [2nd-2019-ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)
