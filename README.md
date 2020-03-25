@@ -528,6 +528,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
 ## People in NAS (in alphabeta order)
+- [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/) @ University of Freiburg
+  - [AutoML book](https://www.automl.org/book/) Editted by Frank Hutter, Lars Kotthoff, Joaquin Vanschoren
 - [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
 - [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg
 - [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
