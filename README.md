@@ -173,7 +173,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICLRw-[Attention-Based Guided Structured Sparsity of Deep Neural Networks](https://arxiv.org/pdf/1802.09902v4.pdf) [[Code](https://github.com/astorfi/attention-guided-sparsity)]
 - 2018-CVPR-[Context-Aware Deep Feature Compression for High-Speed Visual Tracking](http://openaccess.thecvf.com/content_cvpr_2018/papers/Choi_Context-Aware_Deep_Feature_CVPR_2018_paper.pdf)
 - 2018-CVPR-[NISP: Pruning Networks using Neuron Importance Score Propagation](https://arxiv.org/pdf/1711.05908.pdf)
-- 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
 - 2018-CVPR-[Condensenet: An efficient densenet using learned group convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Huang_CondenseNet_An_Efficient_CVPR_2018_paper.html) [[Code](https://github.com/ShichenLiu/CondenseNet)]
 - 2018-CVPR-[Shift: A zero flop, zero parameter alternative to spatial convolutions](http://openaccess.thecvf.com/content_cvpr_2018/html/Wu_Shift_A_Zero_CVPR_2018_paper.html)
 - 2018-CVPR-[Explicit Loss-Error-Aware Quantization for Low-Bit Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_Explicit_Loss-Error-Aware_Quantization_CVPR_2018_paper.html)
@@ -406,15 +405,17 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Structured Sparsification of Gated Recurrent Neural Networks]()
 - 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression]()
 - 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization]()
+- 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
 - 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
 - 2019-NIPS-[Meta Architecture Search](https://papers.nips.cc/paper/9301-meta-architecture-search)
 - 2019-NIPS-[SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://papers.nips.cc/paper/8743-sparse-sparse-architecture-search-for-cnns-on-resource-constrained-microcontrollers)
+- 
 
 
-### Papers-Visualization and Interpretability
+### Papers-Interpretability
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
 - 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
@@ -425,6 +426,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
 - 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279) (TCAV)
+- 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
 - 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
 - 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
 - 2018-NIPS-[To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) [[Code](https://github.com/google/TrustScore)]
@@ -504,6 +506,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Diversity Transfer Network for Few-Shot Learning]()
 - 2020-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
+- 2020-CVPR-[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)
 
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
