@@ -267,6 +267,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018-NIPSw-[Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678) [[OpenReview](https://openreview.net/forum?id=HkghWScuoQ)] [[Code](https://github.com/for-ai/TD)]
 - 2018-WACV-[Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks](https://arxiv.org/abs/1801.10447)
+- 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789) (Review)
+- 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282) (Review)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
 - 2018.10-[A Closer Look at Structured Pruning for Neural Network Compression](https://arxiv.org/abs/1810.04622) [[Code](https://github.com/BayesWatch/pytorch-prunes)]
@@ -372,6 +374,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
 - 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
+- 2019.02-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf) (Review)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019.03-[Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
@@ -474,7 +477,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ECCV-[2018-ECCV-Learning deep representations with probabilistic knowledge transfer](http://openaccess.thecvf.com/content_ECCV_2018/html/Nikolaos_Passalis_Learning_Deep_Representations_ECCV_2018_paper.html) [[Code](https://github.com/passalis/probabilistic_kt)]
 - 2018-ECCV-[Graph adaptive knowledge transfer for unsupervised domain adaptation](http://openaccess.thecvf.com/content_ECCV_2018/html/Zhengming_Ding_Graph_Adaptive_Knowledge_ECCV_2018_paper.html)
 - 2018-SIGKDD-[Towards Evolutionary Compression](https://www.researchgate.net/profile/Yunhe_Wang3/publication/326502551_Towards_Evolutionary_Compression/links/5b7e9304a6fdcc5f8b5e4fe5/Towards-Evolutionary-Compression.pdf)
-- 2018-NIPS-[KDGAN: knowledge distillation with generative adversarial networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks)
+- 2018-NIPS-[KDGAN: knowledge distillation with generative adversarial networks](http://papers.nips.cc/paper/7358-kdgan-knowledge-distillation-with-generative-adversarial-networks) [[2019 TPAMI version](https://ieeexplore.ieee.org/abstract/document/8845633)]
 - 2018-NIPS-[Knowledge Distillation by On-the-Fly Native Ensemble](http://papers.nips.cc/paper/7980-knowledge-distillation-by-on-the-fly-native-ensemble)
 - 2018-NIPS-[Paraphrasing Complex Network: Network Compression via Factor Transfer](http://papers.nips.cc/paper/7541-paraphrasing-complex-network-network-compression-via-factor-transfer)
 - 2018-NIPSw-[Variational Mutual Information Distillation for Transfer Learning](http://hushell.github.io/papers/nips18_cl.pdf) [workshop: continual learning](https://sites.google.com/view/continual2018/)
