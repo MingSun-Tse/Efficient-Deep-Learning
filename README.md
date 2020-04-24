@@ -394,7 +394,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)] (NVIDIA)
 - 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 - 2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
-- 2020-AAAI-[Pruning from Scratch]()
+- 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579?context=cs.CV)
 - 2020-AAAI-[Harmonious Coexistence of Structured Weight Pruning and Ternarization for Deep Neural Networks]()
 - 2020-AAAI-[AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates]()
 - 2020-AAAI-[DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks]()
