@@ -528,6 +528,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
 - [Song Han](https://songhan.mit.edu/) @ MIT
+- [Ting-Wu Chin](https://rudychin.github.io/) @ CMU
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
 - [Xiaohan Ding](https://scholar.google.com/citations?user=CIjw0KoAAAAJ&hl=en&oi=sra) @ Tsinghua
 - [Xin Dong](http://www.simonxin.com/) @ Harvard
