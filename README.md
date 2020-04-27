@@ -396,7 +396,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
 - 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579?context=cs.CV)
 - 2020-AAAI-[Harmonious Coexistence of Structured Weight Pruning and Ternarization for Deep Neural Networks]()
-- 2020-AAAI-[AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates]()
+- 2020-AAAI-[AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141)
 - 2020-AAAI-[DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks]()
 - 2020-AAAI-[Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning]()
 - 2020-AAAI-[Dynamic Network Pruning with Interpretable Layerwise Channel Selection]()
