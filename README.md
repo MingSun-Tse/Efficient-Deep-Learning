@@ -314,7 +314,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[HetConv Heterogeneous Kernel-Based Convolutions for Deep CNNs](https://arxiv.org/abs/1903.04120)
 - 2019-CVPR-[Fully Learnable Group Convolution for Acceleration of Deep Neural Networks](https://arxiv.org/abs/1904.00346)
 - 2019-CVPR-[Towards Optimal Structured CNN Pruning via Generative Adversarial Learning](https://arxiv.org/abs/1903.09291)
-- 2019-CVPR-[Centripetal SGD for Pruning Very Deep Convolutional Networks with Complicated Structure](https://arxiv.org/abs/1904.03837)
 - 2019-CVPR-[ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_ChamNet_Towards_Efficient_Network_Design_Through_Platform-Aware_Model_Adaptation_CVPR_2019_paper.pdf)
 - 2019-CVPR-[Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search](https://arxiv.org/pdf/1903.03777.pdf) [[Code](https://github.com/lixincn2015/Partial-Order-Pruning)]
 - 2019-CVPR-[Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/pdf/1901.02985.pdf) [[Code](https://github.com/tensorflow/models/tree/master/research/deeplab)]
@@ -329,7 +328,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[DupNet: Towards Very Tiny Quantized CNN With Improved Accuracy for Face Detection](http://openaccess.thecvf.com/content_CVPRW_2019/html/EVW/Gao_DupNet_Towards_Very_Tiny_Quantized_CNN_With_Improved_Accuracy_for_CVPRW_2019_paper.html)
 - 2019-CVPR-[ECC: Platform-Independent Energy-Constrained Deep Neural Network Compression via a Bilinear Regression Model](http://openaccess.thecvf.com/content_CVPR_2019/html/Yang_ECC_Platform-Independent_Energy-Constrained_Deep_Neural_Network_Compression_via_a_Bilinear_CVPR_2019_paper.html)
 - 2019-CVPR-[Variational Convolutional Neural Network Pruning](http://openaccess.thecvf.com/content_CVPR_2019/html/Zhao_Variational_Convolutional_Neural_Network_Pruning_CVPR_2019_paper.html)
-- 2019-CVPR-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 - 2019-CVPR-[Accelerating Convolutional Neural Networks via Activation Map Compression](http://openaccess.thecvf.com/content_CVPR_2019/html/Georgiadis_Accelerating_Convolutional_Neural_Networks_via_Activation_Map_Compression_CVPR_2019_paper.html)
 - 2019-CVPR-[Compressing Convolutional Neural Networks via Factorized Convolutional Filters](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Compressing_Convolutional_Neural_Networks_via_Factorized_Convolutional_Filters_CVPR_2019_paper.html)
 - 2019-CVPR-[Deep Virtual Networks for Memory Efficient Inference of Multiple Tasks](http://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Deep_Virtual_Networks_for_Memory_Efficient_Inference_of_Multiple_Tasks_CVPR_2019_paper.html)
@@ -407,6 +405,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression]()
 - 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization]()
 - 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
+- 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
+- 2020-CVPR-[Filter Grafting for Deep Neural Networks](https://arxiv.org/pdf/2001.05868.pdf)
+- 2020-CVPR-[Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](http://graduatestudent.ucmerced.edu/yidelbayev/papers/cvpr20/cvpr20a.pdf)
 - 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731) (review)
@@ -523,7 +524,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Ji Lin](http://linji.me/) @ MIT
 - [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
 - [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
-- [Mingjie Sun](https://scholar.google.com.vn/citations?user=XVvI7mAAAAAJ&hl=en&oi=ao) @ BUAA
+- [Mingjie Sun](https://scholar.google.com.vn/citations?user=wCZbouUAAAAJ&hl=en&oi=ao) @ CMU
 - [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
 - [Naiyan Wang](http://www.winsty.net/) @ TuSimple
 - [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
@@ -532,8 +533,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Wei Wen](http://www.pittnuts.com/) @ Duke
 - [Xiaohan Ding](https://scholar.google.com/citations?user=CIjw0KoAAAAJ&hl=en&oi=sra) @ Tsinghua
 - [Xin Dong](http://www.simonxin.com/) @ Harvard
-- [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ University of Technology Sydney 
+- [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ UTS
 - [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/) @ NEU US
+- [Yerlan Idelbayev](http://graduatestudent.ucmerced.edu/yidelbayev/) @ UC Merced
 - [Yihui He](http://yihui-he.github.io/) @ CMU
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
@@ -544,7 +546,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
 - [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg
 - [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
-
+- [Xuanyi Dong](http://xuanyidong.com/) @ UTS
 
 ## Venues
 - [OpenReview](https://openreview.net/)
