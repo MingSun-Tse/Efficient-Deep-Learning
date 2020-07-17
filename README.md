@@ -393,23 +393,55 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 - 2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
 - 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579?context=cs.CV)
-- 2020-AAAI-[Harmonious Coexistence of Structured Weight Pruning and Ternarization for Deep Neural Networks]()
+- 2020-AAAI-[Harmonious Coexistence of Structured Weight Pruning and Ternarization for Deep Neural Networks](https://aaai.org/Papers/AAAI/2020GB/AAAI-YangL.9289.pdf)
 - 2020-AAAI-[AutoCompress: An Automatic DNN Structured Pruning Framework for Ultra-High Compression Rates](https://arxiv.org/abs/1907.03141)
-- 2020-AAAI-[DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks]()
-- 2020-AAAI-[Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning]()
-- 2020-AAAI-[Dynamic Network Pruning with Interpretable Layerwise Channel Selection]()
-- 2020-AAAI-[Reborn Filters: Pruning Convolutional Neural Networks with Limited Data]()
-- 2020-AAAI-[Layerwise Sparse Coding for Pruned Deep Neural Networks with Extreme Compression Ratio]()
-- 2020-AAAI-[Sparsity-inducing Binarized Neural Networks]()
-- 2020-AAAI-[Structured Sparsification of Gated Recurrent Neural Networks]()
-- 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression]()
-- 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization]()
+- 2020-AAAI-[DARB: A Density-Adaptive Regular-Block Pruning for Deep Neural Networks](https://arxiv.org/abs/1911.08020)
+- 2020-AAAI-[Real-Time Object Tracking via Meta-Learning: Efficient Model Adaptation and One-Shot Channel Pruning](https://arxiv.org/abs/1911.11170)
+- 2020-AAAI-[Dynamic Network Pruning with Interpretable Layerwise Channel Selection](https://aaai.org/ojs/index.php/AAAI/article/view/6098)
+- 2020-AAAI-[Reborn Filters: Pruning Convolutional Neural Networks with Limited Data](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-TangY.1279.pdf)
+- 2020-AAAI-[Layerwise Sparse Coding for Pruned Deep Neural Networks with Extreme Compression Ratio](https://aaai.org/ojs/index.php/AAAI/article/view/5927)
+- 2020-AAAI-[Sparsity-inducing Binarized Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-WangP.1440.pdf)
+- 2020-AAAI-[Structured Sparsification of Gated Recurrent Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LobachevaE.8844.pdf)
+- 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiP.697.pdf)
+- 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization](https://arxiv.org/abs/2001.05314)
+- 2020-ICLR-[Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://openreview.net/forum?id=ryl3ygHYDB) [[Code](https://github.com/alinlab/lookahead_pruning)]
+- 2020-ICLR-[Dynamic Model Pruning with Feedback](https://openreview.net/pdf?id=SJem8lSFwB)
+- 2020-ICLR-[Provable Filter Pruning for Efficient Neural Networks](https://openreview.net/forum?id=BJxkOlSYDH)
+- 2020-ICLR-[Data-Independent Neural Pruning via Coresets](https://openreview.net/forum?id=H1gmHaEKwB)
+- 2020-ICLR-[FSNet: Compression of Deep Convolutional Neural Networks by Filter Summary](https://openreview.net/forum?id=S1xtORNFwH)
+- 2020-ICLR-[Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks](https://openreview.net/forum?id=HJgCF0VFwr)
+- 2020-ICLR-[BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget](https://openreview.net/forum?id=SklkDkSFPB)
+- 2020-ICLR-[Neural Epitome Search for Architecture-Agnostic Network Compression](https://openreview.net/forum?id=HyxjOyrKvr)
+- 2020-ICLR-[One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://openreview.net/forum?id=r1e9GCNKvH)
+- 2020-ICLR-[DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures](https://openreview.net/forum?id=rylBK34FDS) [[Code](https://github.com/yanghr/DeepHoyer)]
+- 2020-ICLR-[Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers](https://openreview.net/forum?id=SJlbGJrtDB)
+- 2020-ICLR-[Scalable Model Compression by Entropy Penalized Reparameterization](https://openreview.net/forum?id=HkgxW0EYDS)
 - 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
 - 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
 - 2020-CVPR-[Filter Grafting for Deep Neural Networks](https://arxiv.org/pdf/2001.05868.pdf)
 - 2020-CVPR-[Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](http://graduatestudent.ucmerced.edu/yidelbayev/papers/cvpr20/cvpr20a.pdf)
+- 2020-CVPR-[Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kwon_Structured_Compression_by_Weight_Encryption_for_Unstructured_Pruning_and_Quantization_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://openaccess.thecvf.com/content_CVPR_2020/papers/He_Learning_Filter_Pruning_Criteria_for_Deep_Convolutional_Neural_Networks_Acceleration_CVPR_2020_paper.pdf)
+- 2020-CVPR-[APQ: Joint Search for Network Architecture, Pruning and Quantization Policy](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_APQ_Joint_Search_for_Network_Architecture_Pruning_and_Quantization_Policy_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Group Sparsity: The Hinge Between Filter Pruning and Decomposition for Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Group_Sparsity_The_Hinge_Between_Filter_Pruning_and_Decomposition_for_CVPR_2020_paper.pdf) [[Code](https://github.com/ofsoundof/group_sparsity)]
+- 2020-CVPR-[Neural Network Pruning With Residual-Connections and Limited-Data](https://openaccess.thecvf.com/content_CVPR_2020/papers/Luo_Neural_Network_Pruning_With_Residual-Connections_and_Limited-Data_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Multi-Dimensional Pruning: A Unified Framework for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Discrete Model Compression With Resource Constraint for Deep Neural Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gao_Discrete_Model_Compression_With_Resource_Constraint_for_Deep_Neural_Networks_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Automatic Neural Network Compression by Sparsity-Quantization Joint Learning: A Constrained Optimization-Based Approach](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Automatic_Neural_Network_Compression_by_Sparsity-Quantization_Joint_Learning_A_Constrained_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Low-Rank Compression of Neural Nets: Learning the Rank of Each Layer](https://openaccess.thecvf.com/content_CVPR_2020/papers/Idelbayev_Low-Rank_Compression_of_Neural_Nets_Learning_the_Rank_of_Each_CVPR_2020_paper.pdf)
+- 2020-CVPR-[The Knowledge Within: Methods for Data-Free Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Haroush_The_Knowledge_Within_Methods_for_Data-Free_Model_Compression_CVPR_2020_paper.pdf)
+- 2020-CVPR-[GAN Compression: Efficient Architectures for Interactive Conditional GANs](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_GAN_Compression_Efficient_Architectures_for_Interactive_Conditional_GANs_CVPR_2020_paper.pdf) [[Code](https://github.com/mit-han-lab/gan-compression)]
+- 2020-CVPR-[Few Sample Knowledge Distillation for Efficient Network Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Few_Sample_Knowledge_Distillation_for_Efficient_Network_Compression_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Structured Multi-Hashing for Model Compression](https://openaccess.thecvf.com/content_CVPR_2020/papers/Eban_Structured_Multi-Hashing_for_Model_Compression_CVPR_2020_paper.pdf)
 - 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
+- 2020-CVPRo-[HRank: Filter Pruning Using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) [[Code](https://github.com/lmbxmu/HRank)]
+- 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133)
+- 2020-ICML-[Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938)
+- 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
+- 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
+- 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
+- 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731) (review)
 
 ### NAS (Neural Architecture Search)
@@ -501,19 +533,35 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICCV-[Attention bridging network for knowledge transfer](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Attention_Bridging_Network_for_Knowledge_Transfer_ICCV_2019_paper.html)
 - 2019-NIPS-[Zero-shot Knowledge Transfer via Adversarial Belief Matching](https://papers.nips.cc/paper/9151-zero-shot-knowledge-transfer-via-adversarial-belief-matching) [[Code](https://github.com/polo5/ZeroShotKnowledgeTransfer)] (spotlight)
 - 2019.05-[DistillHash: Unsupervised Deep Hashing by Distilling Data Pairs](https://arxiv.org/abs/1905.03465)
+- 2020-ICLR-[Contrastive Representation Distillation](https://arxiv.org/abs/1910.10699) [[Code](https://github.com/HobbitLong/RepDistiller)]
 - 2020-AAAI-[A Knowledge Transfer Framework for Differentially Private Sparse Learning]()
 - 2020-AAAI-[Uncertainty-aware Multi-shot Knowledge Distillation for Image-based Object Re-identification]()
 - 2020-AAAI-[Improved Knowledge Distillation via Teacher Assistant]()
 - 2020-AAAI-[Knowledge Distillation from Internal Representations]()
 - 2020-AAAI-[Distilling Knowledge from Well-informed Soft Labels for Neural Relation Extraction]()
-- 2020-AAAI-[Towards Oracle Knowledge Distillation with Neural Architecture Search]()
 - 2020-AAAI-[Online Knowledge Distillation with Diverse Peers](https://arxiv.org/abs/1912.00350)
 - 2020-AAAI-[Ultrafast Video Attention Prediction with Coupled Knowledge Distillation](https://arxiv.org/abs/1904.04449)
 - 2020-AAAI-[Graph Few-shot Learning via Knowledge Transfer]()
 - 2020-AAAI-[Diversity Transfer Network for Few-Shot Learning]()
 - 2020-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
+- 2020-ICLR-[Knowledge Consistency between Neural Networks and Beyond](https://openreview.net/pdf?id=BJeS62EtwH)
+- 2020-ICLR-[Contrastive Representation Distillation](https://openreview.net/pdf?id=SkgpBJrtvS) [[Code](http://github.com/HobbitLong/RepDistiller)]
+- 2020-ICLR-[Ensemble Distribution Distillation](https://openreview.net/pdf?id=BygSP6Vtvr)
 - 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
 - 2020-CVPR-[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)
+- 2020-CVPR-[Self-training with Noisy Student improves ImageNet classification](https://arxiv.org/abs/1911.04252) [[Code](https://github.com/google-research/noisystudent)]
+- 2020-CVPR-[Neural Networks Are More Productive Teachers Than Human Raters: Active Mixup for Data-Efficient Knowledge Distillation From a Blackbox Model](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Neural_Networks_Are_More_Productive_Teachers_Than_Human_Raters_Active_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Heterogeneous Knowledge Distillation Using Information Flow Modeling](https://openaccess.thecvf.com/content_CVPR_2020/papers/Passalis_Heterogeneous_Knowledge_Distillation_Using_Information_Flow_Modeling_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Creating Something From Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Creating_Something_From_Nothing_Unsupervised_Knowledge_Distillation_for_Cross-Modal_Hashing_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Revisiting Knowledge Distillation via Label Smoothing Regularization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Distilling Knowledge From Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf)
+- 2020-CVPR-[MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) [[Code](https:// github.com/yaxingwang/MineGAN)]
+- 2020-CVPRo-[Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf) [[Code](https://github.com/NVlabs/DeepInversion)]
+- 2020-CVPR-[Online Knowledge Distillation via Collaborative Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)
+- 2020-CVPR-[Regularizing Class-Wise Predictions via Self-Knowledge Distillation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf)
+- 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](https://arxiv.org/abs/2002.01775)
 
 
 ## People (in alphabeta order)
@@ -593,6 +641,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+- [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
+- [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
 
 
 ## News
