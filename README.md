@@ -463,7 +463,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 - 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
-- 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279) (TCAV)
+- 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279)
 - 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
 - 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
 - 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
@@ -481,9 +481,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2006-SIGKDD-[Model compression](https://dl.acm.org/citation.cfm?id=1150464)
 - 2010-ML-[A theory of learning from different domains](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - 2014-NIPS-[Do deep nets really need to be deep?](https://arxiv.org/abs/1312.6184)
-- 2014-NIPSw-[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) (coined the name "knowledge distillation" and "dark knowledge") [[Code](https://github.com/peterliht/knowledge-distillation-pytorch)]
+- 2014-NIPSw-[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) [[Code](https://github.com/peterliht/knowledge-distillation-pytorch)]
 - 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
-- 2016-ICLR-[Net2net: Accelerating learning via knowledge transfer](https://arxiv.org/abs/1511.05641) (Tianqi Chen and Goodfellow)
+- 2016-ICLR-[Net2net: Accelerating learning via knowledge transfer](https://arxiv.org/abs/1511.05641)
 - 2016-ECCV-[Accelerating convolutional neural networks with dominant convolutional kernel and knowledge pre-regression](https://www.researchgate.net/publication/308277663_Accelerating_Convolutional_Neural_Networks_with_Dominant_Convolutional_Kernel_and_Knowledge_Pre-regression)
 - 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer](http://arxiv.org/abs/1612.03928)
 - 2017-ICLR-[Do deep convolutional nets really need to be deep and convolutional?](https://arxiv.org/pdf/1603.05691.pdf)
@@ -496,7 +496,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017.07-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
 - 2017.11-[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
-- 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440) (Kaiming He)
+- 2017.12-[Data Distillation: Towards Omni-Supervised Learning](https://arxiv.org/abs/1712.04440)
 - 2018.03-[Interpreting Deep Classifier by Visual Distillation of Dark Knowledge](https://arxiv.org/abs/1803.04042)
 - 2018.11-[Dataset Distillation](https://arxiv.org/abs/1811.10959) [[Code](https://github.com/SsnL/dataset-distillation)]
 - 2018.12-[Learning Student Networks via Feature Embedding](https://arxiv.org/abs/1812.06597)
@@ -555,7 +555,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-CVPR-[Creating Something From Nothing: Unsupervised Knowledge Distillation for Cross-Modal Hashing](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Creating_Something_From_Nothing_Unsupervised_Knowledge_Distillation_for_Cross-Modal_Hashing_CVPR_2020_paper.pdf)
 - 2020-CVPR-[Revisiting Knowledge Distillation via Label Smoothing Regularization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Revisiting_Knowledge_Distillation_via_Label_Smoothing_Regularization_CVPR_2020_paper.pdf)
 - 2020-CVPR-[Distilling Knowledge From Graph Convolutional Networks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Distilling_Knowledge_From_Graph_Convolutional_Networks_CVPR_2020_paper.pdf)
-- 2020-CVPR-[MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) [[Code](https:// github.com/yaxingwang/MineGAN)]
+- 2020-CVPR-[MineGAN: Effective Knowledge Transfer From GANs to Target Domains With Few Images](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_MineGAN_Effective_Knowledge_Transfer_From_GANs_to_Target_Domains_With_CVPR_2020_paper.pdf) [[Code](https://github.com/yaxingwang/MineGAN)]
 - 2020-CVPRo-[Dreaming to Distill: Data-Free Knowledge Transfer via DeepInversion](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yin_Dreaming_to_Distill_Data-Free_Knowledge_Transfer_via_DeepInversion_CVPR_2020_paper.pdf) [[Code](https://github.com/NVlabs/DeepInversion)]
 - 2020-CVPR-[Online Knowledge Distillation via Collaborative Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Online_Knowledge_Distillation_via_Collaborative_Learning_CVPR_2020_paper.pdf)
 - 2020-CVPR-[Distilling Cross-Task Knowledge via Relationship Matching](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Distilling_Cross-Task_Knowledge_via_Relationship_Matching_CVPR_2020_paper.pdf)
