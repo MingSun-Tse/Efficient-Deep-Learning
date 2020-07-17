@@ -129,7 +129,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017.05-[Structural Compression of Convolutional Neural Networks Based on Greedy Filter Pruning](https://arxiv.org/abs/1705.07356)
 - 2017.07-[Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM](https://arxiv.org/abs/1707.09870)
 - 2017.11-[GPU Kernels for Block-Sparse Weights](https://openai.com/blog/block-sparse-gpu-kernels/) [[Code](https://github.com/openai/blocksparse)] (OpenAI)
-- 2017.11-[Block-sparse recurrent neural networks](https://arxiv.org/abs/1711.02782) (Baidu)
+- 2017.11-[Block-sparse recurrent neural networks](https://arxiv.org/abs/1711.02782)
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
 - 2018-AAAI-[Dynamic Deep Neural Networks_Optimizing Accuracy-Efficiency Trade-offs by Selective Execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16291)
@@ -300,7 +300,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-ICLR-[Graph HyperNetworks for Neural Architecture Search](https://arxiv.org/abs/1810.05749)
 - 2019-ICLR-[Learnable Embedding Space for Efficient Neural Architecture Compression](https://openreview.net/forum?id=S1xLN3C9YX) [[Code](https://github.com/Friedrich1006/ESNAC)]
 - 2019-ICLR-[Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution](https://arxiv.org/abs/1804.09081)
-- 2019-ICLR-[SNAS: stochastic neural architecture search](https://openreview.net/pdf?id=rylqooRqK7) (SenseTime)
+- 2019-ICLR-[SNAS: stochastic neural architecture search](https://openreview.net/pdf?id=rylqooRqK7)
 - 2019-AAAIo-[A layer decomposition-recomposition framework for neuron pruning towards accurate lightweight networks](https://arxiv.org/abs/1812.06611)
 - 2019-AAAI-[Balanced Sparsity for Efficient DNN Inference on GPU](https://arxiv.org/abs/1811.00206) [[Code](https://github.com/Howal/balanced-sparsity)]
 - 2019-AAAI-[CircConv: A Structured Convolution with Low Complexity](https://arxiv.org/abs/1902.11268)
@@ -348,7 +348,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
 - 2019-ICCV-[Rethinking ImageNet Pre-training](https://arxiv.org/abs/1811.08883)
-- 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134) (related: 2019 ICLR Slimmable)
+- 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
 - 2019-ICCV-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
 - 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
@@ -389,7 +389,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.09-[Pruning from Scratch](https://arxiv.org/abs/1909.12579)
 - 2019.10-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - 2019.11-[Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness](https://openreview.net/forum?id=Syejj0NYvr)
-- 2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)] (NVIDIA)
+- 2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)]
 - 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 - 2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
 - 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579?context=cs.CV)
@@ -459,7 +459,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
 - 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
 - 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
-- 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938) (LIME)
+- 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
 - 2016-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
 - 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
 - 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
@@ -632,7 +632,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - ARM: [Tengine](https://github.com/OAID/Tengine/)
 - Related: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
 
-
 ## Related Repos and Websites
 - [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools)
 - [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
@@ -643,10 +642,3 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 - [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
 - [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
-
-
-## News
-- [VALSE 2018年度进展报告 | 深度神经网络加速与压缩 (in Chinese)](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247485375&idx=1&sn=a066fe6f57e6d152719b8815af87e819&chksm=97d7e228a0a06b3e5be18face8716e1ad41d598c2676429a1d174659a384e5f0d5a9be2204ee#rd)
-- [机器之心-腾讯AI Lab PocketFlow (in Chinese)](https://www.jiqizhixin.com/articles/2018-09-17-6)
-- [阿里开源首个移动AI项目，淘宝同款推理引擎 (in Chinese)](https://mp.weixin.qq.com/s/5lfXehtK3VPlB6Ex2KdTDw)
-- [精度无损，体积压缩70%以上，百度PaddleSlim为你的模型瘦身 (in Chinese)](https://mp.weixin.qq.com/s/oJr5fx6uF5rsguK2rOpVoQ). Its [github project](https://github.com/PaddlePaddle/models/tree/v1.4/PaddleSlim).
