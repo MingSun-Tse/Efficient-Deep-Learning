@@ -23,7 +23,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-ICLR-[Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/abs/1412.6553)
 - 2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
-- 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
+- 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06 149)
 - 2015-BMVC-[Learning the structure of deep architectures using l1 regularization](http://www.bmva.org/bmvc/2015/papers/paper023/paper023.pdf)
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
 - 2015-NIPS-[Binaryconnect: Training deep neural networks with binary weights during propagations](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b)
@@ -416,6 +416,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICLR-[DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures](https://openreview.net/forum?id=rylBK34FDS) [[Code](https://github.com/yanghr/DeepHoyer)]
 - 2020-ICLR-[Dynamic Sparse Training: Find Efficient Sparse Network From Scratch With Trainable Masked Layers](https://openreview.net/forum?id=SJlbGJrtDB)
 - 2020-ICLR-[Scalable Model Compression by Entropy Penalized Reparameterization](https://openreview.net/forum?id=HkgxW0EYDS)
+- 2020-ICLR-[GraSP: Picking Winning Tickets Before Training By Preserving Gradient Flow](https://openreview.net/pdf?id=SkgsACVKPH) [[Code](https://github.com/alecwangcq/GraSP)]
+- 2020-ICLR-[A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307)
 - 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
 - 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
 - 2020-CVPR-[Filter Grafting for Deep Neural Networks](https://arxiv.org/pdf/2001.05868.pdf)
@@ -443,6 +445,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731) (review)
+
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
@@ -564,6 +567,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](https://arxiv.org/abs/2002.01775)
 
 
+
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
@@ -639,6 +643,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Papers with code](https://paperswithcode.com/task/network-pruning)
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+- [model_compression](https://github.com/j-marple-dev/model_compression)
 - [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 - [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
 - [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
