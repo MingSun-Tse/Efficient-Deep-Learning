@@ -644,6 +644,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [model_compression](https://github.com/j-marple-dev/model_compression)
+- [model-compression](https://github.com/666DZY666/model-compression) (in Chinese)
 - [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
 - [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
 - [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
