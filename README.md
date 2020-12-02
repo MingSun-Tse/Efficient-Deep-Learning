@@ -306,6 +306,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-AAAI-[CircConv: A Structured Convolution with Low Complexity](https://arxiv.org/abs/1902.11268)
 - 2019-AAAI-[Regularized Evolution for Image Classifier Architecture Search](https://arxiv.org/pdf/1802.01548.pdf)
 - 2019-AAAI-[Universal Approximation Property and Equivalence of Stochastic Computing-Based Neural Networks and Binary Neural Networks](https://www.aaai.org/ojs/index.php/AAAI/article/view/4475)
+- 2019-WACV-[DAC: Data-free Automatic Acceleration of Convolutional Networks](https://arxiv.org/abs/1812.08374)
 - 2019-ASPLOS-[Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization](https://arxiv.org/abs/1811.04770)
 - 2019-CVPRo-[HAQ: hardware-aware automated quantization](https://arxiv.org/pdf/1811.08886.pdf)
 - 2019-CVPRo-[Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://arxiv.org/abs/1811.00250) [[Code](https://github.com/he-y/filter-pruning-geometric-median)]
@@ -438,7 +439,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
 - 2020-CVPRo-[HRank: Filter Pruning Using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) [[Code](https://github.com/lmbxmu/HRank)]
-- 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133)
+- 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133) [[Code](https://github.com/timlee0212/PENNI)]
 - 2020-ICML-[Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938)
 - 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
 - 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
@@ -618,6 +619,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - WHI (Worshop on Human Interpretability in Machine Learning): [1st-2016-ICMLw](https://sites.google.com/site/2016whi/), [2nd-2017-ICMLw](https://sites.google.com/view/whi2017/home), [3rd-2018-ICMLw](https://sites.google.com/view/whi2018)
 - [NIPS-18 Workshop on Systems for ML and Open Source Software](http://learningsys.org/nips18/schedule.html)
 - MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
+- [2020 CVPR Workshop on NAS](https://sites.google.com/view/cvpr20-nas/program)
 
 
 ## Lightweight DNN Engines/APIs
