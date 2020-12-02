@@ -267,8 +267,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018-NIPSw-[Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678) [[OpenReview](https://openreview.net/forum?id=HkghWScuoQ)] [[Code](https://github.com/for-ai/TD)]
 - 2018-WACV-[Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks](https://arxiv.org/abs/1801.10447)
-- 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789) (Review)
-- 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282) (Review)
 - 2018.05-[Compression of Deep Convolutional Neural Networks under Joint Sparsity Constraints](https://arxiv.org/abs/1805.08303)
 - 2018.05-[AutoPruner: An End-to-End Trainable Filter Pruning Method for Efficient Deep Model Inference](https://arxiv.org/abs/1805.08941)
 - 2018.10-[A Closer Look at Structured Pruning for Neural Network Compression](https://arxiv.org/abs/1810.04622) [[Code](https://github.com/BayesWatch/pytorch-prunes)]
@@ -370,7 +368,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
-- 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
 - 2019.02-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf) (Review)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019.03-[Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
@@ -445,7 +442,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
-- 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731) (review)
 
 
 ### NAS (Neural Architecture Search)
@@ -496,7 +492,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPS-[Sobolev training for neural networks](http://papers.nips.cc/paper/7015-sobolev-training-for-neural-networks.pdf)
 - 2017-NIPS-[Learning efficient object detection models with knowledge distillation](http://papers.nips.cc/paper/6676-learning-efficient-object-detection-models-with-knowledge-distillation)
 - 2017-NIPSw-[Data-Free Knowledge Distillation for Deep Neural Networks](https://arxiv.org/abs/1710.07535) [[Code](https://github.com/iRapha/replayed_distillation)]
-- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
 - 2017.07-[Like What You Like: Knowledge Distill via Neuron Selectivity Transfer](https://arxiv.org/pdf/1707.01219.pdf)
 - 2017.10-[Knowledge Projection for Deep Neural Networks](https://arxiv.org/abs/1710.09505)
 - 2017.11-[Distilling a Neural Network Into a Soft Decision Tree](https://arxiv.org/abs/1711.09784)
@@ -568,6 +563,14 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](https://arxiv.org/abs/2002.01775)
 
 
+## Survey
+- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
+- 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789)
+- 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
+- 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
+- 2020.4-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937) (TPAMI submission)
+- 2020.6-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
+- 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
