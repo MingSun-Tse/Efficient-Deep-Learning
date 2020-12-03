@@ -101,7 +101,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICLR-[Loss-aware Binarization of Deep Networks](https://openreview.net/forum?id=S1oWlN9ll&noteId=S1oWlN9ll)
 - 2017-ICLR-[Trained Ternary Quantization](https://openreview.net/forum?id=S1_pAu9xl&noteId=S1_pAu9xl) [[Code](https://github.com/czhu95/ternarynet)]
 - 2017-ICLR-[Exploring Sparsity in Recurrent Neural Networks](https://openreview.net/forum?id=BylSPv9gx&noteId=BylSPv9gx)
-- 2017-ICLR-[Soft Weight-Sharing for Neural Network Compression](https://openreview.net/forum?id=HJGwcKclx) [[Reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/)]
+- 2017-ICLR-[Soft Weight-Sharing for Neural Network Compression](https://openreview.net/forum?id=HJGwcKclx) [[Reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/)] [[Code](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)]
 - 2017-ICLR-[Variable Computation in Recurrent Neural Networks](https://openreview.net/forum?id=S1LVSrcge&noteId=S1LVSrcge)
 - 2017-ICLR-[Training Compressed Fully-Connected Networks with a Density-Diversity Penalty](https://openreview.net/forum?id=Hku9NK5lx)
 - 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
@@ -617,6 +617,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
+
 ### People in NAS (in alphabeta order)
 - [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/) @ University of Freiburg
   - [AutoML book](https://www.automl.org/book/) Editted by Frank Hutter, Lars Kotthoff, Joaquin Vanschoren
@@ -625,24 +626,16 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
 - [Xuanyi Dong](http://xuanyidong.com/) @ UTS
 
-## Venues
-- [OpenReview](https://openreview.net/)
-- [ICLR](https://openreview.net/group?id=ICLR.cc)
-- [CVPR & ICCV](http://openaccess.thecvf.com/menu.py)
-- [ECCV](https://link.springer.com/conference/eccv)
-- [NIPS](https://papers.nips.cc/)
+
+## Workshops
 - [2017-ICML Tutorial](http://people.csail.mit.edu/beenkim/icml_tutorial.html): interpretable machine learning
-- [2018-AAAI](https://aaai.org/Conferences/AAAI-18/wp-content/uploads/2017/12/AAAI-18-Accepted-Paper-List.Web_.pdf)
-- [2018-ICLR](https://iclr.cc/Conferences/2018/Schedule)
-- [2018-ICML](https://icml.cc/Conferences/2018/Schedule)
 - [2018-ICML Workshop](https://openreview.net/group?id=ICML.cc/2018/ECA): Efficient Credit Assignment in Deep Learning and Reinforcement Learning
-- COLT: [2019](http://learningtheory.org/colt2019/)
-- SysML: [2018](http://www.sysml.cc/2018/index.html), [2019](http://www.sysml.cc/index.html), [2020](https://systemsandml.org/)
 - CDNNRIA Workshop (Compact Deep Neural Network Representation with Industrial Applications): [1st-2018-NIPSw](https://openreview.net/group?id=NIPS.cc/2018/Workshop/CDNNRIA), [2nd-2019-ICMLw](https://sites.google.com/view/icml2019-on-device-compact-dnn)
 - LLD Workshop (Learning with Limited Data): [1st-2017-NIPSw](https://lld-workshop.github.io/2017/), [2nd-2019-ICLRw](https://lld-workshop.github.io/)
 - WHI (Worshop on Human Interpretability in Machine Learning): [1st-2016-ICMLw](https://sites.google.com/site/2016whi/), [2nd-2017-ICMLw](https://sites.google.com/view/whi2017/home), [3rd-2018-ICMLw](https://sites.google.com/view/whi2018)
 - [NIPS-18 Workshop on Systems for ML and Open Source Software](http://learningsys.org/nips18/schedule.html)
 - MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
+- [Workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 - [2020 CVPR Workshop on NAS](https://sites.google.com/view/cvpr20-nas/program)
 
 
