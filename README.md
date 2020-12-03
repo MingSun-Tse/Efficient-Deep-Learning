@@ -26,15 +26,22 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## Papers
+**2011**
 - 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
 - 2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
+
+**2013**
 - 2013-NIPS-[Predicting Parameters in Deep Learning](http://papers.nips.cc/paper/5025-predicting-parameters-in-deep-learning)
 - 2013.08-[Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
+
+**2014**
 - 2014-BMVC-[Speeding up convolutional neural networks with low rank expansions](https://arxiv.org/abs/1405.3866)
 - 2014-INTERSPEECH-[1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](https://www.isca-speech.org/archive/interspeech_2014/i14_1058.html)
 - 2014-NIPS-[Exploiting Linear Structure Within Convolutional Networks for Efficient Evaluation](http://papers.nips.cc/paper/5544-exploiting-linear-structure-within-convolutional-networks-for-efficient-evaluation)
 - 2014-NIPS-[Do deep neural nets really need to be deep](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
 - 2014.12-[Memory bounded deep convolutional networks](https://arxiv.org/abs/1412.1442)
+  
+**2015**
 - 2015-ICLR-[Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/abs/1412.6553)
 - 2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
@@ -50,6 +57,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2015-CVPR-[Sparse Convolutional Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/html/Liu_Sparse_Convolutional_Neural_2015_CVPR_paper.html)
 - 2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
 - 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
+
+**2016**
 - 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) (best paper!)
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
@@ -69,7 +78,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-NIPS-[PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions](http://papers.nips.cc/paper/6463-perforatedcnns-acceleration-through-elimination-of-redundant-convolutions)
 - 2016-NIPS-[LightRNN: Memory and Computation-Efficient Recurrent Neural Networks](http://papers.nips.cc/paper/6512-lightrnn-memory-and-computation-efficient-recurrent-neural-networks)
 - 2016-NIPS-[CNNpack: packing convolutional neural networks in the frequency domain](https://papers.nips.cc/paper/6390-cnnpack-packing-convolutional-neural-networks-in-the-frequency-domain.pdf)
-- 2016-NIPSw-[Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 - 2016-ISCA-[Eyeriss: A Spatial Architecture for Energy-Efficient Dataflow for Convolutional Neural Networks](https://people.csail.mit.edu/emer/papers/2016.06.isca.eyeriss_architecture.pdf)
 - 2016-ICASSP-[Learning compact recurrent neural networks](https://arxiv.org/abs/1604.02594)
 - 2016-CoNLL-[Compression of Neural Machine Translation Models via Pruning](https://arxiv.org/abs/1606.09274)
@@ -81,6 +89,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016.08-[Recurrent Neural Networks With Limited Numerical Precision](https://arxiv.org/abs/1608.06902)
 - 2016.10-[Deep model compression: Distilling knowledge from noisy teachers](https://arxiv.org/abs/1610.09650)
 - 2016.10-[Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
+- 2016.11-[Alternating Direction Method of Multipliers for Sparse Convolutional Neural Networks](https://arxiv.org/abs/1611.01590)
+
+**2017**
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
 - 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [[Code](https://github.com/Mxbonn/INQ-pytorch)]
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
@@ -126,7 +137,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon) [[Code](https://github.com/csyhhu/L-OBS)]
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
-- 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning)
+- 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning) [[Code](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)]
 - 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-NIPS-[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)
 - 2017-NIPS-[Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations](http://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations)
@@ -145,6 +156,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017.07-[Extremely Low Bit Neural Network: Squeeze the Last Bit Out with ADMM](https://arxiv.org/abs/1707.09870)
 - 2017.11-[GPU Kernels for Block-Sparse Weights](https://openai.com/blog/block-sparse-gpu-kernels/) [[Code](https://github.com/openai/blocksparse)] (OpenAI)
 - 2017.11-[Block-sparse recurrent neural networks](https://arxiv.org/abs/1711.02782)
+
+**2018**
 - 2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 - 2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
 - 2018-AAAI-[Dynamic Deep Neural Networks_Optimizing Accuracy-Efficiency Trade-offs by Selective Execution](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16291)
@@ -228,7 +241,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-IJCAI-[Optimization based Layer-wise Magnitude-based Pruning for DNN Compression](http://staff.ustc.edu.cn/~chaoqian/ijcai18-olmp.pdf)
 - 2018-IJCAI-[Progressive Blockwise Knowledge Distillation for Neural Network Acceleration](https://www.ijcai.org/proceedings/2018/0384.pdf)
 - 2018-IJCAI-[Complementary Binary Quantization for Joint Multiple Indexing](https://www.ijcai.org/proceedings/2018/0292.pdf)
-- 2018-ECCV-[A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyun_Zhang_A_Systematic_DNN_ECCV_2018_paper.pdf)
+- 2018-ECCV-[A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyun_Zhang_A_Systematic_DNN_ECCV_2018_paper.pdf) [[Code](https://github.com/KaiqiZhang/admm-pruning)]
 - 2018-ECCV-[Coreset-Based Neural Network Compression](http://openaccess.thecvf.com/content_ECCV_2018/papers/Abhimanyu_Dubey_Coreset-Based_Convolutional_Neural_ECCV_2018_paper.pdf)
 - 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf) [[Code](https://github.com/TuSimple/sparse-structure-selection)]
 - 2018-ECCV-[Training Binary Weight Networks via Semi-Binary Decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/Qinghao_Hu_Training_Binary_Weight_ECCV_2018_paper.html)
@@ -287,6 +300,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.10-[A Closer Look at Structured Pruning for Neural Network Compression](https://arxiv.org/abs/1810.04622) [[Code](https://github.com/BayesWatch/pytorch-prunes)]
 - 2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 - 2018.11-[PydMobileNet: Improved Version of MobileNets with Pyramid Depthwise Separable Convolution](https://arxiv.org/abs/1811.07083)
+
+**2019**
 - 2019-SysML-[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
 - 2019-SysML-[To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression
 ](https://arxiv.org/abs/1810.00208)
@@ -403,6 +418,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.10-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - 2019.11-[Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness](https://openreview.net/forum?id=Syejj0NYvr)
 - 2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)]
+
+**2020**
 - 2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 - 2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
 - 2020-AAAI-[Pruning from Scratch](https://arxiv.org/abs/1909.12579?context=cs.CV)
