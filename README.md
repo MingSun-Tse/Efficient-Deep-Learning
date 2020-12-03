@@ -10,6 +10,21 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 > About abbreviation: In the list below, `o` for oral, `w` for workshop, `s` for spotlight, `b` for best paper.
 
+
+## Survey
+- 1993-TNN-[Pruning Algorithms -- A survey](https://ieeexplore.ieee.org/abstract/document/248452?casa_token=eJan5NO1DxwAAAAA:chz9BYf22tIO4RHt6nC_x4nbTeTslXiLMrvQElnrXZGbg9fn4c-Alonhq8UYWhT86gXFGO2_)
+- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
+- 2017.12-[A survey of FPGA-based neural network accelerator](https://arxiv.org/abs/1712.08934)
+- 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789)
+- 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
+- 2018.8-[A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/abs/1808.04752)
+- 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
+- 2020.4-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937) (TPAMI submission)
+- 2020.6-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
+- 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
+- 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
+
+
 ## Papers
 - 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
 - 2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
@@ -475,7 +490,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
 - 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
 
-
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
 - 2006-SIGKDD-[Model compression](https://dl.acm.org/citation.cfm?id=1150464)
@@ -562,17 +576,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-CVPR-[Regularizing Class-Wise Predictions via Self-Knowledge Distillation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf)
 - 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](https://arxiv.org/abs/2002.01775)
 
-
-## Survey
-- 1993-TNN-[Pruning Algorithms -- A survey](https://ieeexplore.ieee.org/abstract/document/248452?casa_token=eJan5NO1DxwAAAAA:chz9BYf22tIO4RHt6nC_x4nbTeTslXiLMrvQElnrXZGbg9fn4c-Alonhq8UYWhT86gXFGO2_)
-- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
-- 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789)
-- 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
-- 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
-- 2020.4-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937) (TPAMI submission)
-- 2020.6-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
-- 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
-
 ## People (in alphabeta order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
@@ -597,7 +600,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
-## People in NAS (in alphabeta order)
+### People in NAS (in alphabeta order)
 - [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/) @ University of Freiburg
   - [AutoML book](https://www.automl.org/book/) Editted by Frank Hutter, Lars Kotthoff, Joaquin Vanschoren
 - [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
@@ -642,15 +645,17 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - ARM: [Tengine](https://github.com/OAID/Tengine/)
 - Related: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
 
+
 ## Related Repos and Websites
+- [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
+- [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
+- [Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 - [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools)
 - [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
-- [Papers with code](https://paperswithcode.com/task/network-pruning)
-- [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
-- [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [model_compression](https://github.com/j-marple-dev/model_compression)
 - [model-compression](https://github.com/666DZY666/model-compression) (in Chinese)
 - [AutoML NAS Literature](https://www.automl.org/automl/literature-on-neural-architecture-search/)
+- [Papers with code](https://paperswithcode.com/task/network-pruning)
 - [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
 - [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
