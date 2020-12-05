@@ -305,7 +305,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-SysML-[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
 - 2019-SysML-[To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression
 ](https://arxiv.org/abs/1810.00208)
-- 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-ICLR-[Slimmable Neural Networks](https://openreview.net/forum?id=H1gMCsAqY7) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019-ICLR-[Defensive Quantization: When Efficiency Meets Robustness](https://arxiv.org/abs/1904.08444)
 - 2019-ICLR-[Minimal Random Code Learning: Getting Bits Back from Compressed Model Parameters](https://openreview.net/forum?id=r1f0YiCctm) [[Code](https://github.com/cambridge-mlg/miracle)]
@@ -472,11 +471,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133) [[Code](https://github.com/timlee0212/PENNI)]
 - 2020-ICML-[Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938)
 - 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
-- 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
-- 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](http://proceedings.mlr.press/v119/frankle20a.html)
-- 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
+
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
@@ -486,6 +483,13 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-NIPS-[Meta Architecture Search](https://papers.nips.cc/paper/9301-meta-architecture-search)
 - 2019-NIPS-[SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://papers.nips.cc/paper/8743-sparse-sparse-architecture-search-for-cnns-on-resource-constrained-microcontrollers)
 
+
+### Papers-Lottery Ticket Hypothesis (LTH)
+- 2019-ICLRo-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
+- 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
+- 2020-ICML-[Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134) [[Code](https://github.com/google-research/rigl)]
+- 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671)
+- 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
 
 ### Papers-Interpretability
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
