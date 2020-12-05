@@ -434,6 +434,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Structured Sparsification of Gated Recurrent Neural Networks](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LobachevaE.8844.pdf)
 - 2020-AAAI-[Hierarchical Knowledge Squeezed Adversarial Network Compression](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiP.697.pdf)
 - 2020-AAAI-[Embedding Compression with Isotropic Iterative Quantization](https://arxiv.org/abs/2001.05314)
+- 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
 - 2020-ICLR-[Lookahead: A Far-sighted Alternative of Magnitude-based Pruning](https://openreview.net/forum?id=ryl3ygHYDB) [[Code](https://github.com/alinlab/lookahead_pruning)]
 - 2020-ICLR-[Dynamic Model Pruning with Feedback](https://openreview.net/pdf?id=SJem8lSFwB)
 - 2020-ICLR-[Provable Filter Pruning for Efficient Neural Networks](https://openreview.net/forum?id=BJxkOlSYDH)
@@ -474,7 +475,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
-
+- 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](http://proceedings.mlr.press/v119/frankle20a.html)
+- 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
 
 ### NAS (Neural Architecture Search)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
