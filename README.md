@@ -26,6 +26,14 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 
 ## Papers
+**1980s,1990s**
+- 1989-NIPS-[Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment](https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf)
+- 1990-NIPS-[Optimal Brain Damage](https://papers.nips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
+- 1993-ICNN-[Optimal Brain Surgeon and general network pruning](https://ieeexplore.ieee.org/abstract/document/298572?casa_token=8a8fUVuadHEAAAAA:tgRbetEERx1Bdh6RCa27mok9SAPNc8Y33qy2ScdTNOCs_ajHlaUv4_nnvDNJp3jZbb13uouD)
+
+**2000s**
+- 2001-JMLR-[Sparse Bayesian learning and the relevance vector machine](https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
+
 **2011**
 - 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
 - 2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
@@ -92,6 +100,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016.11-[Alternating Direction Method of Multipliers for Sparse Convolutional Neural Networks](https://arxiv.org/abs/1611.01590)
 
 **2017**
+- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg)
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
 - 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [[Code](https://github.com/Mxbonn/INQ-pytorch)]
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
@@ -116,7 +125,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICML-[Analytical Guarantees on Numerical Precision of Deep Neural Networks](http://proceedings.mlr.press/v70/sakr17a.html)
 - 2017-ICML-[Adaptive Neural Networks for Efficient Inference](http://proceedings.mlr.press/v70/bolukbasi17a.html)
 - 2017-ICML-[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html)
-- 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
 - 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html)
@@ -137,8 +145,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
 - 2017-NIPS-[Learning to Prune Deep Neural Networks via Layer-wise Optimal Brain Surgeon](http://papers.nips.cc/paper/7071-learning-to-prune-deep-neural-networks-via-layer-wise-optimal-brain-surgeon) [[Code](https://github.com/csyhhu/L-OBS)]
 - 2017-NIPS-[Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning)
-- 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning) [[Code](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)]
-- 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-NIPS-[Towards Accurate Binary Convolutional Neural Network](http://papers.nips.cc/paper/6638-towards-accurate-binary-convolutional-neural-network)
 - 2017-NIPS-[Soft-to-Hard Vector Quantization for End-to-End Learning Compressible Representations](http://papers.nips.cc/paper/6714-soft-to-hard-vector-quantization-for-end-to-end-learning-compressible-representations)
 - 2017-NIPS-[TernGrad: Ternary Gradients to Reduce Communication in Distributed Deep Learning](http://papers.nips.cc/paper/6749-terngrad-ternary-gradients-to-reduce-communication-in-distributed-deep-learning)
@@ -468,52 +474,59 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-CVPRo-[AdderNet: Do We Really Need Multiplications in Deep Learning?](https://arxiv.org/abs/1912.13200) [[Code](https://github.com/huawei-noah/AdderNet)]
 - 2020-CVPRo-[Towards Efficient Model Compression via Learned Global Ranking](https://arxiv.org/abs/1904.12368) [[Code](https://github.com/cmu-enyac/LeGR)]
 - 2020-CVPRo-[HRank: Filter Pruning Using High-Rank Feature Map](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lin_HRank_Filter_Pruning_Using_High-Rank_Feature_Map_CVPR_2020_paper.pdf) [[Code](https://github.com/lmbxmu/HRank)]
+- 2020-CVPRo-[DaST: Data-free Substitute Training for Adversarial Attacks](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhou_DaST_Data-Free_Substitute_Training_for_Adversarial_Attacks_CVPR_2020_paper.html) [[Code](https://github.com/zhoumingyi/DaST)]
 - 2020-ICML-[PENNI: Pruned Kernel Sharing for Efficient CNN Inference](https://arxiv.org/abs/2005.07133) [[Code](https://github.com/timlee0212/PENNI)]
 - 2020-ICML-[Operation-Aware Soft Channel Pruning using Differentiable Masks](https://arxiv.org/abs/2007.03938)
 - 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
+- 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html)
+- 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)
+- 2020-NIPS-[SCOP: Scientific Control for Reliable Neural Network Pruning](https://papers.nips.cc/paper/2020/hash/7bcdf75ad237b8e02e301f4091fb6bc8-Abstract.html)
+- 2020-NIPS-[Directional Pruning of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/a09e75c5c86a7bf6582d2b4d75aad615-Abstract.html)
+- 2020-NIPS-[Storage Efficient and Dynamic Flexible Runtime Channel Pruning via Deep Reinforcement Learning](https://papers.nips.cc/paper/2020/hash/a914ecef9c12ffdb9bede64bb703d877-Abstract.html)
+- 202-NIPS-[Pruning Filter in Filter](https://papers.nips.cc/paper/2020/hash/ccb1d45fb76f7c5a0bf619f979c6cf36-Abstract.html)
+- 2020-NIPS-[HYDRA: Pruning Adversarially Robust Neural Networks](https://papers.nips.cc/paper/2020/hash/e3a72c791a69f87b05ea7742e04430ed-Abstract.html)
+- 2020-NIPS-[Movement Pruning: Adaptive Sparsity by Fine-Tuning](https://papers.nips.cc/paper/2020/hash/eae15aabaa768ae4a5993a8a4f4fa6e4-Abstract.html)
+- 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://papers.nips.cc/paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
+- 2020-NIPS-[Position-based Scaled Gradient for Model Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/eb1e78328c46506b46a4ac4a1e378b91-Abstract.html)
+- 2020-NIPS-[The Generalization-Stability Tradeoff In Neural Network Pruning](https://papers.nips.cc/paper/2020/hash/ef2ee09ea9551de88bc11fd7eeea93b0-Abstract.html)
+- 2020-NIPS-[FleXOR: Trainable Fractional Quantization](https://papers.nips.cc/paper/2020/hash/0e230b1a582d76526b7ad7fc62ae937d-Abstract.html)
+- 2020-NIPS-[Adaptive Gradient Quantization for Data-Parallel SGD](https://papers.nips.cc/paper/2020/hash/20b5e1cf8694af7a3c1ba4a87f073021-Abstract.html)
+- 2020-NIPS-[Robust Quantization: One Model to Rule Them All](https://papers.nips.cc/paper/2020/hash/3948ead63a9f2944218de038d8934305-Abstract.html)
+- 2020-NIPS-[HAWQ-V2: Hessian Aware trace-Weighted Quantization of Neural Networks](https://papers.nips.cc/paper/2020/hash/d77c703536718b95308130ff2e5cf9ee-Abstract.html)
+- 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://papers.nips.cc/paper/2020/hash/1385974ed5904a438616ff7bdb3f7439-Abstract.html)
+- 2020-NIPS-[Ultra-Low Precision 4-bit Training of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13b919438259814cd5be8cb45877d577-Abstract.html)
+- 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
+- 2020.12-[Neural Pruning via Growing Regularization](https://arxiv.org/abs/2012.09243) [[Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 
+**2021**
+- 2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
+- 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
 
-### NAS (Neural Architecture Search)
-- 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
-- 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf) [[Code](https://github.com/D-X-Y/GDAS)]
-- 2019-CVPR-[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
-- 2019-CVPR-[RENAS: Reinforced Evolutionary Neural Architecture Search](https://arxiv.org/abs/1808.00193)
-- 2019-NIPS-[Meta Architecture Search](https://papers.nips.cc/paper/9301-meta-architecture-search)
-- 2019-NIPS-[SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://papers.nips.cc/paper/8743-sparse-sparse-architecture-search-for-cnns-on-resource-constrained-microcontrollers)
 
 
 ### Papers-Lottery Ticket Hypothesis (LTH)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
+- 2019-NIPS-[Deconstructing lottery tickets: Zeros, signs, and the supermask](https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html)
 - 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
 - 2020-ICML-[Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134) [[Code](https://github.com/google-research/rigl)]
 - 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671)
 - 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
 - 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
+- 2020-NIPS-[Logarithmic Pruning is All You Need](https://papers.nips.cc/paper/2020/hash/1e9491470749d5b0e361ce4f0b24d037-Abstract.html)
+- 2020-NIPS-[Winning the Lottery with Continuous Sparsification](https://papers.nips.cc/paper/2020/hash/83004190b1793d7aa15f8d0d49a13eba-Abstract.html)
 
 
-### Papers-Interpretability
-- 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
-- 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
-- 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
-- 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
-- 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
-- 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
-- 2016-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
-- 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
-- 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
-- 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279)
-- 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
-- 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
-- 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
-- 2018-NIPS-[To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) [[Code](https://github.com/google/TrustScore)]
-- 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
-- 2019.05-[Luck Matters: Understanding Training Dynamics of Deep ReLU Networks](https://arxiv.org/pdf/1905.13405.pdf)
-- 2019.05-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
-- 2019.06-[The Generalization-Stability Tradeoff in Neural Network Pruning](https://arxiv.org/abs/1906.03728)
-- 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
-- 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+
+### Papers-Bayesian Compression
+- 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
+- 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
+- 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning) [[Code](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)]
+- 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
+- 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
+- 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
+
 
 ### Papers-Knowledge Distillation
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
@@ -521,7 +534,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2010-ML-[A theory of learning from different domains](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
 - 2014-NIPS-[Do deep nets really need to be deep?](https://arxiv.org/abs/1312.6184)
 - 2014-NIPSw-[Distilling the Knowledge in a Neural Network](https://arxiv.org/pdf/1503.02531.pdf) [[Code](https://github.com/peterliht/knowledge-distillation-pytorch)]
-- 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 - 2016-ICLR-[Net2net: Accelerating learning via knowledge transfer](https://arxiv.org/abs/1511.05641)
 - 2016-ECCV-[Accelerating convolutional neural networks with dominant convolutional kernel and knowledge pre-regression](https://www.researchgate.net/publication/308277663_Accelerating_Convolutional_Neural_Networks_with_Dominant_Convolutional_Kernel_and_Knowledge_Pre-regression)
 - 2017-ICLR-[Paying more attention to attention: Improving the performance of convolutional neural networksvia attention transfer](http://arxiv.org/abs/1612.03928)
@@ -600,10 +612,65 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-CVPR-[Data-Free Knowledge Amalgamation via Group-Stack Dual-GAN](https://openaccess.thecvf.com/content_CVPR_2020/papers/Ye_Data-Free_Knowledge_Amalgamation_via_Group-Stack_Dual-GAN_CVPR_2020_paper.pdf)
 - 2020-CVPR-[Regularizing Class-Wise Predictions via Self-Knowledge Distillation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yun_Regularizing_Class-Wise_Predictions_via_Self-Knowledge_Distillation_CVPR_2020_paper.pdf)
 - 2020-ICML-[Feature-map-level Online Adversarial Knowledge Distillation](https://arxiv.org/abs/2002.01775)
+- 2020-NIPS-[Self-Distillation as Instance-Specific Label Smoothing](https://papers.nips.cc/paper/2020/hash/1731592aca5fb4d789c4119c65c10b4b-Abstract.html)
+- 2020-NIPS-[Ensemble Distillation for Robust Model Fusion in Federated Learning](https://papers.nips.cc/paper/2020/hash/18df51b97ccd68128e994804f3eccc87-Abstract.html)
+- 2020-NIPS-[Self-Distillation Amplifies Regularization in Hilbert Space](https://papers.nips.cc/paper/2020/hash/2288f691b58edecadcc9a8691762b4fd-Abstract.html)
+- 2020-NIPS-[MiniLM: Deep Self-Attention Distillation for Task-Agnostic Compression of Pre-Trained Transformers](https://papers.nips.cc/paper/2020/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html)
+- 2020-NIPS-[Residual Distillation: Towards Portable Deep Neural Networks without Shortcuts](https://papers.nips.cc/paper/2020/hash/657b96f0592803e25a4f07166fff289a-Abstract.html)
+- 2020-NIPS-[Kernel Based Progressive Distillation for Adder Neural Networks](https://papers.nips.cc/paper/2020/hash/912d2b1c7b2826caf99687388d2e8f7c-Abstract.html)
+- 2020-NIPS-[Agree to Disagree: Adaptive Ensemble Knowledge Distillation in Gradient Space](https://papers.nips.cc/paper/2020/hash/91c77393975889bd08f301c9e13a44b7-Abstract.html)
+- 2020-NIPS-[Task-Oriented Feature Distillation](https://papers.nips.cc/paper/2020/hash/a96b65a721e561e1e3de768ac819ffbb-Abstract.html)
+- 2020-NIPS-[Comprehensive Attention Self-Distillation for Weakly-Supervised Object Detection](https://papers.nips.cc/paper/2020/hash/c3535febaff29fcb7c0d20cbe94391c7-Abstract.html)
+- 2020-NIPS-[Distributed Distillation for On-Device Learning](https://papers.nips.cc/paper/2020/hash/fef6f971605336724b5e6c0c12dc2534-Abstract.html)
+- 2020-NIPS-[Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher](https://papers.nips.cc/paper/2020/hash/ef0d3930a7b6c95bd2b32ed45989c61f-Abstract.html)
 - 2020.12-[Knowledge Distillation Thrives on Data Augmentation](https://arxiv.org/abs/2012.02909)
 - 2020.12-[Multi-head Knowledge Distillation for Model Compression](https://arxiv.org/abs/2012.02911)
 
-## People (in alphabeta order)
+
+### AutoML (NAS etc.)
+- 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
+- 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf) [[Code](https://github.com/D-X-Y/GDAS)]
+- 2019-CVPR-[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
+- 2019-CVPR-[RENAS: Reinforced Evolutionary Neural Architecture Search](https://arxiv.org/abs/1808.00193)
+- 2019-NIPS-[Meta Architecture Search](https://papers.nips.cc/paper/9301-meta-architecture-search)
+- 2019-NIPS-[SpArSe: Sparse Architecture Search for CNNs on Resource-Constrained Microcontrollers](https://papers.nips.cc/paper/8743-sparse-sparse-architecture-search-for-cnns-on-resource-constrained-microcontrollers)
+- 2020-NIPS-[Fast, Accurate, and Simple Models for Tabular Data via Augmented Distillation](https://papers.nips.cc/paper/2020/hash/62d75fb2e3075506e8837d8f55021ab1-Abstract.html)
+- 2020-NIPS-[Cream of the Crop: Distilling Prioritized Paths For One-Shot Neural Architecture Search](https://papers.nips.cc/paper/2020/hash/d072677d210ac4c03ba046120f0802ec-Abstract.html)
+- 2020-NIPS-[Theory-Inspired Path-Regularized Differential Network Architecture Search](https://papers.nips.cc/paper/2020/hash/5e1b18c4c6a6d31695acbae3fd70ecc6-Abstract.html)
+- 2020-NIPS-[ISTA-NAS: Efficient and Consistent Neural Architecture Search by Sparse Coding](https://papers.nips.cc/paper/2020/hash/76cf99d3614e23eabab16fb27e944bf9-Abstract.html)
+- 2020-NIPS-[Semi-Supervised Neural Architecture Search](https://papers.nips.cc/paper/2020/hash/77305c2f862ad1d353f55bf38e5a5183-Abstract.html)
+- 2020-NIPS-[Bridging the Gap between Sample-based and One-shot Neural Architecture Search with BONAS](https://papers.nips.cc/paper/2020/hash/13d4635deccc230c944e4ff6e03404b5-Abstract.html)
+- 2020-NIPS-[Does Unsupervised Architecture Representation Learning Help Neural Architecture Search?](https://papers.nips.cc/paper/2020/hash/937936029af671cf479fa893db91cbdd-Abstract.html)
+- 2020-NIPS-[Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement](https://papers.nips.cc/paper/2020/hash/9a96a2c73c0d477ff2a6da3bf538f4f4-Abstract.html)
+- 2020-NIPS-[CLEARER: Multi-Scale Neural Architecture Search for Image Restoration](https://papers.nips.cc/paper/2020/hash/c6e81542b125c36346d9167691b8bd09-Abstract.html)
+- 2020-NIPS-[A Study on Encodings for Neural Architecture Search](https://papers.nips.cc/paper/2020/hash/ea4eb49329550caaa1d2044105223721-Abstract.html)
+- 2020-NIPS-[Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation](https://papers.nips.cc/paper/2020/hash/ec1f764517b7ffb52057af6df18142b7-Abstract.html)
+- 2020-NIPS-[Hierarchical Neural Architecture Search for Deep Stereo Matching](https://papers.nips.cc/paper/2020/hash/fc146be0b230d7e0a92e66a6114b840d-Abstract.html)
+
+
+### Papers-Interpretability
+- 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
+- 2015-PLOS ONE-[On Pixel-Wise Explanations for Non-Linear Classifier Decisions by Layer-Wise Relevance Propagation](http://heatmapping.org/)
+- 2015-CVPR-[Learning to generate chairs with convolutional neural networks](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Dosovitskiy_Learning_to_Generate_2015_CVPR_paper.pdf)
+- 2015-CVPR-[Understanding deep image representations by inverting them](https://www.cv-foundation.org/openaccess/content_cvpr_2015/html/Mahendran_Understanding_Deep_Image_2015_CVPR_paper.html) [2016 IJCV version: [Visualizing deep convolutional neural networks using natural pre-images](https://link.springer.com/content/pdf/10.1007%2Fs11263-016-0911-8.pdf)]
+- 2016-CVPR-[Inverting Visual Representations with Convolutional Networks](https://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Dosovitskiy_Inverting_Visual_Representations_CVPR_2016_paper.html)
+- 2016-KDD-["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
+- 2016-ICMLw-[The Mythos of Model Interpretability](https://arxiv.org/abs/1606.03490)
+- 2017-NIPSw-[The (Un)reliability of saliency methods](https://arxiv.org/abs/1711.00867)
+- 2017-DSP-[Methods for interpreting and understanding deep neural networks](https://arxiv.org/abs/1706.07979)
+- 2018-ICML-[Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors](https://arxiv.org/abs/1711.11279)
+- 2018-CVPR-[Deep Image Prior](http://openaccess.thecvf.com/content_cvpr_2018/html/Ulyanov_Deep_Image_Prior_CVPR_2018_paper.html) [[Code](https://dmitryulyanov.github.io/deep_image_prior)]
+- 2018-NIPSs-[Sanity Checks for Saliency Maps](https://arxiv.org/abs/1810.03292)
+- 2018-NIPSs-[Human-in-the-Loop Interpretability Prior](https://arxiv.org/abs/1805.11571)
+- 2018-NIPS-[To Trust Or Not To Trust A Classifier](https://arxiv.org/abs/1805.11783) [[Code](https://github.com/google/TrustScore)]
+- 2019-AISTATS-[Interpreting Black Box Predictions using Fisher Kernels](https://arxiv.org/abs/1810.10118)
+- 2019.05-[Luck Matters: Understanding Training Dynamics of Deep ReLU Networks](https://arxiv.org/pdf/1905.13405.pdf)
+- 2019.05-[Adversarial Examples Are Not Bugs, They Are Features](https://arxiv.org/abs/1905.02175)
+- 2019.06-[The Generalization-Stability Tradeoff in Neural Network Pruning](https://arxiv.org/abs/1906.03728)
+- 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
+- 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
+- 
+## People (in alphabet order)
 - [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
 - [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
 - [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
@@ -628,7 +695,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
 
 
-### People in NAS (in alphabeta order)
+### People in NAS (in alphabet order)
 - [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/) @ University of Freiburg
   - [AutoML book](https://www.automl.org/book/) Editted by Frank Hutter, Lars Kotthoff, Joaquin Vanschoren
 - [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
@@ -647,7 +714,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
 - [Workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 - [2020 CVPR Workshop on NAS](https://sites.google.com/view/cvpr20-nas/program)
-
 
 ## Lightweight DNN Engines/APIs
 - [NNPACK](https://github.com/Maratyszcza/NNPACK)
