@@ -79,8 +79,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016-BMVC-[Learning neural network architectures using backpropagation](https://arxiv.org/abs/1511.05497)
 - 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
-- 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks)
-- 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns) [[Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)]
+- 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks) [[Caffe Code](https://github.com/wenwei202/caffe)]
+- 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns) [[Caffe Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)]
 - 2016-NIPS-[Learning the Number of Neurons in Deep Neural Networks](http://papers.nips.cc/paper/6372-learning-the-number-of-neurons-in-deep-networks)
 - 2016-NIPS-[Memory-Efficient Backpropagation Through Time](http://papers.nips.cc/paper/6220-memory-efficient-backpropagation-through-time)
 - 2016-NIPS-[PerforatedCNNs: Acceleration through Elimination of Redundant Convolutions](http://papers.nips.cc/paper/6463-perforatedcnns-acceleration-through-elimination-of-redundant-convolutions)
@@ -100,7 +100,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2016.11-[Alternating Direction Method of Multipliers for Sparse Convolutional Neural Networks](https://arxiv.org/abs/1611.01590)
 
 **2017**
-- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg)
+- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) [[Pytorch Code](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)]
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
 - 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [[Code](https://github.com/Mxbonn/INQ-pytorch)]
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
@@ -113,7 +113,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICLR-[Soft Weight-Sharing for Neural Network Compression](https://openreview.net/forum?id=HJGwcKclx) [[Reddit discussion](https://www.reddit.com/r/MachineLearning/comments/5u7h3l/r_compressing_nn_with_shannons_blessing/)] [[Code](https://github.com/KarenUllrich/Tutorial-SoftWeightSharingForNNCompression)]
 - 2017-ICLR-[Variable Computation in Recurrent Neural Networks](https://openreview.net/forum?id=S1LVSrcge&noteId=S1LVSrcge)
 - 2017-ICLR-[Training Compressed Fully-Connected Networks with a Density-Diversity Penalty](https://openreview.net/forum?id=Hku9NK5lx)
-- 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
 - 2017-ICML-[Theoretical Properties for Neural Networks with Weight Matrices of Low Displacement Rank](https://arxiv.org/abs/1703.00144)
 - 2017-ICML-[Deep Tensor Convolution on Multicores](http://proceedings.mlr.press/v70/budden17a.html)
 - 2017-ICML-[Delta Networks for Optimized Recurrent Network Computation](http://proceedings.mlr.press/v70/neil17a.html)
@@ -135,11 +134,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-CVPR-[Spatially Adaptive Computation Time for Residual Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Figurnov_Spatially_Adaptive_Computation_CVPR_2017_paper.html)
 - 2017-CVPR-[Network Sketching: Exploiting Binary Structure in Deep CNNs](http://openaccess.thecvf.com/content_cvpr_2017/html/Guo_Network_Sketching_Exploiting_CVPR_2017_paper.html)
 - 2017-CVPR-[A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2017/html/Wu_A_Compact_DNN_CVPR_2017_paper.html)
-- 2017-ICCV-[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) [[Code](https://github.com/yihui-he/channel-pruning)]
-- 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[Code](https://github.com/liuzhuang13/slimming/)]
-- 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)] [[Code](https://github.com/Roll920/ThiNet_Code)] [[2018 TPAMI version](https://ieeexplore.ieee.org/document/8416559)]
+- 2017-ICCV-[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) [[Caffe Code](https://github.com/yihui-he/channel-pruning)]
+- 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[Pytorch Code](https://github.com/liuzhuang13/slimming/)]
+- 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)] [[Caffe Code](https://github.com/Roll920/ThiNet_Code)] [[2018 TPAMI version](https://ieeexplore.ieee.org/document/8416559)]
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
-- 2017-ICCV-[Coordinating Filters for Faster Deep Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Wen_Coordinating_Filters_for_ICCV_2017_paper.html) [[Code](https://github.com/wenwei202/caffe)]
+- 2017-ICCV-[Coordinating Filters for Faster Deep Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Wen_Coordinating_Filters_for_ICCV_2017_paper.html) [[Caffe Code](https://github.com/wenwei202/caffe)]
 - 2017-ICCV-[Performance Guaranteed Network Acceleration via High-Order Residual Quantization](http://openaccess.thecvf.com/content_iccv_2017/html/Li_Performance_Guaranteed_Network_ICCV_2017_paper.html)
 - 2017-NIPS-[Net-trim: Convex pruning of deep neural networks with performance guarantee](http://papers.nips.cc/paper/6910-net-trim-convex-pruning-of-deep-neural-networks-with-performance-guarantee) [[Code](https://github.com/DNNToolBox/Net-Trim)] (Journal version: [2020-SIAM-Fast Convex Pruning of Deep Neural Networks](https://epubs.siam.org/doi/abs/10.1137/19M1246468))
 - 2017-NIPS-[Runtime neural pruning](http://papers.nips.cc/paper/6813-runtime-neural-pruning)
@@ -241,7 +240,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-ICML-[WSNet: Compact and Efficient Networks Through Weight Sampling](http://proceedings.mlr.press/v80/jin18d.html)
 - 2018-ICML-[Gradually Updated Neural Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1711.09280) [[Code](https://github.com/joe-siyuan-qiao/GUNN)]
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
-- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Code](https://github.com/he-y/soft-filter-pruning)]
+- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Pytorch Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
 - 2018-IJCAI-[Accelerating Convolutional Networks via Global & Dynamic Filter Pruning](https://www.ijcai.org/proceedings/2018/0336.pdf)
 - 2018-IJCAI-[Optimization based Layer-wise Magnitude-based Pruning for DNN Compression](http://staff.ustc.edu.cn/~chaoqian/ijcai18-olmp.pdf)
@@ -249,7 +248,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-IJCAI-[Complementary Binary Quantization for Joint Multiple Indexing](https://www.ijcai.org/proceedings/2018/0292.pdf)
 - 2018-ECCV-[A Systematic DNN Weight Pruning Framework using Alternating Direction Method of Multipliers](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tianyun_Zhang_A_Systematic_DNN_ECCV_2018_paper.pdf) [[Code](https://github.com/KaiqiZhang/admm-pruning)]
 - 2018-ECCV-[Coreset-Based Neural Network Compression](http://openaccess.thecvf.com/content_ECCV_2018/papers/Abhimanyu_Dubey_Coreset-Based_Convolutional_Neural_ECCV_2018_paper.pdf)
-- 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf) [[Code](https://github.com/TuSimple/sparse-structure-selection)]
+- 2018-ECCV-[Data-Driven Sparse Structure Selection for Deep Neural Networks](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zehao_Huang_Data-Driven_Sparse_Structure_ECCV_2018_paper.pdf) [[MXNet Code](https://github.com/TuSimple/sparse-structure-selection)]
 - 2018-ECCV-[Training Binary Weight Networks via Semi-Binary Decomposition](http://openaccess.thecvf.com/content_ECCV_2018/html/Qinghao_Hu_Training_Binary_Weight_ECCV_2018_paper.html)
 - 2018-ECCV-[Learning Compression from Limited Unlabeled Data](http://openaccess.thecvf.com/content_ECCV_2018/html/Xiangyu_He_Learning_Compression_from_ECCV_2018_paper.html)
 - 2018-ECCV-[Constraint-Aware Deep Neural Network Compression](http://openaccess.thecvf.com/content_ECCV_2018/html/Changan_Chen_Constraints_Matter_in_ECCV_2018_paper.html)
@@ -296,8 +295,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-NIPS-[Training deep neural networks with 8-bit floating point numbers](http://papers.nips.cc/paper/7994-training-deep-neural-networks-with-8-bit-floating-point-numbers)
 - 2018-NIPS-[Multiple instance learning for efficient sequential data classification on resource-constrained devices](http://papers.nips.cc/paper/8292-multiple-instance-learning-for-efficient-sequential-data-classification-on-resource-constrained-devices)
 - 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
-- 2018-NIPSwb-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)]
-- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)] [[Code](https://github.com/MingSun-Tse/Caffe_IncReg)]
+- 2018-NIPSw-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) (best paper!) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)] [[Pytorch Code](https://github.com/Eric-mingjie/rethinking-network-pruning)]
+- 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)] [[Caffe Code](https://github.com/MingSun-Tse/Caffe_IncReg)]
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018-NIPSw-[Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678) [[OpenReview](https://openreview.net/forum?id=HkghWScuoQ)] [[Code](https://github.com/for-ai/TD)]
 - 2018-WACV-[Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks](https://arxiv.org/abs/1801.10447)
@@ -371,7 +370,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-CVPR-[Structured Pruning of Neural Networks With Budget-Aware Regularization](http://openaccess.thecvf.com/content_CVPR_2019/html/Lemaire_Structured_Pruning_of_Neural_Networks_With_Budget-Aware_Regularization_CVPR_2019_paper.html)
 - 2019-CVPRo-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
-- 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
+- 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Pytorch Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
 - 2019-ICML-[LegoNet: Efficient Convolutional Neural Networks with Lego Filters](http://proceedings.mlr.press/v97/yang19c.html) [[Code](https://github.com/zhaohui-yang/LegoNet_pytorch)]
 - 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
@@ -498,12 +497,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://papers.nips.cc/paper/2020/hash/1385974ed5904a438616ff7bdb3f7439-Abstract.html)
 - 2020-NIPS-[Ultra-Low Precision 4-bit Training of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13b919438259814cd5be8cb45877d577-Abstract.html)
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
-- 2020.12-[Neural Pruning via Growing Regularization](https://arxiv.org/abs/2012.09243) [[Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
+- 2020.12-[Neural Pruning via Growing Regularization](https://arxiv.org/abs/2012.09243) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 
 **2021**
 - 2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
-
 
 
 ### Papers-Lottery Ticket Hypothesis (LTH)
@@ -529,7 +527,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
 - 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 - 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning) [[Code](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)]
-- 2017-NIPS-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
+- 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
+- 2017-NIPSo-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
 
