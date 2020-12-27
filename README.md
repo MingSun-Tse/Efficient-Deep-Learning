@@ -507,7 +507,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 ### Papers-Lottery Ticket Hypothesis (LTH)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-NIPS-[Deconstructing lottery tickets: Zeros, signs, and the supermask](https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html)
-- 2019-NIPS-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers]()
+- 2019-NIPS-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/2019/hash/a4613e8d72a61b3b69b32d040f89ad81-Abstract.html)
 - 2020-ICLR-[GraSP: Picking Winning Tickets Before Training By Preserving Gradient Flow](https://openreview.net/pdf?id=SkgsACVKPH) [[Code](https://github.com/alecwangcq/GraSP)]
 - 2020-ICLR-[Playing the lottery with rewards and multiple languages: Lottery tickets in rl and nlp](https://openreview.net/forum?id=S1xnXRVFwH)
 - 2020-ICLR-[The Early Phase of Neural Network Training](https://openreview.net/forum?id=Hkl1iRNFwS)
@@ -525,6 +525,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ### Papers-Bayesian Compression
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
+- 1997-Neural Networks-[Regularization with a Pruning Prior](https://www.sciencedirect.com/science/article/pii/S0893608097000270?casa_token=sLb4dFBnyH8AAAAA:a9WwAAoYl5CgLepZGXjZ5DKQ4YBEjINgGd7Jl2bPHqrbhIWZHso-uC_gpL-85JmdxG7g8x71)
 - 2015-NIPS-[Bayesian dark knowledge](http://papers.nips.cc/paper/5965-bayesian-dark-knowledge.pdf)
 - 2017-NIPS-[Bayesian Compression for Deep Learning](http://papers.nips.cc/paper/6921-bayesian-compression-for-deep-learning) [[Code](https://github.com/KarenUllrich/Tutorial_BayesianCompressionForDL)]
 - 2017-ICML-[Variational dropout sparsifies deep neural networks](https://arxiv.org/pdf/1701.05369.pdf)
