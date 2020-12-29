@@ -479,7 +479,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
-- 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html)
+- 2020-ICML-[Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) [[Pytorch Code](https://github.com/RAIVNLab/STR)]
+- 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) 
 - 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)
 - 2020-NIPS-[SCOP: Scientific Control for Reliable Neural Network Pruning](https://papers.nips.cc/paper/2020/hash/7bcdf75ad237b8e02e301f4091fb6bc8-Abstract.html)
 - 2020-NIPS-[Directional Pruning of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/a09e75c5c86a7bf6582d2b4d75aad615-Abstract.html)
@@ -520,7 +521,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
 - 2020-NIPS-[Logarithmic Pruning is All You Need](https://papers.nips.cc/paper/2020/hash/1e9491470749d5b0e361ce4f0b24d037-Abstract.html)
 - 2020-NIPS-[Winning the Lottery with Continuous Sparsification](https://papers.nips.cc/paper/2020/hash/83004190b1793d7aa15f8d0d49a13eba-Abstract.html)
-
+- 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
+- 
 
 
 ### Papers-Bayesian Compression
@@ -532,6 +534,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPSo-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
+
 
 
 ### Papers-Knowledge Distillation
