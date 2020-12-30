@@ -126,7 +126,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-ICML-[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html)
 - 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
-- 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html)
+- 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html) [[Pytorch Code](https://github.com/D-X-Y/DXY-Projects/tree/master/LCCL)]
 - 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
 - 2017-CVPR-ResNeXt-[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.html)
 - 2017-CVPR-[Xception: Deep learning with depthwise separable convolutions](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
@@ -395,7 +395,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019-NIPS-[Random Projections with Asymmetric Quantization](https://papers.nips.cc/paper/9268-random-projections-with-asymmetric-quantization)
 - 2019-NIPS-[Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) [[Code](https://github.com/D-X-Y/TAS)]
 - 2019-NIPS-[Point-Voxel CNN for Efficient 3D Deep Learning](http://papers.nips.cc/paper/8382-point-voxel-cnn-for-efficient-3d-deep-learning) [[Code](https://github.com/mit-han-lab/pvcnn)]
-- 2019-NIPS-[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://papers.nips.cc/paper/8486-gate-decorator-global-filter-pruning-method-for-accelerating-deep-convolutional-neural-networks)
+- 2019-NIPS-[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) [[Pytorch Code](https://github.com/youzhonghui/gate-decorator-pruning)]
 - 2019-NIPS-[A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off](https://papers.nips.cc/paper/8926-a-mean-field-theory-of-quantized-deep-networks-the-quantization-depth-trade-off)
 - 2019-NIPS-[Qsparse-local-SGD: Distributed SGD with Quantization, Sparsification and Local Computations](https://papers.nips.cc/paper/9610-qsparse-local-sgd-distributed-sgd-with-quantization-sparsification-and-local-computations)
 - 2019-NIPS-[Post training 4-bit quantization of convolutional networks for rapid-deployment](https://papers.nips.cc/paper/9008-post-training-4-bit-quantization-of-convolutional-networks-for-rapid-deployment)
