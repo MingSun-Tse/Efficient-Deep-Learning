@@ -28,6 +28,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 ## Papers
 **1980s,1990s**
 - 1989-NIPS-[Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment](https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf)
+- 1989-NIPS-[Comparing Biases for Minimal Network Construction with Back-Propagation](https://papers.nips.cc/paper/1988/file/1c9ac0159c94d8d0cbedc973445af2da-Paper.pdf)
 - 1990-NIPS-[Optimal Brain Damage](https://papers.nips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
 - 1993-ICNN-[Optimal Brain Surgeon and general network pruning](https://ieeexplore.ieee.org/abstract/document/298572?casa_token=8a8fUVuadHEAAAAA:tgRbetEERx1Bdh6RCa27mok9SAPNc8Y33qy2ScdTNOCs_ajHlaUv4_nnvDNJp3jZbb13uouD)
 
