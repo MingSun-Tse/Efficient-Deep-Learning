@@ -628,6 +628,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Knowledge Distillation in Wide Neural Networks: Risk Bound, Data Efficiency and Imperfect Teacher](https://papers.nips.cc/paper/2020/hash/ef0d3930a7b6c95bd2b32ed45989c61f-Abstract.html)
 - 2020.12-[Knowledge Distillation Thrives on Data Augmentation](https://arxiv.org/abs/2012.02909)
 - 2020.12-[Multi-head Knowledge Distillation for Model Compression](https://arxiv.org/abs/2012.02911)
+- 2021-AAAI-[Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236) [[Code](https://github.com/DefangChen/SemCKD)]
 
 
 ### AutoML (NAS etc.)
