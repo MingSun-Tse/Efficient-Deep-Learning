@@ -13,7 +13,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 ## Survey
 - 1993-TNN-[Pruning Algorithms -- A survey](https://ieeexplore.ieee.org/abstract/document/248452?casa_token=eJan5NO1DxwAAAAA:chz9BYf22tIO4RHt6nC_x4nbTeTslXiLMrvQElnrXZGbg9fn4c-Alonhq8UYWhT86gXFGO2_)
-- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708)
+- 2017-Proceedings of the IEEE-[Efficient Processing of Deep Neural Networks: A Tutorial and Survey](https://ieeexplore.ieee.org/document/8114708) [[2020 Book: Efficient Processing of Deep Neural Networks](https://www.morganclaypool.com/doi/pdfplus/10.2200/S01004ED1V01Y202004CAC050?casa_token=rnnqUJmipDEAAAAA:fOs90gKOCbMDqjZlGdc25dCi3H4L0gT1tkEqhNL1eNBpV8h36cvQet9WK0qVRqs9M6irYxbH)]
 - 2017.12-[A survey of FPGA-based neural network accelerator](https://arxiv.org/abs/1712.08934)
 - 2018-FITEE-[Recent Advances in Efficient Computation of Deep Convolutional Neural Networks](https://link.springer.com/article/10.1631/FITEE.1700789)
 - 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
@@ -23,6 +23,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020.6-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
+- 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
 
 
 ## Papers
@@ -512,11 +513,10 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671)
 - 2020-ICML-[Finding trainable sparse networks through neural tangent transfer](https://arxiv.org/abs/2006.08228)
 - 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
-- 2020-ICLR-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
+- 2020-ICLRo-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
 - 2020-NIPS-[Logarithmic Pruning is All You Need](https://papers.nips.cc/paper/2020/hash/1e9491470749d5b0e361ce4f0b24d037-Abstract.html)
 - 2020-NIPS-[Winning the Lottery with Continuous Sparsification](https://papers.nips.cc/paper/2020/hash/83004190b1793d7aa15f8d0d49a13eba-Abstract.html)
 - 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
-- 
 
 
 ### Papers-Bayesian Compression
@@ -740,6 +740,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
 - [Awesome-Pruning](https://github.com/he-y/Awesome-Pruning)
 - [Awesome-Knowledge-Distillation](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
+- [MS AI-System open course](https://github.com/microsoft/AI-System/tree/main/Lectures)
 - [caffe-int8-convert-tools](https://github.com/BUG1989/caffe-int8-convert-tools)
 - [Neural-Networks-on-Silicon](https://github.com/fengbintu/Neural-Networks-on-Silicon)
 - [Embedded-Neural-Network](https://github.com/ZhishengWang/Embedded-Neural-Network)
