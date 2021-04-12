@@ -493,30 +493,37 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://papers.nips.cc/paper/2020/hash/1385974ed5904a438616ff7bdb3f7439-Abstract.html)
 - 2020-NIPS-[Ultra-Low Precision 4-bit Training of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13b919438259814cd5be8cb45877d577-Abstract.html)
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
-- 2020.12-[Neural Pruning via Growing Regularization](https://arxiv.org/abs/2012.09243) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 
 **2021**
 - 2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
+- 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
+- 2021-ICLR-[Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
 
 
 ### Papers-Lottery Ticket Hypothesis (LTH)
+- 2019-ICLR-Snip: Single-shot network pruning based on connection sensitivity (#PaI first work)
 - 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (best paper!)
 - 2019-NIPS-[Deconstructing lottery tickets: Zeros, signs, and the supermask](https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html)
 - 2019-NIPS-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/2019/hash/a4613e8d72a61b3b69b32d040f89ad81-Abstract.html)
 - 2020-ICLR-[GraSP: Picking Winning Tickets Before Training By Preserving Gradient Flow](https://openreview.net/pdf?id=SkgsACVKPH) [[Code](https://github.com/alecwangcq/GraSP)]
-- 2020-ICLR-[Playing the lottery with rewards and multiple languages: Lottery tickets in rl and nlp](https://openreview.net/forum?id=S1xnXRVFwH)
+- 2020-ICLR-[Playing the lottery with rewards and multiple languages: Lottery tickets in RL and NLP](https://openreview.net/forum?id=S1xnXRVFwH)
 - 2020-ICLR-[The Early Phase of Neural Network Training](https://openreview.net/forum?id=Hkl1iRNFwS)
+- 2020-ICLR-[A signal propagation perspective for pruning neural networks at initialization](https://arxiv.org/abs/1906.06307)
+- 2020-ICLRo-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
 - 2020-[The Sooner The Better: Investigating Structure of Early Winning Lottery Tickets](https://openreview.net/forum?id=BJlNs0VYPB)
 - 2020-ICML-[Proving the Lottery Ticket Hypothesis: Pruning is All You Need](https://arxiv.org/abs/2002.00585)
 - 2020-ICML-[Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/abs/1911.11134) [[Code](https://github.com/google-research/rigl)]
 - 2020-ICML-[Linear Mode Connectivity and the Lottery Ticket Hypothesis](https://arxiv.org/abs/1912.05671)
 - 2020-ICML-[Finding trainable sparse networks through neural tangent transfer](https://arxiv.org/abs/2006.08228)
 - 2020-NIPS-[Sanity-Checking Pruning Methods: Random Tickets can Win the Jackpot](https://proceedings.neurips.cc//paper/2020/hash/eae27d77ca20db309e056e3d2dcd7d69-Abstract.html)
-- 2020-ICLRo-[Comparing Rewinding and Fine-tuning in Neural Network Pruning](https://openreview.net/forum?id=S1gSj0NKvB) [[Code](https://github.com/lottery-ticket/rewinding-iclr20-public)]
 - 2020-NIPS-[Logarithmic Pruning is All You Need](https://papers.nips.cc/paper/2020/hash/1e9491470749d5b0e361ce4f0b24d037-Abstract.html)
 - 2020-NIPS-[Winning the Lottery with Continuous Sparsification](https://papers.nips.cc/paper/2020/hash/83004190b1793d7aa15f8d0d49a13eba-Abstract.html)
+- 2020-NIPS-[Good Students Play Big Lottery Better](https://arxiv.org/abs/2101.03255)
 - 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
+- 2021-ICLR-[Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK)
+- 2021-CVPR-[The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://arxiv.org/abs/2012.06908)
+- 2021-[ICLR-Long Live the Lottery- The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/pdf?id=LXMSvPmsm0g)
 
 
 ### Papers-Bayesian Compression
@@ -528,7 +535,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2017-NIPSo-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
-
 
 
 ### Papers-Knowledge Distillation
@@ -673,39 +679,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2019.06-[The Generalization-Stability Tradeoff in Neural Network Pruning](https://arxiv.org/abs/1906.03728)
 - 2019.06-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://arxiv.org/abs/1906.02773)
 - 2019-Book-[Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/index.html)
-- 
-## People (in alphabet order)
-- [Been Kim](https://beenkim.github.io/) @ Google Brain (Interpretability)
-- [Elliot Crowley](http://homepages.inf.ed.ac.uk/ecrowley/) @ Edinburgh
-- [Gao Huang](http://www.gaohuang.net/) @ Tsinghua
-- [Hanting Chen](https://scholar.google.com/citations?user=wZ9N88gAAAAJ&hl=en&oi=ao) @ PKU
-- [Ji Lin](http://linji.me/) @ MIT
-- [Jianguo Li](https://sites.google.com/site/leeplus/) @ Intel
-- [Miguel Carreira-Perpinan](https://scholar.google.com/citations?hl=en&user=SYdYhxgAAAAJ) @ UC Merced
-- [Mingjie Sun](https://scholar.google.com.vn/citations?user=wCZbouUAAAAJ&hl=en&oi=ao) @ CMU
-- [Mohsen Imani](http://moimani.weebly.com/) @ UCSD
-- [Naiyan Wang](http://www.winsty.net/) @ TuSimple
-- [Pavlo Molchanov](https://scholar.google.com/citations?user=J9PoyoIAAAAJ&hl=en&oi=ao) @ NVIDIA
-- [Song Han](https://songhan.mit.edu/) @ MIT
-- [Ting-Wu Chin](https://rudychin.github.io/) @ CMU
-- [Wei Wen](http://www.pittnuts.com/) @ Duke
-- [Xiaohan Ding](https://scholar.google.com/citations?user=CIjw0KoAAAAJ&hl=en&oi=sra) @ Tsinghua
-- [Xin Dong](http://www.simonxin.com/) @ Harvard
-- [Yang He](https://scholar.google.com.vn/citations?user=vvnFsIIAAAAJ&hl=en&oi=sra) @ UTS
-- [Yanzhi Wang](https://web.northeastern.edu/yanzhiwang/) @ NEU US
-- [Yerlan Idelbayev](http://graduatestudent.ucmerced.edu/yidelbayev/) @ UC Merced
-- [Yihui He](http://yihui-he.github.io/) @ CMU
-- [Yunhe Wang](http://www.wangyunhe.site/) @ Huawei
-- [Zhuang Liu](https://liuzhuang13.github.io/) @ UC Berkeley
-
-
-### People in NAS (in alphabet order)
-- [Frank Hutter](http://ml.informatik.uni-freiburg.de/~hutter/) @ University of Freiburg
-  - [AutoML book](https://www.automl.org/book/) Editted by Frank Hutter, Lars Kotthoff, Joaquin Vanschoren
-- [Lingxi Xie](http://lingxixie.com/Home.html) @ Huawei
-- [Marius Lindauer](https://www.tnt.uni-hannover.de/staff/lindauer/) @ University of Freiburg
-- [Quoc V. Le](https://cs.stanford.edu/~quocle/) @ Google Brain
-- [Xuanyi Dong](http://xuanyidong.com/) @ UTS
 
 
 ## Workshops
