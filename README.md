@@ -19,8 +19,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
 - 2018.8-[A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/abs/1808.04752)
 - 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
-- 2020.4-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937) (TPAMI submission)
-- 2020.6-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
+- 2021-TPAMI-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
+- 2021-IJCV-[Knowledge Distillation: A Survey]
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 - 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
@@ -499,6 +499,14 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
 - 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 - 2021-ICLR-[Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
+- 2021-ICLR-[ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1)
+- 2021-CVPR-[Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
+- 2021-CVPR-[Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
+- 2021-CVPR-[Learnable Companding Quantization for Accurate Low-bit Neural Networks](https://arxiv.org/abs/2103.07156)
+- 2021-CVPR-[Diversifying Sample Generation for Accurate Data-Free Quantization](https://arxiv.org/abs/2103.01049)
+- 2021-CVPR-[Zero-shot Adversarial Quantization](https://arxiv.org/abs/2103.15263) [Oral] [[Code](https://github.com/FLHonker/ZAQ-code)]
+- 2021-CVPR-[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903) [[Project](https://cvlab.yonsei.ac.kr/projects/EWGS/)]
+- 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 
 ### Papers-Lottery Ticket Hypothesis (LTH)
@@ -522,9 +530,11 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Good Students Play Big Lottery Better](https://arxiv.org/abs/2101.03255)
 - 2020.2-[Calibrate and Prune: Improving Reliability of Lottery Tickets Through Prediction Calibration](https://arxiv.org/abs/2002.03875)
 - 2021-ICLR-[Pruning Neural Networks at Initialization: Why Are We Missing the Mark?](https://openreview.net/forum?id=Ig-VyQc-MLK)
+- 2021-ICLR-[Long Live the Lottery- The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/pdf?id=LXMSvPmsm0g)
+- 2021-ICLR-[Robust Pruning at Initialization](https://openreview.net/forum?id=vXj_ucZQ4hA)
+- 2021-ICLR-[Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)
+- 2021-ICLR-[Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) [[Code](https://github.com/jaeho-lee/layer-adaptive-sparsity)]
 - 2021-CVPR-[The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://arxiv.org/abs/2012.06908)
-- 2021-[ICLR-Long Live the Lottery- The Existence of Winning Tickets in Lifelong Learning](https://openreview.net/pdf?id=LXMSvPmsm0g)
-
 
 ### Papers-Bayesian Compression
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
@@ -537,7 +547,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
 
 
-### Papers-Knowledge Distillation
+### Papers-Knowledge Distillation (KD)
 - 1996-[Born again trees](ftp://ftp.stat.berkeley.edu/pub/users/breiman/BAtrees.ps) (proposed compressing neural networks and multipletree predictors by approximating them with a single tree)
 - 2006-SIGKDD-[Model compression](https://dl.acm.org/citation.cfm?id=1150464)
 - 2010-ML-[A theory of learning from different domains](https://link.springer.com/content/pdf/10.1007%2Fs10994-009-5152-4.pdf)
@@ -635,9 +645,18 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020.12-[Knowledge Distillation Thrives on Data Augmentation](https://arxiv.org/abs/2012.02909)
 - 2020.12-[Multi-head Knowledge Distillation for Model Compression](https://arxiv.org/abs/2012.02911)
 - 2021-AAAI-[Cross-Layer Distillation with Semantic Calibration](https://arxiv.org/abs/2012.03236) [[Code](https://github.com/DefangChen/SemCKD)]
+- 2021-ICLR-[Distilling Knowledge from Reader to Retriever for Question Answering](https://openreview.net/forum?id=NTEz-6wysdb)
+- 2021-ICLR-[Improve Object Detection with Feature-based Knowledge Distillation: Towards Accurate and Efficient Detectors](https://openreview.net/forum?id=uKhGRvM8QNH)
+- 2021-ICLR-[Knowledge distillation via softmax regression representation learning](https://openreview.net/forum?id=ZzwDy_wiWv) [[Code](https://github.com/jingyang2017/KD_SRRL)]
+- 2021-ICLR-[Knowledge Distillation as Semiparametric Inference](https://openreview.net/forum?id=m4UCf24r0Y)
+- 2021-ICLR-[Is Label Smoothing Truly Incompatible with Knowledge Distillation: An Empirical Study](https://openreview.net/forum?id=PObuuGVrGaZ)
+- 2021-ICLR-[Rethinking Soft Labels for Knowledge Distillation: A Bias–Variance Tradeoff Perspective](https://openreview.net/forum?id=gIHd-5X324)
+- 2021-CVPR-[Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273) [[PyTorch Code](https://github.com/MingiJi/FRSKD)]
+- 2021-CVPR-[Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367)
+- 2021-CVPR-[Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044) [[Code](https://github.com/dvlab-research/ReviewKD)]
 
 
-### AutoML (NAS etc.)
+### Papers-AutoML (NAS etc.)
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
 - 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf) [[Code](https://github.com/D-X-Y/GDAS)]
 - 2019-CVPR-[FBNet: Hardware-Aware Efficient ConvNet Design via Differentiable Neural Architecture Search](https://arxiv.org/abs/1812.03443)
