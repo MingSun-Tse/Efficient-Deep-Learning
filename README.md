@@ -24,6 +24,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 - 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
+- 2021-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
 
 
 ## Papers
