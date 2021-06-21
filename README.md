@@ -20,11 +20,12 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2018.8-[A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/abs/1808.04752)
 - 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
 - 2021-TPAMI-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
-- 2021-IJCV-[Knowledge Distillation: A Survey]
+- 2021-IJCV-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 - 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
-- 2021-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+- 2021.6-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+- 2021.5-[Emerging Paradigms of Neural Network Pruning](https://arxiv.org/abs/2103.06460)
 
 
 ## Papers
@@ -536,6 +537,8 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2021-ICLR-[Multi-Prize Lottery Ticket Hypothesis: Finding Accurate Binary Neural Networks by Pruning A Randomly Weighted Network](https://openreview.net/forum?id=U_mat0b9iv)
 - 2021-ICLR-[Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) [[Code](https://github.com/jaeho-lee/layer-adaptive-sparsity)]
 - 2021-CVPR-[The Lottery Tickets Hypothesis for Supervised and Self-supervised Pre-training in Computer Vision Models](https://arxiv.org/abs/2012.06908)
+- 2021.3-[The Elastic Lottery Ticket Hypothesis](https://arxiv.org/abs/2103.16547)
+
 
 ### Papers-Bayesian Compression
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
