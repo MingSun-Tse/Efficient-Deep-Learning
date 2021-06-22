@@ -497,7 +497,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
 
 **2021**
-- 2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Project](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
+- 2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Code](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
 - 2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
 - 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
