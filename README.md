@@ -442,7 +442,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICLR-[Data-Independent Neural Pruning via Coresets](https://openreview.net/forum?id=H1gmHaEKwB)
 - 2020-ICLR-[FSNet: Compression of Deep Convolutional Neural Networks by Filter Summary](https://openreview.net/forum?id=S1xtORNFwH)
 - 2020-ICLR-[Probabilistic Connection Importance Inference and Lossless Compression of Deep Neural Networks](https://openreview.net/forum?id=HJgCF0VFwr)
-- 2020-ICLR-[BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget](https://openreview.net/forum?id=SklkDkSFPB)
 - 2020-ICLR-[Neural Epitome Search for Architecture-Agnostic Network Compression](https://openreview.net/forum?id=HyxjOyrKvr)
 - 2020-ICLR-[One-Shot Pruning of Recurrent Neural Networks by Jacobian Spectrum Evaluation](https://openreview.net/forum?id=r1e9GCNKvH)
 - 2020-ICLR-[DeepHoyer: Learning Sparser Neural Network with Differentiable Scale-Invariant Sparsity Measures](https://openreview.net/forum?id=rylBK34FDS) [[Code](https://github.com/yanghr/DeepHoyer)]
@@ -450,7 +449,6 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-ICLR-[Scalable Model Compression by Entropy Penalized Reparameterization](https://openreview.net/forum?id=HkgxW0EYDS)
 - 2020-ICLR-[A Signal Propagation Perspective for Pruning Neural Networks at Initialization](https://arxiv.org/abs/1906.06307)
 - 2020-CVPR-[GhostNet: More Features from Cheap Operations](https://arxiv.org/abs/1911.11907) [[Code](https://github.com/huawei-noah/ghostnet)]
-- 2020-CVPR-[Learning Filter Pruning Criteria for Deep Convolutional Neural Networks Acceleration](https://he-y.github.io/publication/2020_cvpr_lfpc/2020_CVPR_LFPC.pdf)
 - 2020-CVPR-[Filter Grafting for Deep Neural Networks](https://arxiv.org/pdf/2001.05868.pdf)
 - 2020-CVPR-[Low-rank Compression of Neural Nets: Learning the Rank of Each Layer](http://graduatestudent.ucmerced.edu/yidelbayev/papers/cvpr20/cvpr20a.pdf)
 - 2020-CVPR-[Structured Compression by Weight Encryption for Unstructured Pruning and Quantization](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kwon_Structured_Compression_by_Weight_Encryption_for_Unstructured_Pruning_and_Quantization_CVPR_2020_paper.pdf)
@@ -622,6 +620,7 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - 2020-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2020-ICLR-[Knowledge Consistency between Neural Networks and Beyond](https://openreview.net/pdf?id=BJeS62EtwH)
 - 2020-ICLR-[Contrastive Representation Distillation](https://openreview.net/pdf?id=SkgpBJrtvS) [[Code](http://github.com/HobbitLong/RepDistiller)]
+- 2020-ICLR-[BlockSwap: Fisher-guided Block Substitution for Network Compression on a Budget](https://openreview.net/forum?id=SklkDkSFPB)
 - 2020-ICLR-[Ensemble Distribution Distillation](https://openreview.net/pdf?id=BygSP6Vtvr)
 - 2020-CVPR-[Collaborative Distillation for Ultra-Resolution Universal Style Transfer](https://arxiv.org/abs/2003.08436) [[Code](https://github.com/MingSun-Tse/Collaborative-Distillation)]
 - 2020-CVPR-[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)
