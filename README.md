@@ -59,7 +59,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2015-ICLR-[Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/abs/1412.6553)
 - 2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
 - 2015-INTERSPEECH-[A Diversity-Penalizing Ensemble Training Method for Deep Learning](https://www.isca-speech.org/archive/interspeech_2015/papers/i15_3590.pdf)
-- 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06 149)
+- 2015-BMVC-[Data-free parameter pruning for deep neural networks](https://arxiv.org/abs/1507.06149)
 - 2015-BMVC-[Learning the structure of deep architectures using l1 regularization](http://www.bmva.org/bmvc/2015/papers/paper023/paper023.pdf)
 - 2015-NIPS-[Learning both Weights and Connections for Efficient Neural Network](http://papers.nips.cc/paper/5784-learning-both-weights-and-connections-for-efficient-neural-network)
 - 2015-NIPS-[Binaryconnect: Training deep neural networks with binary weights during propagations](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-b)
@@ -73,7 +73,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
 
 **2016**
-- 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) (best paper!)
+- 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [Best paper!]
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
@@ -106,11 +106,11 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2016.11-[Alternating Direction Method of Multipliers for Sparse Convolutional Neural Networks](https://arxiv.org/abs/1611.01590)
 
 **2017**
-- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) [[Pytorch Code](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)]
+- 2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) [[PyTorch Reimpl. #1](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)] [[PyTorch Reimpl. #2](https://github.com/MingSun-Tse/Regularization-Pruning)]
 - 2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
 - 2017-ICLR-[Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights](https://arxiv.org/abs/1702.03044) [[Code](https://github.com/Mxbonn/INQ-pytorch)]
 - 2017-ICLR-[Do Deep Convolutional Nets Really Need to be Deep and Convolutional?](https://arxiv.org/abs/1603.05691)
-- 2017-ICLR-[DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381) (Closely related work: SFP and IHT)
+- 2017-ICLR-[DSD: Dense-Sparse-Dense Training for Deep Neural Networks](https://arxiv.org/abs/1607.04381)
 - 2017-ICLR-[Faster CNNs with Direct Sparse Convolutions and Guided Pruning](https://arxiv.org/abs/1608.01409)
 - 2017-ICLR-[Towards the Limit of Network Quantization](https://openreview.net/forum?id=rJ8uNptgl)
 - 2017-ICLR-[Loss-aware Binarization of Deep Networks](https://openreview.net/forum?id=S1oWlN9ll&noteId=S1oWlN9ll)
@@ -132,7 +132,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2017-ICML-[SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html)
 - 2017-CVPR-[Learning deep CNN denoiser prior for image restoration](http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Learning_Deep_CNN_CVPR_2017_paper.html)
 - 2017-CVPR-[Deep roots: Improving cnn efficiency with hierarchical filter groups](http://openaccess.thecvf.com/content_cvpr_2017/html/Ioannou_Deep_Roots_Improving_CVPR_2017_paper.html)
-- 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html) [[Pytorch Code](https://github.com/D-X-Y/DXY-Projects/tree/master/LCCL)]
+- 2017-CVPR-[More is less: A more complicated network with less inference complexity](http://openaccess.thecvf.com/content_cvpr_2017/html/Dong_More_Is_Less_CVPR_2017_paper.html) [[PyTorch Code](https://github.com/D-X-Y/DXY-Projects/tree/master/LCCL)]
 - 2017-CVPR-[All You Need is Beyond a Good Init: Exploring Better Solution for Training Extremely Deep Convolutional Neural Networks with Orthonormality and Modulation](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_All_You_Need_CVPR_2017_paper.html)
 - 2017-CVPR-ResNeXt-[Aggregated Residual Transformations for Deep Neural Networks](http://openaccess.thecvf.com/content_cvpr_2017/html/Xie_Aggregated_Residual_Transformations_CVPR_2017_paper.html)
 - 2017-CVPR-[Xception: Deep learning with depthwise separable convolutions](http://openaccess.thecvf.com/content_cvpr_2017/html/Chollet_Xception_Deep_Learning_CVPR_2017_paper.html)
@@ -141,7 +141,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2017-CVPR-[Network Sketching: Exploiting Binary Structure in Deep CNNs](http://openaccess.thecvf.com/content_cvpr_2017/html/Guo_Network_Sketching_Exploiting_CVPR_2017_paper.html)
 - 2017-CVPR-[A Compact DNN: Approaching GoogLeNet-Level Accuracy of Classification and Domain Adaptation](http://openaccess.thecvf.com/content_cvpr_2017/html/Wu_A_Compact_DNN_CVPR_2017_paper.html)
 - 2017-ICCV-[Channel pruning for accelerating very deep neural networks](http://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) [[Caffe Code](https://github.com/yihui-he/channel-pruning)]
-- 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[Pytorch Code](https://github.com/liuzhuang13/slimming/)]
+- 2017-ICCV-[Learning efficient convolutional networks through network slimming](http://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) [[PyTorch Code](https://github.com/liuzhuang13/slimming/)]
 - 2017-ICCV-[ThiNet: A filter level pruning method for deep neural network compression](http://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) [[Project](http://lamda.nju.edu.cn/luojh/project/ThiNet_ICCV17/ThiNet_ICCV17.html)] [[Caffe Code](https://github.com/Roll920/ThiNet_Code)] [[2018 TPAMI version](https://ieeexplore.ieee.org/document/8416559)]
 - 2017-ICCV-[Interleaved group convolutions](http://openaccess.thecvf.com/content_iccv_2017/html/Zhang_Interleaved_Group_Convolutions_ICCV_2017_paper.html)
 - 2017-ICCV-[Coordinating Filters for Faster Deep Neural Networks](http://openaccess.thecvf.com/content_iccv_2017/html/Wen_Coordinating_Filters_for_ICCV_2017_paper.html) [[Caffe Code](https://github.com/wenwei202/caffe)]
@@ -157,7 +157,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2017-NIPS-[Training Quantized Nets: A Deeper Understanding](http://papers.nips.cc/paper/7163-training-quantized-nets-a-deeper-understanding)
 - 2017-NIPS-[The Reversible Residual Network: Backpropagation Without Storing Activations](http://papers.nips.cc/paper/6816-the-reversible-residual-network-backpropagation-without-storing-activations) [[Code](https://github.com/renmengye/revnet-public)]
 - 2017-NIPS-[Compression-aware Training of Deep Networks](http://papers.nips.cc/paper/6687-compression-aware-training-of-deep-networks)
-- 2017-FPGA-[ESE: efficient speech recognition engine with compressed LSTM on FPGA](https://pdfs.semanticscholar.org/99d2/07c18ba48e41560f3081ea1b7c6fde98c1ce.pdf) (best paper!)
+- 2017-FPGA-[ESE: efficient speech recognition engine with compressed LSTM on FPGA](https://pdfs.semanticscholar.org/99d2/07c18ba48e41560f3081ea1b7c6fde98c1ce.pdf) [Best paper!]
 - 2017-AISTATS-[Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
 - 2017-ICASSP-[Accelerating Deep Convolutional Networks using low-precision and sparsity](https://arxiv.org/abs/1610.00324)
 - 2017-NNs-[Nonredundant sparse feature extraction using autoencoders with receptive fields clustering](https://www.sciencedirect.com/science/article/pii/S0893608017300928)
@@ -223,7 +223,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2018-CVPR-[ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices](http://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_ShuffleNet_An_Extremely_CVPR_2018_paper.html)
 - 2018-CVPRw-[Squeezenext: Hardware-aware neural network design](http://openaccess.thecvf.com/content_cvpr_2018_workshops/w33/html/Gholami_SqueezeNext_Hardware-Aware_Neural_CVPR_2018_paper.html)
 - 2018-IJCAI-[Efficient DNN Neuron Pruning by Minimizing Layer-wise Nonlinear Reconstruction Error](https://www.ijcai.org/proceedings/2018/0318.pdf)
-- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[Pytorch Code](https://github.com/he-y/soft-filter-pruning)]
+- 2018-IJCAI-[Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1808.06866) [[PyTorch Code](https://github.com/he-y/soft-filter-pruning)]
 - 2018-IJCAI-[Where to Prune: Using LSTM to Guide End-to-end Pruning](https://www.ijcai.org/proceedings/2018/0445.pdf)
 - 2018-IJCAI-[Accelerating Convolutional Networks via Global & Dynamic Filter Pruning](https://www.ijcai.org/proceedings/2018/0336.pdf)
 - 2018-IJCAI-[Optimization based Layer-wise Magnitude-based Pruning for DNN Compression](http://staff.ustc.edu.cn/~chaoqian/ijcai18-olmp.pdf)
@@ -292,7 +292,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2018-NIPS-[Multiple instance learning for efficient sequential data classification on resource-constrained devices](http://papers.nips.cc/paper/8292-multiple-instance-learning-for-efficient-sequential-data-classification-on-resource-constrained-devices)
 - 2018-NIPS-[Sparse dnns with improved adversarial robustness](https://papers.nips.cc/paper/2018/hash/4c5bde74a8f110656874902f07378009-Abstract.html)
 - 2018-NIPSw-[Pruning neural networks: is it time to nip it in the bud?](https://openreview.net/forum?id=r1lbgwFj5m)
-- 2018-NIPSw-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) (best paper!) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)] [[Pytorch Code](https://github.com/Eric-mingjie/rethinking-network-pruning)]
+- 2018-NIPSw-[Rethinking the Value of Network Pruning](https://openreview.net/forum?id=r1eLk2mKiX) [[2019 ICLR version](https://openreview.net/forum?id=rJlnB3C5Ym)] [[PyTorch Code](https://github.com/Eric-mingjie/rethinking-network-pruning)]
 - 2018-NIPSw-[Structured Pruning for Efficient ConvNets via Incremental Regularization](https://openreview.net/forum?id=S1e_xM7_iQ) [[2019 IJCNN version](https://arxiv.org/abs/1804.09461)] [[Caffe Code](https://github.com/MingSun-Tse/Caffe_IncReg)]
 - 2018-NIPSw-[Adaptive Mixture of Low-Rank Factorizations for Compact Neural Modeling](https://openreview.net/forum?id=B1eHgu-Fim)
 - 2018-NIPSw-[Learning Sparse Networks Using Targeted Dropout](https://arxiv.org/abs/1905.13678) [[OpenReview](https://openreview.net/forum?id=HkghWScuoQ)] [[Code](https://github.com/for-ai/TD)]
@@ -367,7 +367,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-CVPR-[Structured Pruning of Neural Networks With Budget-Aware Regularization](http://openaccess.thecvf.com/content_CVPR_2019/html/Lemaire_Structured_Pruning_of_Neural_Networks_With_Budget-Aware_Regularization_CVPR_2019_paper.html)
 - 2019-CVPRo-[Neural Rejuvenation: Improving Deep Network Training by Enhancing Computational Resource Utilization](https://arxiv.org/abs/1812.00481) [[Code](https://github.com/joe-siyuan-qiao/NeuralRejuvenation-CVPR19)]
 - 2019-ICML-[Approximated Oracle Filter Pruning for Destructive CNN Width Optimization](https://arxiv.org/abs/1905.04748) [[Code](https://github.com/ShawnDing1994/AOFP)]
-- 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[Pytorch Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
+- 2019-ICML-[EigenDamage: Structured Pruning in the Kronecker-Factored Eigenbasis](https://arxiv.org/abs/1905.05934) [[PyTorch Code](https://github.com/alecwangcq/EigenDamage-Pytorch)]
 - 2019-ICML-[Zero-Shot Knowledge Distillation in Deep Networks](https://arxiv.org/abs/1905.08114) [[Code](https://github.com/vcl-iisc/ZSKD)]
 - 2019-ICML-[LegoNet: Efficient Convolutional Neural Networks with Lego Filters](http://proceedings.mlr.press/v97/yang19c.html) [[Code](https://github.com/zhaohui-yang/LegoNet_pytorch)]
 - 2019-ICML-[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks](https://arxiv.org/abs/1905.11946) [[Code](https://github.com/tensorflow/tpu/tree/master/models/official/efficientnet)]
@@ -382,7 +382,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
 - 2019-ICCV-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
 - 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
-- 2019-ICCV-[Adversarial Robustness vs. Model Compression, or Both?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf) [[Pytorch Code](https://github.com/yeshaokai/Robustness-Aware-Pruning-ADMM)]
+- 2019-ICCV-[Adversarial Robustness vs. Model Compression, or Both?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf) [[PyTorch Code](https://github.com/yeshaokai/Robustness-Aware-Pruning-ADMM)]
 - 2019-NIPS-[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)
 - 2019-NIPS-[Model Compression with Adversarial Robustness: A Unified Optimization Framework](http://papers.nips.cc/paper/8410-model-compression-with-adversarial-robustness-a-unified-optimization-framework)
 - 2019-NIPS-[AutoPrune: Automatic Network Pruning by Regularizing Auxiliary Parameters](https://nips.cc/Conferences/2019/Schedule?showEvent=14303)
@@ -393,7 +393,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-NIPS-[Random Projections with Asymmetric Quantization](https://papers.nips.cc/paper/9268-random-projections-with-asymmetric-quantization)
 - 2019-NIPS-[Network Pruning via Transformable Architecture Search](https://arxiv.org/abs/1905.09717) [[Code](https://github.com/D-X-Y/TAS)]
 - 2019-NIPS-[Point-Voxel CNN for Efficient 3D Deep Learning](http://papers.nips.cc/paper/8382-point-voxel-cnn-for-efficient-3d-deep-learning) [[Code](https://github.com/mit-han-lab/pvcnn)]
-- 2019-NIPS-[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) [[Pytorch Code](https://github.com/youzhonghui/gate-decorator-pruning)]
+- 2019-NIPS-[Gate Decorator: Global Filter Pruning Method for Accelerating Deep Convolutional Neural Networks](https://arxiv.org/abs/1909.08174) [[PyTorch Code](https://github.com/youzhonghui/gate-decorator-pruning)]
 - 2019-NIPS-[A Mean Field Theory of Quantized Deep Networks: The Quantization-Depth Trade-Off](https://papers.nips.cc/paper/8926-a-mean-field-theory-of-quantized-deep-networks-the-quantization-depth-trade-off)
 - 2019-NIPS-[Qsparse-local-SGD: Distributed SGD with Quantization, Sparsification and Local Computations](https://papers.nips.cc/paper/9610-qsparse-local-sgd-distributed-sgd-with-quantization-sparsification-and-local-computations)
 - 2019-NIPS-[Post training 4-bit quantization of convolutional networks for rapid-deployment](https://papers.nips.cc/paper/9008-post-training-4-bit-quantization-of-convolutional-networks-for-rapid-deployment)
@@ -475,7 +475,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2020-ICML-[DropNet: Reducing Neural Network Complexity via Iterative Pruning](https://proceedings.icml.cc/static/paper_files/icml/2020/2026-Paper.pdf)
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
-- 2020-ICML-[Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) [[Pytorch Code](https://github.com/RAIVNLab/STR)]
+- 2020-ICML-[Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) [[PyTorch Code](https://github.com/RAIVNLab/STR)]
 - 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) 
 - 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)
 - 2020-NIPS-[SCOP: Scientific Control for Reliable Neural Network Pruning](https://papers.nips.cc/paper/2020/hash/7bcdf75ad237b8e02e301f4091fb6bc8-Abstract.html)
@@ -499,7 +499,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Code](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
 - 2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
 - 2021-AAAI-[Conditional Channel Pruning for Automated Model Compression]() [[Code](https://github.com/liuyixin-louis/CAMC-hanlab)]
-- 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[Pytorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
+- 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[PyTorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 - 2021-ICLR-[Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
 - 2021-ICLR-[ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1)
 - 2021-CVPR-[Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
@@ -531,7 +531,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 ### Papers [Lottery Ticket Hypothesis (LTH)]
 **2019**
 - 2019-ICLR-[Snip: Single-shot network pruning based on connection sensitivity](https://arxiv.org/abs/1810.02340)
-- 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) (Best Paper!) [[Code 1](https://github.com/google-research/lottery-ticket-hypothesis)] [[Code 2](https://github.com/facebookresearch/open_lth)]
+- 2019-ICLR-[The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks](https://openreview.net/forum?id=rJl-b3RcF7) [Best Paper!] [[Code 1](https://github.com/google-research/lottery-ticket-hypothesis)] [[Code 2](https://github.com/facebookresearch/open_lth)]
 - 2019-NIPS-[Deconstructing lottery tickets: Zeros, signs, and the supermask](https://papers.nips.cc/paper/2019/hash/1113d7a76ffceca1bb350bfe145467c6-Abstract.html)
 - 2019-NIPS-[One ticket to win them all: generalizing lottery ticket initializations across datasets and optimizers](https://papers.nips.cc/paper/2019/hash/a4613e8d72a61b3b69b32d040f89ad81-Abstract.html)
 
