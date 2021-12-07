@@ -525,6 +525,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Training Quantized Neural Networks to Global Optimality via Semidefinite Programming](https://arxiv.org/abs/2105.01420)
 - 2021-ICML-[Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution](https://arxiv.org/abs/2106.02295)
 - 2021-ICML-[Communication-Efficient Distributed Optimization with Quantized Preconditioners](https://arxiv.org/abs/2102.07214)
+- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)]
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 
@@ -564,7 +565,6 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[A Unified Lottery Ticket Hypothesis for Graph Neural Networks](http://proceedings.mlr.press/v139/chen21p.html)
 - 2021-ICML-[Efficient Lottery Ticket Finding: Less Data is More](http://proceedings.mlr.press/v139/zhang21c.html)
 - 2021-NIPS-[The Elastic Lottery Ticket Hypothesis](https://arxiv.org/abs/2103.16547) [[Code](https://github.com/VITA-Group/ElasticLTH)]
-- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)]
 
 
 ### Papers [Bayesian Compression]
