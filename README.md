@@ -563,7 +563,8 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Lottery Ticket Implies Accuracy Degradation, Is It a Desirable Phenomenon?](https://arxiv.org/abs/2102.11068)
 - 2021-ICML-[A Unified Lottery Ticket Hypothesis for Graph Neural Networks](http://proceedings.mlr.press/v139/chen21p.html)
 - 2021-ICML-[Efficient Lottery Ticket Finding: Less Data is More](http://proceedings.mlr.press/v139/zhang21c.html)
-- 2021.3-[The Elastic Lottery Ticket Hypothesis](https://arxiv.org/abs/2103.16547) [[Code](https://github.com/VITA-Group/ElasticLTH)]
+- 2021-NIPS-[The Elastic Lottery Ticket Hypothesis](https://arxiv.org/abs/2103.16547) [[Code](https://github.com/VITA-Group/ElasticLTH)]
+- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)]
 
 
 ### Papers [Bayesian Compression]
@@ -706,6 +707,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Zero-Shot Knowledge Distillation from a Decision-Based Black-Box Model]()
 - 2021-ICML-[Data-Free Knowledge Distillation for Heterogeneous Federated Learning]()
 - 2021-ICML-[Simultaneous Similarity-based Self-Distillation for Deep Metric Learning]()
+- 2021-NIPS-[Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation](https://papers.nips.cc/paper/2021/file/75fc093c0ee742f6dddaa13fff98f104-Paper.pdf) [[Code](https://github.com/canqin001/Efficient_Graph_Similarity_Computation)]
 
 ## Papers [AutoML (NAS etc.)]
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
