@@ -85,7 +85,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2016-BMVC-[Learning neural network architectures using backpropagation](https://arxiv.org/abs/1511.05497)
 - 2016-ECCV-[Less is more: Towards compact cnns](http://users.umiacs.umd.edu/~hzhou/paper/zhou_ECCV2016.pdf)
 - 2016-EMNLP-[Sequence-Level Knowledge Distillation](https://arxiv.org/abs/1606.07947)
-- 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](http://papers.nips.cc/paper/6503-learning-structured-sparsity-in-deep-neural-networks) [[Caffe Code](https://github.com/wenwei202/caffe)]
+- 2016-NIPS-[Learning Structured Sparsity in Deep Neural Networks](https://proceedings.neurips.cc/paper/2016/hash/41bfd20a38bb1b0bec75acf0845530a7-Abstract.html) [[Caffe Code](https://github.com/wenwei202/caffe)]
 - 2016-NIPS-[Dynamic Network Surgery for Efficient DNNs](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns) [[Caffe Code](https://github.com/yiwenguo/Dynamic-Network-Surgery)]
 - 2016-NIPS-[Learning the Number of Neurons in Deep Neural Networks](http://papers.nips.cc/paper/6372-learning-the-number-of-neurons-in-deep-networks)
 - 2016-NIPS-[Memory-Efficient Backpropagation Through Time](http://papers.nips.cc/paper/6220-memory-efficient-backpropagation-through-time)
@@ -381,6 +381,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-ICCV-[Universally Slimmable Networks and Improved Training Techniques](https://arxiv.org/abs/1903.05134)
 - 2019-ICCV-[MetaPruning: Meta Learning for Automatic Neural Network Channel Pruning](https://arxiv.org/abs/1903.10258) [[Code](https://github.com/liuzechun/MetaPruning)]
 - 2019-ICCV-[Progressive Differentiable Architecture Search: Bridging the Depth Gap between Search and Evaluation](https://arxiv.org/abs/1904.12760) [[Code](https://github.com/chenxin061/pdarts)]
+- 2019-ICCV-[Data-Free Quantization through Weight Equalization and Bias Correction](https://arxiv.org/abs/1906.04721)
 - 2019-ICCV-[ACNet: Strengthening the Kernel Skeletons for Powerful CNN via Asymmetric Convolution Blocks](https://arxiv.org/abs/1908.03930)
 - 2019-ICCV-[Adversarial Robustness vs. Model Compression, or Both?](https://openaccess.thecvf.com/content_ICCV_2019/papers/Ye_Adversarial_Robustness_vs._Model_Compression_or_Both_ICCV_2019_paper.pdf) [[PyTorch Code](https://github.com/yeshaokai/Robustness-Aware-Pruning-ADMM)]
 - 2019-NIPS-[Global Sparse Momentum SGD for Pruning Very Deep Neural Networks](https://arxiv.org/abs/1909.12778)
@@ -410,14 +411,12 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019.06-[AutoGrow: Automatic Layer Growing in Deep Convolutional Networks](https://arxiv.org/abs/1906.02909)
 - 2019.06-[BasisConv: A method for compressed representation and learning in CNNs](https://arxiv.org/abs/1906.04509)
 - 2019.06-[BlockSwap: Fisher-guided Block Substitution for Network Compression](https://arxiv.org/abs/1906.04113)
-- 2019.06-[Data-Free Quantization through Weight Equalization and Bias Correction](https://arxiv.org/abs/1906.04721)
 - 2019.06-[Separable Layers Enable Structured Efficient Linear Substitutions](https://arxiv.org/abs/1906.00859) [[Code](https://github.com/BayesWatch/deficient-efficient)] 
 - 2019.06-[Butterfly Transform: An Efficient FFT Based Neural Architecture Design](https://arxiv.org/abs/1906.02256)
 - 2019.06-[A Taxonomy of Channel Pruning Signals in CNNs](https://arxiv.org/abs/1906.04675)
 - 2019.08-[Adversarial Neural Pruning with Latent Vulnerability Suppression](https://arxiv.org/abs/1908.04355)
 - 2019.09-[Training convolutional neural networks with cheap convolutions and online distillation](https://arxiv.org/abs/1909.13063)
 - 2019.09-[Pruning from Scratch](https://arxiv.org/abs/1909.12579)
-- 2019.10-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732)
 - 2019.11-[Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness](https://openreview.net/forum?id=Syejj0NYvr)
 - 2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)]
 
@@ -476,6 +475,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
 - 2020-ICML-[Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) [[PyTorch Code](https://github.com/RAIVNLab/STR)]
+- 2020-EMNLP-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732) [[Code](https://github.com/asappresearch/flop)]
 - 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) 
 - 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)
 - 2020-NIPS-[SCOP: Scientific Control for Reliable Neural Network Pruning](https://papers.nips.cc/paper/2020/hash/7bcdf75ad237b8e02e301f4091fb6bc8-Abstract.html)
