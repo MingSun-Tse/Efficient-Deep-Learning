@@ -374,6 +374,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-ICML-[Collaborative Channel Pruning for Deep Networks](http://proceedings.mlr.press/v97/peng19c.html)
 - 2019-ICML-[Training CNNs with Selective Allocation of Channels](http://proceedings.mlr.press/v97/jeong19c.html)
 - 2019-ICML-[NAS-Bench-101: Towards Reproducible Neural Architecture Search](https://arxiv.org/abs/1902.09635) [[Code](https://github.com/google-research/nasbench)]
+- 2019-ICML-[Learning fast algorithms for linear transforms using butterfly factorizations](https://arxiv.org/abs/1903.05895)
 - 2019-ICMLw-[Towards Learning of Filter-Level Heterogeneous Compression of Convolutional Neural Networks](https://arxiv.org/abs/1904.09872) [[Code](https://github.com/yochaiz/Slimmable)] (AutoML workshop)
 - 2019-IJCAI-[Play and Prune: Adaptive Filter Pruning for Deep Model Compression](https://arxiv.org/abs/1905.04446)
 - 2019-BigComp-[Towards Robust Compressed Convolutional Neural Networks](https://ieeexplore.ieee.org/abstract/document/8679132)
@@ -526,6 +527,8 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution](https://arxiv.org/abs/2106.02295)
 - 2021-ICML-[Communication-Efficient Distributed Optimization with Quantized Preconditioners](https://arxiv.org/abs/2102.07214)
 - 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)]
+- 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
+- 2021.12-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 
