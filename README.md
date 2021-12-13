@@ -31,6 +31,8 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 
 ## Papers [Pruning and Quantization]
 **1980s,1990s**
+- 1988-NIPS-[A back-propagation algorithm with optimal use of hidden units](https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Paper.pdf)
+- 1989-NIPS-[Dynamic Behavior of Constained Back-Propagation Networks](https://proceedings.neurips.cc/paper/1989/hash/85d8ce590ad8981ca2c8286f79f59954-Abstract.html)
 - 1989-NIPS-[Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment](https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf)
 - 1989-NIPS-[Comparing Biases for Minimal Network Construction with Back-Propagation](https://papers.nips.cc/paper/1988/file/1c9ac0159c94d8d0cbedc973445af2da-Paper.pdf)
 - 1989-NIPS-[What Size Net Gives Valid Generalization?](https://papers.nips.cc/paper/1988/file/1d7f7abc18fcb43975065399b0d1e48e-Paper.pdf)
