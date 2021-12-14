@@ -20,6 +20,8 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
 - 2018.8-[A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/abs/1808.04752)
 - 2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
+- 2020-MLSys-[What is the state of neural network pruning](https://arxiv.org/abs/2003.03033)
+- 2019.02-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf)
 - 2021-TPAMI-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
 - 2021-IJCV-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
@@ -405,7 +407,6 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2019-PR-[Filter-in-Filter: Improve CNNs in a Low-cost Way by Sharing Parameters among the Sub-filters of a Filter](https://www.sciencedirect.com/science/article/abs/pii/S0031320319300640)
 - 2019-PRL-[BDNN: Binary Convolution Neural Networks for Fast Object Detection](https://www.sciencedirect.com/science/article/abs/pii/S0167865519301096)
 - 2019-TNNLS-[Towards Compact ConvNets via Structure-Sparsity Regularized Filter Pruning](https://arxiv.org/abs/1901.07827) [[Code](https://github.com/ShaohuiLin/SSR)]
-- 2019.02-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf) (Review)
 - 2019.03-[Network Slimming by Slimmable Networks: Towards One-Shot Architecture Search for Channel Numbers](https://arxiv.org/abs/1903.11728) [[Code](https://github.com/JiahuiYu/slimmable_networks)]
 - 2019.03-[Single Path One-Shot Neural Architecture Search with Uniform Sampling](https://arxiv.org/abs/1904.00420)
 - 2019.04-[Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/abs/1904.02422)
