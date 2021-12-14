@@ -80,6 +80,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 **2016**
 - 2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [Best paper!]
 - 2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
+- 2016-ICLR-[Data-dependent Initializations of Convolutional Neural Networks](https://arxiv.org/abs/1511.06856) [[Code](https://github.com/philkr/magic_init)]
 - 2016-ICLR-[Convolutional neural networks with low-rank regularization](https://arxiv.org/abs/1511.06067) [[Code](https://github.com/chengtaipu/lowrankcnn)]
 - 2016-ICLR-[Diversity networks](https://pdfs.semanticscholar.org/3f08/1a7d2dbdcd10d71d0340721e4857a73ed7ee.pdf)
 - 2016-ICLR-[Neural networks with few multiplications](https://arxiv.org/abs/1510.03009)
