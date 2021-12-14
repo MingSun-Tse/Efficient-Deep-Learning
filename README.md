@@ -37,6 +37,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 1989-NIPS-[Dynamic Behavior of Constained Back-Propagation Networks](https://proceedings.neurips.cc/paper/1989/hash/85d8ce590ad8981ca2c8286f79f59954-Abstract.html)
 - 1988-NIPS-[Comparing Biases for Minimal Network Construction with Back-Propagation](https://papers.nips.cc/paper/1988/file/1c9ac0159c94d8d0cbedc973445af2da-Paper.pdf)
 - 1989-NIPS-[Optimal Brain Damage](https://papers.nips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
+- 1990-NN-[A simple procedure for pruning back-propagation trained neural networks](https://ieeexplore.ieee.org/abstract/document/80236)
 - 1993-ICNN-[Optimal Brain Surgeon and general network pruning](https://ieeexplore.ieee.org/abstract/document/298572?casa_token=8a8fUVuadHEAAAAA:tgRbetEERx1Bdh6RCa27mok9SAPNc8Y33qy2ScdTNOCs_ajHlaUv4_nnvDNJp3jZbb13uouD)
 
 **2000s**
