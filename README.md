@@ -575,6 +575,9 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[A Unified Lottery Ticket Hypothesis for Graph Neural Networks](http://proceedings.mlr.press/v139/chen21p.html)
 - 2021-ICML-[Efficient Lottery Ticket Finding: Less Data is More](http://proceedings.mlr.press/v139/zhang21c.html)
 - 2021-NIPS-[The Elastic Lottery Ticket Hypothesis](https://arxiv.org/abs/2103.16547) [[Code](https://github.com/VITA-Group/ElasticLTH)]
+- 2021-NIPS-[Training Neural Networks with Fixed Sparse Masks](https://proceedings.neurips.cc/paper/2021/hash/cb2653f548f8709598e8b5156738cc51-Abstract.html) [[Code](https://github.com/varunnair18/FISH)]
+- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)] (Spotlight!)
+- 2021-ACL-[Parameter-Efficient Transfer Learning with Diff Pruning](https://arxiv.org/abs/2012.07463)
 
 
 ### Papers [Bayesian Compression]
