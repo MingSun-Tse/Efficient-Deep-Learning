@@ -27,10 +27,9 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 - 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
-- 2021.2-[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
+- 2021-JMLR-[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
 - 2021.6-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
 - 2021.5-[Emerging Paradigms of Neural Network Pruning](https://arxiv.org/abs/2103.06460)
-
 
 
 ## Papers [Pruning and Quantization]
@@ -533,14 +532,14 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Training Quantized Neural Networks to Global Optimality via Semidefinite Programming](https://arxiv.org/abs/2105.01420)
 - 2021-ICML-[Differentiable Dynamic Quantization with Mixed Precision and Adaptive Resolution](https://arxiv.org/abs/2106.02295)
 - 2021-ICML-[Communication-Efficient Distributed Optimization with Quantized Preconditioners](https://arxiv.org/abs/2102.07214)
-- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)]
+- 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)] (Spotlight!)
 - 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
 - 2021.12-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 
 ### Papers [Lottery Ticket Hypothesis (LTH)]
-For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-Pruning-at-Initialzation](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialzation). 
+For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-Pruning-at-Initialization](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). 
 
 ### Papers [Bayesian Compression]
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
