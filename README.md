@@ -535,11 +535,16 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICML-[Communication-Efficient Distributed Optimization with Quantized Preconditioners](https://arxiv.org/abs/2102.07214)
 - 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)] (Spotlight!)
 - 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
-- 2021-NIPS-[Channel Permutations for N: M Sparsity](https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html) [[Code: NVIDIA ASP](https://github.com/NVIDIA/apex/tree/master/apex/contrib/sparsity)]
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 **2022**
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
+
+### Papers [Actual Acceleration via Sparsity]
+- 2018-NIPS-[Tetris: Tile-matching the tremendous irregular sparsity](https://papers.nips.cc/paper/2018/hash/89885ff2c83a10305ee08bd507c1049c-Abstract.html)
+- 2021.4-[Accelerating Sparse Deep Neural Networks](https://arxiv.org/abs/2104.08378) (White paper from NVIDIA)
+- 2021-NIPS-[Channel Permutations for N: M Sparsity](https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html) [[Code: NVIDIA ASP](https://github.com/NVIDIA/apex/tree/master/apex/contrib/sparsity)]
+
 
 ### Papers [Lottery Ticket Hypothesis (LTH)]
 For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-Pruning-at-Initialization](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). 
@@ -756,7 +761,6 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - Huawei: [HiAI](https://developer.huawei.com/consumer/cn/hiai)
 - ARM: [Tengine](https://github.com/OAID/Tengine/)
 - Related: [DAWNBench: An End-to-End Deep Learning Benchmark and Competition](https://dawn.cs.stanford.edu//benchmark/index.html)
-- 2021.4-[Accelerating Sparse Deep Neural Networks]()
 
 ## Related Repos and Websites
 - [Awesome-NAS](https://github.com/D-X-Y/Awesome-NAS)
