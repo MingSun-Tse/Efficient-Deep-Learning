@@ -45,6 +45,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 
 **2000s**
 - 2001-JMLR-[Sparse Bayesian learning and the relevance vector machine](https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
+- 2007-Book-[The minimum description length principle]()
 
 **2011**
 - 2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
@@ -770,3 +771,4 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - [ImageNet Benckmark](https://paperswithcode.com/sota/image-classification-on-imagenet)
 - [Self-supervised ImageNet Benckmark](https://paperswithcode.com/sota/self-supervised-image-classification-on)
 - [NVIDIA Blog with Sparsity Tag](https://developer.nvidia.com/blog/tag/sparsity/)
+- [NVIDIA blog: Sparsity-AI-Inference](https://blogs.nvidia.com/blog/2020/05/14/sparsity-ai-inference/)
