@@ -510,6 +510,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2021-ICLR-[Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) [[PyTorch Code](https://github.com/MingSun-Tse/Regularization-Pruning)]
 - 2021-ICLR-[Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP)
 - 2021-ICLR-[ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations](https://openreview.net/forum?id=xCxXwTzx4L1)
+- 2021-ICLR-[A Gradient Flow Framework For Analyzing Network Pruning](https://openreview.net/forum?id=rumv7QmLUue) (Spotlight)
 - 2021-CVPR-[Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
 - 2021-CVPR-[Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
 - 2021-CVPR-[Learnable Companding Quantization for Accurate Low-bit Neural Networks](https://arxiv.org/abs/2103.07156)
