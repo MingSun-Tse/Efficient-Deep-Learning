@@ -28,8 +28,8 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 - 2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
 - 2021-JMLR-[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
+- 2022-IJCAI-[Recent Advances on Neural Network Pruning at Initialization](https://arxiv.org/abs/2103.06460)
 - 2021.6-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
-- 2021.5-[Emerging Paradigms of Neural Network Pruning](https://arxiv.org/abs/2103.06460)
 
 
 ## Papers [Pruning and Quantization]
@@ -540,6 +540,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 
 **2022**
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
+- 2022-ECCV-[Trainability Preserving Neural Structured Pruning]() [[Code](https://github.com/mingsun-tse/TPP)]
 
 ### Papers [Actual Acceleration via Sparsity]
 - 2018-NIPS-[Tetris: Tile-matching the tremendous irregular sparsity](https://papers.nips.cc/paper/2018/hash/89885ff2c83a10305ee08bd507c1049c-Abstract.html)
@@ -694,6 +695,10 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - 2021-ICML-[Simultaneous Similarity-based Self-Distillation for Deep Metric Learning]()
 - 2021-NIPS-[Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation](https://papers.nips.cc/paper/2021/file/75fc093c0ee742f6dddaa13fff98f104-Paper.pdf) [[Code](https://github.com/canqin001/Efficient_Graph_Similarity_Computation)]
 
+**2022**
+- 2022-ECCV-[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261) [Code](https://github.com/snap-research/R2L)
+
+
 ## Papers [AutoML (NAS etc.)]
 - 2016.11-[Neural architecture search with reinforcement learning](https://arxiv.org/abs/1611.01578)
 - 2019-CVPR-[Searching for A Robust Neural Architecture in Four GPU Hours](https://github.com/D-X-Y/GDAS/blob/master/data/GDAS.pdf) [[Code](https://github.com/D-X-Y/GDAS)]
@@ -714,6 +719,7 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - 2020-NIPS-[Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation](https://papers.nips.cc/paper/2020/hash/ec1f764517b7ffb52057af6df18142b7-Abstract.html)
 - 2020-NIPS-[Hierarchical Neural Architecture Search for Deep Stereo Matching](https://papers.nips.cc/paper/2020/hash/fc146be0b230d7e0a92e66a6114b840d-Abstract.html)
 
+*
 
 ## Papers [Interpretability]
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
