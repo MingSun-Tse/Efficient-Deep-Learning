@@ -543,6 +543,7 @@ Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-t
 - 2022-ECCV-[Trainability Preserving Neural Structured Pruning]() [[Code](https://github.com/mingsun-tse/TPP)]
 
 ### Papers [Actual Acceleration via Sparsity]
+- 2018-ICML-[Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435)
 - 2018-NIPS-[Tetris: Tile-matching the tremendous irregular sparsity](https://papers.nips.cc/paper/2018/hash/89885ff2c83a10305ee08bd507c1049c-Abstract.html)
 - 2021.4-[Accelerating Sparse Deep Neural Networks](https://arxiv.org/abs/2104.08378) (White paper from NVIDIA)
 - 2021-NIPS-[Channel Permutations for N: M Sparsity](https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html) [[Code: NVIDIA ASP](https://github.com/NVIDIA/apex/tree/master/apex/contrib/sparsity)]
