@@ -8,7 +8,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 - matrix/low-rank decomposition
 - knowledge distillation (KD)
 
-Note, this repo is more about pruning (with lottery ticket hypothesis as a sub-topic), KD, and quantization. For other topics like NAS, see more comprehensive collections (## Related Repos and Websites) at the end of this file. Welcome to send a pull request if you'd like to add any pertinent papers.
+Note, this repo is more about pruning (with lottery ticket hypothesis or LTH as a sub-topic), KD, and quantization. For other topics like NAS, see more comprehensive collections (## Related Repos and Websites) at the end of this file. Welcome to send a pull request if you'd like to add any pertinent papers.
+
+LTH (lottery ticket hypothesis) and its broader version, *pruning at initialization (PaI)*, now is at the frontier of network pruning. We single out the PaI papers to [this repo](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). Welcome to check it out!
 
 > About abbreviation: In the list below, `o` for oral, `s` for spotlight, `b` for best paper, `w` for workshop.
 
@@ -755,6 +757,9 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - MLPCD Workshop (Machine Learning on the Phone and other Consumer Devices): [2nd-2018-NIPSw](https://sites.google.com/view/nips-2018-on-device-ml/home)
 - [Workshop on Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 - [2020 CVPR Workshop on NAS](https://sites.google.com/view/cvpr20-nas/program)
+
+## Books & Courses
+- [TinyML and Efficient Deep Learning](https://efficientml.ai/) @MIT by Prof. Song Han
 
 ## Lightweight DNN Engines/APIs
 - [NNPACK](https://github.com/Maratyszcza/NNPACK)
