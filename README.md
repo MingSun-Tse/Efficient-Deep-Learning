@@ -542,7 +542,6 @@ LTH (lottery ticket hypothesis) and its broader version, *pruning at initializat
 
 **2022**
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
-- 2022-ECCV-[Trainability Preserving Neural Structured Pruning]() [[Code](https://github.com/mingsun-tse/TPP)]
 
 ### Papers [Actual Acceleration via Sparsity]
 - 2018-ICML-[Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435)
