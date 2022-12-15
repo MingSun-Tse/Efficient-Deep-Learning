@@ -540,9 +540,53 @@ LTH (lottery ticket hypothesis) and its broader version, *pruning at initializat
 - 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
-**2022**
+#### 2022
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
+- 2022-NIPS-[Pruning has a disparate impact on model accuracy](https://openreview.net/forum?id=11nMVZK0WYM)
+- 2022-NIPS-[Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions](https://openreview.net/forum?id=btpIaJiRx6z)
+- 2022-NIPS-[Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning](https://openreview.net/forum?id=ksVGCOlOEba)
+- 2022-NIPS-[Data-Efficient Structured Pruning via Submodular Optimization](https://openreview.net/forum?id=K2QGzyLwpYG)
+- 2022-NIPS-[A Fast Post-Training Pruning Framework for Transformers](https://openreview.net/forum?id=0GRBKLBjJE)
+- 2022-NIPS-[SAViT: Structure-Aware Vision Transformer Pruning via Collaborative Optimization](https://openreview.net/forum?id=w5DacXWzQ-Q)
+- 2022-NIPS-[Recall Distortion in Neural Network Pruning and the Undecayed Pruning Algorithm](https://openreview.net/forum?id=5hgYi4r5MDp)
+- 2022-NIPS-[Structural Pruning via Latency-Saliency Knapsack](https://openreview.net/forum?id=cUOR-_VsavA)
+- 2022-NIPS-[Sparse Probabilistic Circuits via Pruning and Growing](https://openreview.net/forum?id=KieCChVB6mN)
+- 2022-NIPS-[Back Razor: Memory-Efficient Transfer Learning by Self-Sparsified Backpropogation](https://openreview.net/forum?id=mTXQIpXPDbh)
+- 2022-NIPS-[SInGE: Sparsity via Integrated Gradients Estimation of Neuron Relevance](https://openreview.net/forum?id=oQIJsMlyaW_)
+- 2022-NIPS-[VTC-LFC: Vision Transformer Compression with Low-Frequency Components](https://openreview.net/forum?id=HuiLIB6EaOk)
+- 2022-NIPS-[Weighted Mutual Learning with Diversity-Driven Model Compression](https://openreview.net/forum?id=UQJoGBNRX4)
+- 2022-NIPS-[Resource-Adaptive Federated Learning with All-In-One Neural Composition](https://openreview.net/forum?id=wfel7CjOYk)
+- 2022-NIPS-[Controlled Sparsity via Constrained Optimization or: How I Learned to Stop Tuning Penalties and Love Constraints](https://openreview.net/forum?id=XUvSYc6TqDF)
+- 2022-NIPS-[On Measuring Excess Capacity in Neural Networks](https://openreview.net/forum?id=l2CVt1ySC2Q)
+- 2022-NIPS-[Prune and distill: similar reformatting of image information along rat visual cortex and deep neural networks](https://openreview.net/forum?id=2OpRgzLhoPQ)
+- 2022-NIPS-[Deep Compression of Pre-trained Transformer Models](https://openreview.net/forum?id=EZQnauHn-77)
+- 2022-NIPS-[Sparsity in Continuous-Depth Neural Networks](https://openreview.net/forum?id=HZ20IYYAwah)
+- 2022-NIPS-[Spartan: Differentiable Sparsity via Regularized Transportation](https://openreview.net/forum?id=u4KagP_FjB)
+- 2022-NIPS-[Accelerated Projected Gradient Algorithms for Sparsity Constrained Optimization Problems](https://openreview.net/forum?id=0Z0xltoU1q)
+- 2022-NIPS-[Feature Learning in L2-regularized DNNs: Attraction/Repulsion and Sparsity](https://openreview.net/forum?id=kK200QKfvjB)
+- 2022-NIPS-[Learning Best Combination for Efficient N:M Sparsity](https://openreview.net/forum?id=tbdk6XLYmZj)
+- 2022-NIPS-[Accelerating Sparse Convolution with Column Vector-Wise Sparsity](https://openreview.net/forum?id=Q5kXC6hCr1)
+- 2022-NIPS-[Differentially Private Model Compression](https://openreview.net/forum?id=68EuccCtO5i)
+- 2022-NIPS-[Transformers meet Stochastic Block Models: Attention with Data-Adaptive Sparsity and Cost](https://openreview.net/forum?id=w_jvWzNXd6n)
+- 2022-NIPS-[A Win-win Deal: Towards Sparse and Robust Pre-trained Language Models](https://openreview.net/forum?id=UmaiVbwN1v)
+- 2022-NIPS-[Make Sharpness-Aware Minimization Stronger: A Sparsified Perturbation Approach](https://openreview.net/forum?id=88_wNI6ZBDZ)
+- 2022-NIPS-[Learning sparse features can lead to overfitting in neural networks](https://openreview.net/forum?id=dZEZu7zxJBF)
+- 2022-NIPS-[Deep Architecture Connectivity Matters for Its Convergence: A Fine-Grained Analysis](https://openreview.net/forum?id=edgCBcwZxgd)
+- 2022-NIPS-[EfficientFormer: Vision Transformers at MobileNet Speed](https://openreview.net/forum?id=NXHXoYMLIG)
+- 2022-NIPS-[Revisiting Sparse Convolutional Model for Visual Recognition](https://openreview.net/forum?id=INzRLBAA4JX)
+- 2022-NIPS-[Efficient Spatially Sparse Inference for Conditional GANs and Diffusion Models](https://openreview.net/forum?id=AUz5Oig77OS)
+- 2022-NIPS-[A Theoretical View on Sparsely Activated Networks](https://openreview.net/forum?id=AODVskSug8)
+- 2022-NIPS-[Dynamic Sparse Network for Time Series Classification: Learning What to “See”](https://openreview.net/forum?id=ZxOO5jfqSYw)
+- 2022-NIPS-[Spatial Pruned Sparse Convolution for Efficient 3D Object Detection](https://openreview.net/forum?id=QqWqFLbllZh)
+- 2022-NIPS-[Sparse Structure Search for Delta Tuning](https://openreview.net/forum?id=oOte_397Q4P)
+- 2022-NIPS-[Beyond L1: Faster and Better Sparse Models with skglm](https://openreview.net/forum?id=n0dD3d54Wgf)
+- 2022-NIPS-[On the Representation Collapse of Sparse Mixture of Experts](https://openreview.net/forum?id=mWaYC6CZf5)
+- 2022-NIPS-[M³ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design](https://openreview.net/forum?id=cFOhdl1cyU-)
+- 2022-NIPS-[On-Device Training Under 256KB Memory](https://openreview.net/forum?id=zGvRdBW06F5)
+- 2022-NIPS-[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://openreview.net/forum?id=rBCvMG-JsPd)
 
+
+---
 ### Papers [Actual Acceleration via Sparsity]
 - 2018-ICML-[Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435)
 - 2018-NIPS-[Tetris: Tile-matching the tremendous irregular sparsity](https://papers.nips.cc/paper/2018/hash/89885ff2c83a10305ee08bd507c1049c-Abstract.html)
@@ -550,11 +594,13 @@ LTH (lottery ticket hypothesis) and its broader version, *pruning at initializat
 - 2021-NIPS-[Channel Permutations for N: M Sparsity](https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html) [[Code: NVIDIA ASP](https://github.com/NVIDIA/apex/tree/master/apex/contrib/sparsity)]
 - 2021-NIPS-[Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks](https://openreview.net/forum?id=vRWZsBLKqA)
 - 2021-ICLR-[Learning N:M fine-grained structured sparse neural networks from scratch](https://arxiv.org/abs/2102.04010) [[Code](https://github.com/NM-sparsity/NM-sparsity)] [[Slides](https://iclr.cc/media/iclr-2021/Slides/3174.pdf)]
+- 2022-NIPS-[UDC: Unified DNAS for Compressible TinyML Models for Neural Processing Units](https://openreview.net/forum?id=ZJe-XahpyBf)
 
-
+---
 ### Papers [Lottery Ticket Hypothesis (LTH)]
 For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-Pruning-at-Initialization](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). 
 
+---
 ### Papers [Bayesian Compression]
 - 1995-Neural Computation-[Bayesian Regularisation and Pruning using a Laplace Prior](https://www.researchgate.net/profile/Peter_Williams19/publication/2719575_Bayesian_Regularisation_and_Pruning_using_a_Laplace_Prior/links/58fde123aca2728fa70f6aab/Bayesian-Regularisation-and-Pruning-using-a-Laplace-Prior.pdf)
 - 1997-Neural Networks-[Regularization with a Pruning Prior](https://www.sciencedirect.com/science/article/pii/S0893608097000270?casa_token=sLb4dFBnyH8AAAAA:a9WwAAoYl5CgLepZGXjZ5DKQ4YBEjINgGd7Jl2bPHqrbhIWZHso-uC_gpL-85JmdxG7g8x71)
@@ -564,6 +610,7 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - 2017-NIPSo-[Structured Bayesian Pruning via Log-Normal Multiplicative Noise](http://papers.nips.cc/paper/7254-structured-bayesian-pruning-via-log-normal-multiplicative-noise)
 - 2017-ICMLw-[Bayesian Sparsification of Recurrent Neural Networks](https://arxiv.org/abs/1708.00077)
 - 2020-NIPS-[Bayesian Bits: Unifying Quantization and Pruning](https://papers.nips.cc/paper/2020/hash/3f13cf4ddf6fc50c0d39a1d5aeb57dd8-Abstract.html)
+
 
 
 ## Papers [Knowledge Distillation (KD)]
@@ -697,8 +744,9 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - 2021-ICML-[Simultaneous Similarity-based Self-Distillation for Deep Metric Learning]()
 - 2021-NIPS-[Slow Learning and Fast Inference: Efficient Graph Similarity Computation via Knowledge Distillation](https://papers.nips.cc/paper/2021/file/75fc093c0ee742f6dddaa13fff98f104-Paper.pdf) [[Code](https://github.com/canqin001/Efficient_Graph_Similarity_Computation)]
 
-**2022**
+#### 2022
 - 2022-ECCV-[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261) [Code](https://github.com/snap-research/R2L)
+- 2022-NIPS-[An Analytical Theory of Curriculum Learning in Teacher-Student Networks](https://openreview.net/forum?id=4d_tnQ_agHI)
 
 
 ## Papers [AutoML (NAS etc.)]
