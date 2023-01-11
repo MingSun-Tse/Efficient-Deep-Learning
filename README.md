@@ -10,7 +10,9 @@ A collection of recent methods on DNN compression and acceleration. There are ma
 
 Note, this repo is more about pruning (with lottery ticket hypothesis or LTH as a sub-topic), KD, and quantization. For other topics like NAS, see more comprehensive collections (## Related Repos and Websites) at the end of this file. Welcome to send a pull request if you'd like to add any pertinent papers.
 
-LTH (lottery ticket hypothesis) and its broader version, *pruning at initialization (PaI)*, now is at the frontier of network pruning. We single out the PaI papers to [this repo](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). Welcome to check it out!
+Other repos:
+- LTH (lottery ticket hypothesis) and its broader version, *pruning at initialization (PaI)*, now is at the frontier of network pruning. We single out the PaI papers to [this repo](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). Welcome to check it out!
+- [Awesome-Efficient-ViT](https://github.com/MingSun-Tse/Awesome-Efficient-ViT) for a curated list of efficient vision transformers.
 
 > About abbreviation: In the list below, `o` for oral, `s` for spotlight, `b` for best paper, `w` for workshop.
 
@@ -591,10 +593,12 @@ LTH (lottery ticket hypothesis) and its broader version, *pruning at initializat
 - 2018-ICML-[Efficient Neural Audio Synthesis](https://arxiv.org/abs/1802.08435)
 - 2018-NIPS-[Tetris: Tile-matching the tremendous irregular sparsity](https://papers.nips.cc/paper/2018/hash/89885ff2c83a10305ee08bd507c1049c-Abstract.html)
 - 2021.4-[Accelerating Sparse Deep Neural Networks](https://arxiv.org/abs/2104.08378) (White paper from NVIDIA)
+- 2021-ICLR-[Learning N:M Fine-grained Structured Sparse Neural Networks From Scratch](https://openreview.net/forum?id=K9bw7vqp_s) [[Code](https://github.com/NM-sparsity/NM-sparsity)]
 - 2021-NIPS-[Channel Permutations for N: M Sparsity](https://proceedings.neurips.cc/paper/2021/hash/6e8404c3b93a9527c8db241a1846599a-Abstract.html) [[Code: NVIDIA ASP](https://github.com/NVIDIA/apex/tree/master/apex/contrib/sparsity)]
 - 2021-NIPS-[Accelerated Sparse Neural Training: A Provable and Efficient Method to Find N:M Transposable Masks](https://openreview.net/forum?id=vRWZsBLKqA)
 - 2021-ICLR-[Learning N:M fine-grained structured sparse neural networks from scratch](https://arxiv.org/abs/2102.04010) [[Code](https://github.com/NM-sparsity/NM-sparsity)] [[Slides](https://iclr.cc/media/iclr-2021/Slides/3174.pdf)]
 - 2022-NIPS-[UDC: Unified DNAS for Compressible TinyML Models for Neural Processing Units](https://openreview.net/forum?id=ZJe-XahpyBf)
+
 
 ---
 ### Papers [Lottery Ticket Hypothesis (LTH)]
