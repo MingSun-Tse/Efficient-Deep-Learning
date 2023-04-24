@@ -506,6 +506,7 @@ Other repos:
 - 2020-NIPS-[Efficient Exact Verification of Binarized Neural Networks](https://papers.nips.cc/paper/2020/hash/1385974ed5904a438616ff7bdb3f7439-Abstract.html)
 - 2020-NIPS-[Ultra-Low Precision 4-bit Training of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13b919438259814cd5be8cb45877d577-Abstract.html)
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
+- 2020-NIPS-[Fast fourier convolution](https://papers.nips.cc/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html)
 
 **2021**
 - 2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Code](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
@@ -540,6 +541,7 @@ Other repos:
 - 2021-ICML-[Communication-Efficient Distributed Optimization with Quantized Preconditioners](https://arxiv.org/abs/2102.07214)
 - 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)] (Spotlight!)
 - 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
+- 2021-NIPS-[Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://proceedings.neurips.cc/paper/2021/file/a376033f78e144f494bfc743c0be3330-Paper.pdf) [[Code](https://github.com/tianyic/only_train_once)]
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 #### 2022
@@ -587,6 +589,10 @@ Other repos:
 - 2022-NIPS-[On-Device Training Under 256KB Memory](https://openreview.net/forum?id=zGvRdBW06F5)
 - 2022-NIPS-[Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://openreview.net/forum?id=rBCvMG-JsPd)
 
+#### 2023
+- 2023-ICLR-[Trainability Preserving Neural Pruning](https://arxiv.org/abs/2207.12534) [[Code](https://github.com/MingSun-Tse/TPP)]
+- 2023-ICLR-[NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) [[Code](https://github.com/YiteWang/NTK-SAP)]
+- 
 
 ---
 ### Papers [Actual Acceleration via Sparsity]
@@ -603,6 +609,7 @@ Other repos:
 ---
 ### Papers [Lottery Ticket Hypothesis (LTH)]
 For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-Pruning-at-Initialization](https://github.com/MingSun-Tse/Awesome-Pruning-at-Initialization). 
+
 
 ---
 ### Papers [Bayesian Compression]
