@@ -487,6 +487,7 @@ Other repos:
 - 2020-ICML-[Network Pruning by Greedy Subnetwork Selection](https://arxiv.org/abs/2003.01794)
 - 2020-ICML-[AutoGAN-Distiller: Searching to Compress Generative Adversarial Networks](https://arxiv.org/abs/2006.08198)
 - 2020-ICML-[Soft Threshold Weight Reparameterization for Learnable Sparsity](https://arxiv.org/abs/2002.03231) [[PyTorch Code](https://github.com/RAIVNLab/STR)]
+- 2020-ICML-[Activation sparsity: Inducing and exploiting activation sparsity for fast inference on deep neural networks](http://proceedings.mlr.press/v119/kurtz20a/kurtz20a.pdf)
 - 2020-EMNLP-[Structured Pruning of Large Language Models](https://arxiv.org/abs/1910.04732) [[Code](https://github.com/asappresearch/flop)]
 - 2020-NIPS-[Pruning neural networks without any data by iteratively conserving synaptic flow](https://papers.nips.cc/paper/2020/hash/46a4378f835dc8040c8057beb6a2da52-Abstract.html) 
 - 2020-NIPS-[Neuron-level Structured Pruning using Polarization Regularizer](https://papers.nips.cc/paper/2020/hash/703957b6dd9e3a7980e040bee50ded65-Abstract.html)
