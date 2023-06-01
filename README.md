@@ -543,6 +543,7 @@ Other repos:
 - 2021-NIPS-[Aligned Structured Sparsity Learning for Efficient Image Super-Resolution](https://papers.nips.cc/paper/2021/file/15de21c670ae7c3f6f3f1f37029303c9-Paper.pdf) [[Code](https://github.com/MingSun-Tse/ASSL)] (Spotlight!)
 - 2021-NIPS-[Scatterbrain: Unifying Sparse and Low-rank Attention](https://arxiv.org/abs/2110.15343) [[Code](https://github.com/HazyResearch/scatterbrain)]
 - 2021-NIPS-[Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://proceedings.neurips.cc/paper/2021/file/a376033f78e144f494bfc743c0be3330-Paper.pdf) [[Code](https://github.com/tianyic/only_train_once)]
+- 2021-NIPS-[CHIP: CHannel Independence-based Pruning for Compact Neural Networks](http://128.84.21.203/pdf/2110.13981) [[Code](https://github.com/Eclipsess/CHIP_NeurIPS2021)]
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 #### 2022
