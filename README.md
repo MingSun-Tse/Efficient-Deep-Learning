@@ -547,6 +547,7 @@ Other repos:
 - 2021.5-[Dynamical Isometry: The Missing Ingredient for Neural Network Pruning](https://arxiv.org/abs/2105.05916)
 
 #### 2022
+- 2022-AAAI-[Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better](https://arxiv.org/abs/2112.09824) [[Code](https://github.com/bibikar/feddst)]
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
 - 2022-NIPS-[Pruning has a disparate impact on model accuracy](https://openreview.net/forum?id=11nMVZK0WYM)
 - 2022-NIPS-[Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions](https://openreview.net/forum?id=btpIaJiRx6z)
