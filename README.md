@@ -549,6 +549,7 @@ Other repos:
 #### 2022
 - 2022-AAAI-[Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better](https://arxiv.org/abs/2112.09824) [[Code](https://github.com/bibikar/feddst)]
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
+- 2022-ICML-[DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks](https://arxiv.org/abs/2206.00843)
 - 2022-NIPS-[Pruning has a disparate impact on model accuracy](https://openreview.net/forum?id=11nMVZK0WYM)
 - 2022-NIPS-[Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions](https://openreview.net/forum?id=btpIaJiRx6z)
 - 2022-NIPS-[Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning](https://openreview.net/forum?id=ksVGCOlOEba)
@@ -597,6 +598,7 @@ Other repos:
 - 2023-ICLR-[NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) [[Code](https://github.com/YiteWang/NTK-SAP)]
 - 2023-CVPR-[DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900)[[code](https://github.com/VainF/Torch-Pruning)]
 - 2023-CVPR-[CP3: Channel Pruning Plug-in for Point-based Networks](https://arxiv.org/abs/2303.13097)
+- 2023-ICML-[Efficient Latency-Aware CNN Depth Compression via Two-Stage Dynamic Programming](https://arxiv.org/abs/2301.12187) [[Code](https://github.com/snu-mllab/Efficient-CNN-Depth-Compression)]
 
 ---
 ### Papers [Actual Acceleration via Sparsity]
