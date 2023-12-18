@@ -508,6 +508,7 @@ Other repos:
 - 2020-NIPS-[Ultra-Low Precision 4-bit Training of Deep Neural Networks](https://papers.nips.cc/paper/2020/hash/13b919438259814cd5be8cb45877d577-Abstract.html)
 - 2020-NIPS-[Path Sample-Analytic Gradient Estimators for Stochastic Binary Networks](https://papers.nips.cc/paper/2020/hash/96fca94df72984fc97ee5095410d4dec-Abstract.html)
 - 2020-NIPS-[Fast fourier convolution](https://papers.nips.cc/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html)
+- 2020-NIPS-[Structured Convolutions for Efficient Neural Network Design](https://arxiv.org/abs/2008.02454)
 
 **2021**
 - 2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Code](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
@@ -549,6 +550,7 @@ Other repos:
 #### 2022
 - 2022-AAAI-[Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better](https://arxiv.org/abs/2112.09824) [[Code](https://github.com/bibikar/feddst)]
 - 2022-ICLR-[Pixelated Butterfly: Simple and Efficient Sparse training for Neural Network Models](https://arxiv.org/abs/2112.00029)
+- 2022-ICML-[DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks](https://arxiv.org/abs/2206.00843)
 - 2022-NIPS-[Pruning has a disparate impact on model accuracy](https://openreview.net/forum?id=11nMVZK0WYM)
 - 2022-NIPS-[Pruning Neural Networks via Coresets and Convex Geometry: Towards No Assumptions](https://openreview.net/forum?id=btpIaJiRx6z)
 - 2022-NIPS-[Optimal Brain Compression: A Framework for Accurate Post-Training Quantization and Pruning](https://openreview.net/forum?id=ksVGCOlOEba)
@@ -607,6 +609,8 @@ Other repos:
 - 2023-ICML-[A Three-regime Model of Network Pruning](https://proceedings.mlr.press/v202/zhou23p.html) [[code](https://github.com/YefanZhou/ThreeRegimePruning)]
 - 2023-ICML-[Instant Soup: Cheap Pruning Ensembles in A Single Pass Can Draw Lottery Tickets from Large Models](https://proceedings.mlr.press/v202/jaiswal23b.html) [[code](https://github.com/VITA-Group/instant_soup)]
 - 2023-ICML-[Pruning via Sparsity-indexed ODE: a Continuous Sparsity Viewpoint](https://proceedings.mlr.press/v202/mo23c/mo23c.pdf) [[code](https://github.com/mzf666/sparsity-indexed-ode)]
+- 2023-ICML-[Efficient Latency-Aware CNN Depth Compression via Two-Stage Dynamic Programming](https://arxiv.org/abs/2301.12187) [[Code](https://github.com/snu-mllab/Efficient-CNN-Depth-Compression)]
+
 
 ---
 ### Papers [Actual Acceleration via Sparsity]
@@ -794,7 +798,7 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 - 2020-NIPS-[Auto-Panoptic: Cooperative Multi-Component Architecture Search for Panoptic Segmentation](https://papers.nips.cc/paper/2020/hash/ec1f764517b7ffb52057af6df18142b7-Abstract.html)
 - 2020-NIPS-[Hierarchical Neural Architecture Search for Deep Stereo Matching](https://papers.nips.cc/paper/2020/hash/fc146be0b230d7e0a92e66a6114b840d-Abstract.html)
 
-*
+
 
 ## Papers [Interpretability]
 - 2010-JMLR-[How to explain individual classification decisions](http://www.jmlr.org/papers/v11/baehrens10a.html)
