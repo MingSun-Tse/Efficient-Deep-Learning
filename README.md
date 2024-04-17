@@ -804,6 +804,7 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 
 #### 2022
 
+-   2022-CVPR-[Knowledge Distillation with the Reused Teacher Classifier](https://arxiv.org/abs/2203.14001) [[Code](https://github.com/DefangChen/SimKD)]
 -   2022-ECCV-[R2L: Distilling Neural Radiance Field to Neural Light Field for Efficient Novel View Synthesis](https://arxiv.org/abs/2203.17261) [Code](https://github.com/snap-research/R2L)
 -   2022-NIPS-[An Analytical Theory of Curriculum Learning in Teacher-Student Networks](https://openreview.net/forum?id=4d_tnQ_agHI)
 
