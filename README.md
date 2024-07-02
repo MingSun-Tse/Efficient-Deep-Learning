@@ -794,6 +794,7 @@ For LTH and other _Pruning at Initialization_ papers, please refer to [Awesome-P
 -   2021-CVPR-[Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273) [[PyTorch Code](https://github.com/MingiJi/FRSKD)]
 -   2021-CVPR-[Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367)
 -   2021-CVPR-[Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044) [[Code](https://github.com/dvlab-research/ReviewKD)]
+-   2021-CVPR-[Data-Free Knowledge Distillation For Image Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Data-Free_Knowledge_Distillation_for_Image_Super-Resolution_CVPR_2021_paper.pdf)
 -   2021-ICML-[KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation]()
 -   2021-ICML-[A statistical perspective on distillation]()
 -   2021-ICML-[Training data-efficient image transformers & distillation through attention]()
