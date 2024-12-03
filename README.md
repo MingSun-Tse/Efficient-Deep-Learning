@@ -28,20 +28,20 @@ Other repos:
 -   2018-IEEE Signal Processing Magazine-[Model compression and acceleration for deep neural networks: The principles, progress, and challenges](https://ieeexplore.ieee.org/abstract/document/8253600). [Arxiv extension](https://arxiv.org/abs/1710.09282)
 -   2018.8-[A Survey on Methods and Theories of Quantized Neural Networks](https://arxiv.org/abs/1808.04752)
 -   2019-JMLR-[Neural Architecture Search: A Survey](http://www.jmlr.org/papers/volume20/18-598/18-598.pdf)
+-   2019.2-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf)
 -   2020-MLSys-[What is the state of neural network pruning](https://arxiv.org/abs/2003.03033)
--   2019.02-[The State of Sparsity in Deep Neural Networks](https://arxiv.org/pdf/1902.09574.pdf)
 -   2021-TPAMI-[Knowledge Distillation and Student-Teacher Learning for Visual Intelligence: A Review and New Outlooks](https://arxiv.org/abs/2004.05937)
 -   2021-IJCV-[Knowledge Distillation: A Survey](https://arxiv.org/abs/2006.05525)
 -   2020-Proceedings of the IEEE-[Model Compression and Hardware Acceleration for Neural Networks: A Comprehensive Survey](https://ieeexplore.ieee.org/abstract/document/9043731)
--   2020-Pattern Recognition-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
+-   2020-PR-[Binary neural networks: A survey](https://www.sciencedirect.com/science/article/pii/S0031320320300856?casa_token=Foe2l0h1AXUAAAAA:z7DaP-QSVCNApUpTsrftp3f2SBfcNj2AH_B0cbzPH4r8BR-cGSns16p1-CQtY7vXuexlPd_Y)
 -   2021-TPDS-[The Deep Learning Compiler: A Comprehensive Survey](https://arxiv.org/abs/2002.03794)
 -   2021-JMLR-[Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://arxiv.org/abs/2102.00554)
--   2022-IJCAI-[Recent Advances on Neural Network Pruning at Initialization](https://arxiv.org/abs/2103.06460)
 -   2021.6-[Efficient Deep Learning: A Survey on Making Deep Learning Models Smaller, Faster, and Better](https://arxiv.org/abs/2106.08962)
+-   2022-IJCAI-[Recent Advances on Neural Network Pruning at Initialization](https://arxiv.org/abs/2103.06460)
 
 ## Papers [Pruning and Quantization]
 
-**1980s,1990s**
+#### 1980s,1990s
 
 -   1988-NIPS-[A back-propagation algorithm with optimal use of hidden units](https://proceedings.neurips.cc/paper/1988/file/9fc3d7152ba9336a670e36d0ed79bc43-Paper.pdf)
 -   1988-NIPS-[Skeletonization: A Technique for Trimming the Fat from a Network via Relevance Assessment](https://papers.nips.cc/paper/1988/file/07e1cd7dca89a1678042477183b7ac3f-Paper.pdf)
@@ -49,26 +49,27 @@ Other repos:
 -   1989-NIPS-[Dynamic Behavior of Constained Back-Propagation Networks](https://proceedings.neurips.cc/paper/1989/hash/85d8ce590ad8981ca2c8286f79f59954-Abstract.html)
 -   1988-NIPS-[Comparing Biases for Minimal Network Construction with Back-Propagation](https://papers.nips.cc/paper/1988/file/1c9ac0159c94d8d0cbedc973445af2da-Paper.pdf)
 -   1989-NIPS-[Optimal Brain Damage](https://papers.nips.cc/paper/1989/file/6c9882bbac1c7093bd25041881277658-Paper.pdf)
+-   1989-Physical Review A-[Pruning versus clipping in neural networks](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.39.6600)
 -   1990-NN-[A simple procedure for pruning back-propagation trained neural networks](https://ieeexplore.ieee.org/abstract/document/80236)
 -   1992-NIPS-[Second order derivatives for network pruning: Optimal Brain Surgeon](https://proceedings.neurips.cc/paper_files/paper/1992/hash/303ed4c69846ab36c2904d3ba8573050-Abstract.html)
 -   1993-ICNN-[Optimal Brain Surgeon and general network pruning](https://ieeexplore.ieee.org/abstract/document/298572?casa_token=8a8fUVuadHEAAAAA:tgRbetEERx1Bdh6RCa27mok9SAPNc8Y33qy2ScdTNOCs_ajHlaUv4_nnvDNJp3jZbb13uouD)
 
-**2000s**
+#### 2000s
 
 -   2001-JMLR-[Sparse Bayesian learning and the relevance vector machine](https://www.jmlr.org/papers/volume1/tipping01a/tipping01a.pdf)
--   2007-Book-[The minimum description length principle]()
+-   2007-Book-[The minimum description length principle](https://mitpress.mit.edu/9780262529631/the-minimum-description-length-principle/)
 
-**2011**
+#### 2011
 
 -   2011-JMLR-[Learning with Structured Sparsity](http://www.jmlr.org/papers/v12/huang11b.html)
 -   2011-NIPSw-[Improving the speed of neural networks on CPUs](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.308.2766)
 
-**2013**
+#### 2013
 
 -   2013-NIPS-[Predicting Parameters in Deep Learning](http://papers.nips.cc/paper/5025-predicting-parameters-in-deep-learning)
 -   2013.08-[Estimating or Propagating Gradients Through Stochastic Neurons for Conditional Computation](https://arxiv.org/abs/1308.3432)
 
-**2014**
+#### 2014
 
 -   2014-BMVC-[Speeding up convolutional neural networks with low rank expansions](https://arxiv.org/abs/1405.3866)
 -   2014-INTERSPEECH-[1-Bit Stochastic Gradient Descent and its Application to Data-Parallel Distributed Training of Speech DNNs](https://www.isca-speech.org/archive/interspeech_2014/i14_1058.html)
@@ -76,7 +77,7 @@ Other repos:
 -   2014-NIPS-[Do deep neural nets really need to be deep](http://papers.nips.cc/paper/5484-do-deep-nets-really-need-to-be-deep)
 -   2014.12-[Memory bounded deep convolutional networks](https://arxiv.org/abs/1412.1442)
 
-**2015**
+#### 2015
 
 -   2015-ICLR-[Speeding-up convolutional neural networks using fine-tuned cp-decomposition](https://arxiv.org/abs/1412.6553)
 -   2015-ICML-[Compressing neural networks with the hashing trick](http://proceedings.mlr.press/v37/chenc15.pdf)
@@ -94,7 +95,7 @@ Other repos:
 -   2015-ICCV-[An Exploration of Parameter Redundancy in Deep Networks with Circulant Projections](https://www.cv-foundation.org/openaccess/content_iccv_2015/html/Cheng_An_Exploration_of_ICCV_2015_paper.html)
 -   2015.12-[Exploiting Local Structures with the Kronecker Layer in Convolutional Networks](https://arxiv.org/abs/1512.09194)
 
-**2016**
+#### 2016
 
 -   2016-ICLR-[Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding](https://arxiv.org/abs/1510.00149) [Best paper!]
 -   2016-ICLR-[All you need is a good init](https://arxiv.org/abs/1511.06422) [[Code](https://github.com/ducha-aiki/LSUVinit)]
@@ -129,7 +130,7 @@ Other repos:
 -   2016.10-[Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
 -   2016.11-[Alternating Direction Method of Multipliers for Sparse Convolutional Neural Networks](https://arxiv.org/abs/1611.01590)
 
-**2017**
+#### 2017
 
 -   2017-ICLR-[Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) [[PyTorch Reimpl. #1](https://github.com/Eric-mingjie/rethinking-network-pruning/tree/master/imagenet/l1-norm-pruning)] [[PyTorch Reimpl. #2](https://github.com/MingSun-Tse/Regularization-Pruning)]
 -   2017-ICLR-[Pruning Convolutional Neural Networks for Resource Efficient Inference](https://openreview.net/forum?id=SJGCiw5gl&noteId=SJGCiw5gl)
@@ -193,7 +194,7 @@ Other repos:
 -   2017.11-[GPU Kernels for Block-Sparse Weights](https://openai.com/blog/block-sparse-gpu-kernels/) [[Code](https://github.com/openai/blocksparse)] (OpenAI)
 -   2017.11-[Block-sparse recurrent neural networks](https://arxiv.org/abs/1711.02782)
 
-**2018**
+#### 2018
 
 -   2018-AAAI-[Auto-balanced Filter Pruning for Efficient Convolutional Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16450/16263)
 -   2018-AAAI-[Deep Neural Network Compression with Single and Multiple Level Quantization](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16479/16742)
@@ -329,7 +330,7 @@ Other repos:
 -   2018.11-[Second-order Optimization Method for Large Mini-batch: Training ResNet-50 on ImageNet in 35 Epochs](https://arxiv.org/abs/1811.12019)
 -   2018.11-[PydMobileNet: Improved Version of MobileNets with Pyramid Depthwise Separable Convolution](https://arxiv.org/abs/1811.07083)
 
-**2019**
+#### 2019
 
 -   2019-MLSys-[Towards Federated Learning at Scale: System Design](https://arxiv.org/pdf/1902.01046.pdf)
 -   2019-MLsys-[To compress or not to compress: Understanding the Interactions between Adversarial Attacks and Neural Network Compression
@@ -447,7 +448,7 @@ Other repos:
 -   2019.11-[Adversarial Interpolation Training: A Simple Approach for Improving Model Robustness](https://openreview.net/forum?id=Syejj0NYvr)
 -   2019.11-[A Programmable Approach to Model Compression](https://arxiv.org/abs/1911.02497) [[Code](https://github.com/NVlabs/condensa)]
 
-**2020**
+#### 2020
 
 -   2020-AAAI-[Pconv: The missing but desirable sparsity in dnn weight pruning for real-time execution on mobile devices](https://arxiv.org/abs/1909.05073)
 -   2020-AAAI-[Channel Pruning Guided by Classification Loss and Feature Importance](https://arxiv.org/abs/2003.06757)
@@ -526,7 +527,7 @@ Other repos:
 -   2020-NIPS-[Fast fourier convolution](https://papers.nips.cc/paper/2020/hash/2fd5d41ec6cfab47e32164d5624269b1-Abstract.html)
 -   2020-NIPS-[Structured Convolutions for Efficient Neural Network Design](https://arxiv.org/abs/2008.02454)
 
-**2021**
+#### 2021
 
 -   2021-WACV-[CAP: Context-Aware Pruning for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2021/papers/He_CAP_Context-Aware_Pruning_for_Semantic_Segmentation_WACV_2021_paper.pdf) [[Code](https://github.com/erichhhhho/CAP-Context-Aware-Pruning-for-Semantic-Segmentation)]
 -   2021-AAAI-[Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450)
@@ -541,6 +542,7 @@ Other repos:
 -   2021-CVPR-[Diversifying Sample Generation for Accurate Data-Free Quantization](https://arxiv.org/abs/2103.01049)
 -   2021-CVPR-[Zero-shot Adversarial Quantization](https://arxiv.org/abs/2103.15263) [Oral] [[Code](https://github.com/FLHonker/ZAQ-code)]
 -   2021-CVPR-[Network Quantization with Element-wise Gradient Scaling](https://arxiv.org/abs/2104.00903) [[Project](https://cvlab.yonsei.ac.kr/projects/EWGS/)]
+-   2021-CVPR-[Convolutional Neural Network Pruning with Structural Redundancy Reduction](https://arxiv.org/abs/2104.03438)
 -   2021-ICML-[Group Fisher Pruning for Practical Network Compression](http://proceedings.mlr.press/v139/liu21ab.html) [[Code](https://github.com/jshilong/FisherPruning)]
 -   2021-ICML-[Accelerate CNNs from Three Dimensions: A Comprehensive Pruning Framework](http://proceedings.mlr.press/v139/wang21e.html)
 -   2021-ICML-[A Probabilistic Approach to Neural Network Pruning](https://arxiv.org/abs/2105.10065)
