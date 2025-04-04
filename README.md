@@ -19,6 +19,9 @@ Other repos:
 
 > About abbreviation: In the list below, `o` for oral, `s` for spotlight, `b` for best paper, `w` for workshop.
 
+## Books
+- 2022-[Low-Power Computer Vision](https://www.taylorfrancis.com/books/edit/10.1201/9781003162810/low-power-computer-vision-yung-hsiang-lu-yiran-chen-jaeyoun-kim-bo-chen-george-thiruvathukal)
+
 ## Surveys
 
 -   1993-TNN-[Pruning Algorithms -- A survey](https://ieeexplore.ieee.org/abstract/document/248452?casa_token=eJan5NO1DxwAAAAA:chz9BYf22tIO4RHt6nC_x4nbTeTslXiLMrvQElnrXZGbg9fn4c-Alonhq8UYWhT86gXFGO2_)
